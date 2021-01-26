@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Mauro Maver"
 
 output: 
   html_document:
@@ -11,10 +11,10 @@ output:
     #theme: lumen
 ---   
 
-# Hello, Website!
+## Hello 1
 
-# Hello 2
+## Hello 2
 
-# Hello 3
+## Hello 3
 
-# hello 4
+## Hello 4
