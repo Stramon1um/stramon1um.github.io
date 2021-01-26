@@ -1,6 +1,18 @@
 ---
 title: "My Website"
 
----
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      toc_collapsed: false
+    toc_depth: 2
+    # number_sections: true
+    #theme: lumen
+---   
 
-Hello, Website!
+# Hello, Website!
+
+# Hello 2
+
+# Hello 3
