@@ -7,10 +7,10 @@ navbar:
   right:
     - icon: fa-paper-plane
       href: mailto:mauromaver@gmail.com
-    #- icon: fa-github
-      #href: 
-    #- icon: fa-twitter
-      #href: 
+    - icon: fa-github
+      href: https://github.com/Stramon1um
+    - icon: fa-twitter
+      href: https://twitter.com/Stramon1um
     #- icon: fa-linkedin
       #href: 
 output:
