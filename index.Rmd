@@ -1,5 +1,5 @@
 ---
-title: "Mauro Maver"
+title: "Mauro Maver, PhD"
 
 output: 
   html_document:
@@ -11,10 +11,50 @@ output:
     #theme: lumen
 ---   
 
-## Hello 1
+**Post-Doc researcher**  
+Faculty of Science and Technology  
+Free University of Bolzano-Bozen, Bolzano, Italy  
+ORCiD: [0000-0002-8162-3618](https://orcid.org/0000-0002-8162-3618)
 
-## Hello 2
+---
 
-## Hello 3
+## Pubblications
 
-## Hello 4
+- Kolega S, Miras-Moreno B, Buffagni V, Lucini L, Valentinuzzi F, **Maver M**, Mimmo T, Trevisan M, Pii Y & Cesco S. Nutraceutical profiles of two hydroponically grown sweet basil cultivars as affected by the composition of the nutrient solution and the inoculation with *Azospirillum brasilense*. *Frontiers in plant science* (2020) - [10.3389/fpls.2020.596000](https://dx.doi.org/10.3389%2Ffpls.2020.596000)
+
+- **Maver M**, Miras-Moreno B, Lucini L, Trevisan M, Pii Y, Cesco S & Mimmo T. New insights in the allelopathic traits of different barley genotypes: Middle Eastern and Tibetan wild-relative accessions vs. cultivated modern barley. *PloS One* (2020) - [10.1371/journal.pone.0231976](https://doi.org/10.1371/journal.pone.0231976)
+
+- Marastoni L, Pii Y, **Maver M**, Valentinuzzi F, Cesco S & Mimmo T. Role of *Azospirillum brasilense* in triggering different Fe chelate reductase enzymes in cucumber plants subjected to both nutrient deficiency and toxicity. *Plant Physiology and Biochemistry* (2019) - [10.1016/j.plaphy.2019.01.013](https://doi.org/10.1016/j.plaphy.2019.01.013)
+
+- Vigani G, Pii Y, Celletti S, **Maver M**, Mimmo T, Cesco S & Astolfi S. Mitochondria dysfunctions under Fe and S deficiency: is citric acid involved in the regulation of adaptive responses?. *Plant Physiology and Biochemistry* (2018) - [10.17660/ActaHortic.2018.1217.48](https://doi.org/10.17660/ActaHortic.2018.1217.48)
+
+- Valentinuzzi F, **Maver M**, Fontanari S, Mott D, Savini G, Tiziani R, Pii Y, Mimmo T & Cesco S. Foliar application of potassium-based fertilizer improves strawberry fruit quality. *VIII International Symposium on Mineral Nutrition of Fruit Crops* (2017) - [10.1016/j.plaphy.2018.02.022](https://doi.org/10.1016/j.plaphy.2018.02.022)
+
+- Vigani G, Faoro F, Ferretti AM, Cantele F, Maffi D, Marelli M, **Maver M**, Murgia I & Zocchi G. Three-dimensional reconstruction by TEM tomography of the ultrastructural modifications occurring in *Cucumis sativus* L. mitochondria under Fe deficiency. *PLoS One* (2015) - [10.1371/journal.pone.0129141](https://doi.org/10.1371/journal.pone.0129141)
+
+## Pre-prints
+
+- **Maver M**, Morris J, Hedley PE, Mimmo T & Bulgarelli D. The indole-alkaloid gramine shapes the bacterial communities thriving at the barley root-soil interface. *bioRxiv* (2020) - [10.1101/2020.12.07.414870](https://doi.org/10.1101/2020.12.07.414870)
+
+---
+
+## Education
+
+- **PhD** in *Mountain Environment and Agriculture*, 2020 (Free University of Bolzano-Bozen, Italy)
+- **Master Degree** in *Plant, Food and Agro-Environmental Biotechnology*, 2015 (University of Milano, Italy)
+- **Bachelor Degree** in *Plant, Food and Agro-Environmental Biotechnology*, 2013 (University of Milano, Italy)
+
+---
+
+## Awards
+
+- *"Award for the best poster"* - Vigani G, Faoro F, Ferretti AM, Cantele F, Maffi D, Marelli M, **Maver M**, Murgia I & Zocchi G. Ricostruzione tridimensionale, mediante tomografia elettronica, delle modificazioni ultrastrutturali di mitocondri indotti da una carenza di Fe in *Cucumis sativus* L. *Società Italiana di Chimica Agraria (SICA)*, Bolzano 7-9 September 2014, Italy.
+
+---
+
+## Skills
+
+- 
+- 
+
+---
