@@ -73,4 +73,5 @@ pre { /* Code block - determines code spacing between lines */
 }
 body{ /* Normal  */
       font-size: 16px;
+      text-align: justify;
   }
