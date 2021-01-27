@@ -47,7 +47,8 @@ h1 { /* Header 1 */
   color: MidnightBlue;
 }
 h2 { /* Header 2 */
-    font-size: 28px;
+  font-size: 24px;
+  font-weight: bold;  
   color: #117A65;
 }
 h3 { /* Header 3 */
