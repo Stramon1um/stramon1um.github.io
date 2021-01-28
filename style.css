@@ -33,7 +33,7 @@ Code block  #2469e0; (hyperlinks)
     z-index: 2;
     color: #fffff;/* toc  highlighted text */
     font-weight: bold;
-    background-color: #363966;  /* toc highlight background dark blue purple */
+    background-color: #117A65;  /* toc highlight background dark blue purple */
     border-color: #363966; /* toc border */
 }
 
@@ -52,7 +52,7 @@ h2 { /* Header 2 */
   color: #117A65;
 }
 h3 { /* Header 3 */
-  font-size: 22px;
+  font-size: 20px;
   color: #0E6655;
 }
 h4 { /* Header 4 */
