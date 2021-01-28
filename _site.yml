@@ -7,12 +7,14 @@ navbar:
   right:
     - icon: fa-envelope
       href: mailto:mauromaver@gmail.com
+    - icon: fa-graduation-cap
+      href: https://scholar.google.it/citations?user=ZUUEM0sAAAAJ&hl=it
     - icon: fa-github
       href: https://github.com/Stramon1um
     - icon: fa-twitter
       href: https://twitter.com/Stramon1um
-    #- icon: fa-linkedin
-      #href: 
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/mauro-maver-633525b6/
 output:
   html_document:
     theme: cosmo
