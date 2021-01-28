@@ -9,12 +9,19 @@ output:
     toc_depth: 2
     # number_sections: true
     #theme: lumen
----   
+---
 
-**Post-Doc researcher**  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(icon)
+```
+
+<!-- <img src="mauro_simple_info.svg" style="float:right" width="100" height="100" id="hp"/>  -->
+<!-- <right>![](mauro_url.png)</right> -->
+**Post-Doc researcher**  <img style="float: left; margin: 0px 10px 0px 0px;" src="mauro_simple_info.svg" width="90" />  
 Faculty of Science and Technology  
 Free University of Bolzano-Bozen, Bolzano, Italy  
-ORCiD: [0000-0002-8162-3618](https://orcid.org/0000-0002-8162-3618)
+ORCiD: [0000-0002-8162-3618](https://orcid.org/0000-0002-8162-3618)  
 
 ---
 
@@ -54,6 +61,20 @@ ORCiD: [0000-0002-8162-3618](https://orcid.org/0000-0002-8162-3618)
 
 ## Skills
 
-- 
-- 
+### Computational
+- Scientific computing with R
+- HTML documents, websites, and reports with Rmarkdown 
+- Various bioinformatics tools for sequencing and taxonomy
+- Version control with Git
+- Basic programming in Python and LaTeX   
+
+### Lab
+- Hydroponic systems
+- HPLC-MS
+- DNA/RNA purification
+- PCR & Metabarcoding
+- Electrophoresis
+
 ---
+
+## About me
