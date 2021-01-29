@@ -15,6 +15,12 @@ navbar:
       href: https://twitter.com/Stramon1um
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/mauro-maver-633525b6/
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "About me"
+      icon: fa-info
+      href: about_me.html
 output:
   html_document:
     theme: cosmo
