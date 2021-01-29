@@ -76,6 +76,3 @@ ORCiD: [0000-0002-8162-3618](https://orcid.org/0000-0002-8162-3618)
 - PCR & Metabarcoding
 - Electrophoresis
 
----
-
-## About me
