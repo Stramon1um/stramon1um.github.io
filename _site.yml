@@ -9,11 +9,11 @@ navbar:
       href: mailto:mauromaver@gmail.com
     - icon: fa-graduation-cap
       href: https://scholar.google.it/citations?user=ZUUEM0sAAAAJ&hl=it
-    - icon: fa-github
+    - icon: fab fa-github
       href: https://github.com/Stramon1um
-    - icon: fa-twitter
+    - icon: fab fa-twitter
       href: https://twitter.com/Stramon1um
-    - icon: fa-linkedin
+    - icon: fab fa-linkedin
       href: https://www.linkedin.com/in/mauro-maver-633525b6/
   left:
     - icon: fa-home
