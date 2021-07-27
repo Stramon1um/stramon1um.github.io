@@ -20,7 +20,8 @@ library(icon)
 <!-- <right>![](mauro_url.png)</right> -->
 <!-- **Post-Doc researcher**  <img style="float: left; margin: 0px 10px 0px 0px;" src="mauro_simple_info.svg" width="90" />   -->
 **Post-Doc researcher**  
-Faculty of Science and Technology  
+Competence Centre for Plant Health  
+<!-- Faculty of Science and Technology   -->
 Free University of Bolzano-Bozen, Bolzano, Italy  
 ORCiD: [0000-0002-8162-3618](https://orcid.org/0000-0002-8162-3618)  
 
@@ -42,7 +43,7 @@ ORCiD: [0000-0002-8162-3618](https://orcid.org/0000-0002-8162-3618)
 
 ## Pre-prints
 
-- **Maver M**, Morris J, Hedley PE, Mimmo T & Bulgarelli D. The indole-alkaloid gramine shapes the bacterial communities thriving at the barley root-soil interface. *bioRxiv* (2020) - [10.1101/2020.12.07.414870](https://doi.org/10.1101/2020.12.07.414870)
+- **Maver M**, Escudero-Martinez C, Abbott J, Morris J, Hedley PE, Mimmo T & Bulgarelli D. Applications of the indole-alkaloid gramine shape the prokaryotic microbiota thriving at the barley root-soil interface. *bioRxiv* (2021) - [10.1101/2020.12.07.414870](https://doi.org/10.1101/2020.12.07.414870)
 
 ---
 
