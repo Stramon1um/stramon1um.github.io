@@ -25,9 +25,13 @@ Competence Centre for Plant Health
 Free University of Bolzano-Bozen, Bolzano, Italy  
 ORCiD: [0000-0002-8162-3618](https://orcid.org/0000-0002-8162-3618)  
 
+*Last Update: 22/11/2021*
+
 ---
 
 ## Publications
+
+- **Maver M**, Escudero-Martinez C, Abbott J, Morris J, Hedly PE, Mimmo T & Bulgarelli D. Applications of the indole-alkaloid gramine modulate the assembly of individual members of the barley rhizosphere microbiota. *PeerJ* (2021) - [10.7717/peerj.12498](https://doi.org/10.7717/peerj.12498)
 
 - Kolega S, Miras-Moreno B, Buffagni V, Lucini L, Valentinuzzi F, **Maver M**, Mimmo T, Trevisan M, Pii Y & Cesco S. Nutraceutical profiles of two hydroponically grown sweet basil cultivars as affected by the composition of the nutrient solution and the inoculation with *Azospirillum brasilense*. *Frontiers in plant science* (2020) - [10.3389/fpls.2020.596000](https://dx.doi.org/10.3389%2Ffpls.2020.596000)
 
