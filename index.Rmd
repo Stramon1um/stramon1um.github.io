@@ -13,7 +13,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(icon)
+library(icons)
 ```
 
 <!-- <img src="mauro_simple_info.svg" style="float:right" width="100" height="100" id="hp"/>  -->
@@ -46,6 +46,8 @@ ORCiD: [0000-0002-8162-3618](https://orcid.org/0000-0002-8162-3618)
 - Vigani G, Faoro F, Ferretti AM, Cantele F, Maffi D, Marelli M, **Maver M**, Murgia I & Zocchi G. Three-dimensional reconstruction by TEM tomography of the ultrastructural modifications occurring in *Cucumis sativus* L. mitochondria under Fe deficiency. *PLoS One* (2015) - [10.1371/journal.pone.0129141](https://doi.org/10.1371/journal.pone.0129141)
 
 ## Pre-prints
+
+- Escudero-Martinez C, Coulter M, Alegria Terrazas R, Foito A, Kapadia R, Pietrangelo L, **Maver M**, Sharma R, Aprile A, Morris J, Hedley P, Maurer A, Pillen K, Naclerio G, Mimmo T, Abbott J, Waugh R, Barton G & Bulgarelli D. Identifying Plant Genes Shaping Microbiota Composition in the Barley Rhizosphere. *bioRxiv* (2021) - [10.1101/2021.12.20.472907](https://doi.org/10.1101/2021.12.20.472907)
 
 - **Maver M**, Escudero-Martinez C, Abbott J, Morris J, Hedley PE, Mimmo T & Bulgarelli D. Applications of the indole-alkaloid gramine shape the prokaryotic microbiota thriving at the barley root-soil interface. *bioRxiv* (2021) - [10.1101/2020.12.07.414870](https://doi.org/10.1101/2020.12.07.414870)
 
