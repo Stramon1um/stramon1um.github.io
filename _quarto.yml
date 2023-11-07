@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "Mauro Maver"
   #site-url: "https://www.quarto.org" # da cambiare una volta pubblicato, necessario per creazione FEED
