@@ -1,0 +1,33 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/posts_it/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog_ga.html",
+    "items": [
+      "/posts/posts_ga/CopyOfpost di prova/index.html"
+    ]
+  },
+  {
+    "listing": "/blog_it.html",
+    "items": [
+      "/posts/posts_it/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog_en.html",
+    "items": [
+      "/posts/posts_en/post-with-code/index.html"
+    ]
+  }
+]

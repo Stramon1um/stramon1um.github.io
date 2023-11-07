@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "Mauro Maver"
+  #site-url: "https://www.quarto.org" # da cambiare una volta pubblicato, necessario per creazione FEED
+  description: "Test di blog"
+  favicon: foto.png
+  twitter-card: true
+  open-graph: true
+  search: false
+  navbar:
+    background: primary
+    right:
+      - text: Home
+        href: index.html
+      - text: Research
+        href: papers.html
+      # - text: Posts
+      #   menu:
+      #     - text: Blog IT 🇮🇹
+      #       href: blog_it.qmd
+      #     - text: Blog GA 🇮🇪
+      #       href: blog_ga.qmd
+      #     - text: Blog EN 🇬🇧
+      #       href: blog_en.qmd
+      - icon: envelope-fill
+        url: "mailto:mauromaver@gmail.com"
+      - icon: mortarboard-fill
+        url: https://scholar.google.it/citations?user=ZUUEM0sAAAAJ&hl=en
+      # - icon: rss
+      #   href: blog_it.xml
+  page-footer:
+    background: primary
+    
+format:
+  html:
+    # mainfont: "Lucida Console, monospace"
+    theme: 
+      light: cosmo
+      dark: [cosmo, dark_css.scss]
+    css: styles.css
+
+editor: source
+

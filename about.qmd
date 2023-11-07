@@ -1,0 +1,31 @@
+---
+title: "Research Activity"
+format: html
+page-layout: full
+---
+
+:::: {.columns}
+
+::: {.column width=40%}
+
+<!-- <p style="font-size: 12px;">Contenuto Colonna 1</p> -->
+
+::: {.test style="font-size:30px;color:blue"}
+
+## test
+
+:::
+
+:::
+
+::: {.column width=5%}
+
+:::
+
+::: {.column width=20%}
+
+## test 2
+
+:::
+
+::::

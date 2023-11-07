@@ -1,0 +1,111 @@
+---
+title: "Research Activity"
+format: html
+page-layout: full
+---
+
+:::: {.columns}
+
+::: {.column width=45%}
+
+::: {.style style="font-size:16px;text-align:justify"}
+
+## 2022
+
+-   **The interplay between nitrogenated allelochemicals, mineral nutrition and metabolic profile in barley roots.** *Maver M*, Trevisan F, Miras-Moreno B, Lucini L, Trevisan M, Cesco S & Mimmo T. 2022. *Plant and Soil*. [DOI](https://doi.org/10.1007/s11104-022-05553-8)
+
+-   **Identifying plant genes shaping microbiota composition in the barley rhizosphere.** Escudero-Martinez C, Coulter M, Alegria Terrazas R, Foito A, Kapadia R, Pietrangelo L, *Maver M*, Sharma R, Aprile A, Hedley PE, Maurer A, Pillen K, Naclerio G, Mimmo T, Barton GJ, Waugh R, Abbott J & Bulgarelli D. 2022. *Nature Communications*. [DOI](https://doi.org/10.1038/s41467-022-31022-y)
+
+-   **Plant species-specific impact of polyethylene microspheres on seedling growth and the metabolome.** Bouaicha O, Tiziani R, *Maver M*, Lucini L, Miras-Moreno B, Zhang L, Trevisan M, Cesco S, Borruso L & Mimmo T. 2022. *Science of the Total Environment*. [DOI](https://doi.org/10.1016/j.scitotenv.2022.156678)
+
+## 2021
+
+-   **Applications of the indole-alkaloid gramine modulate the assembly of individual members of the barley rhizosphere microbiota.** *Maver M*, Escudero-Martinez C, Abbott J, Morris J, Hedly PE, Mimmo T & Bulgarelli D. 2021. *PeerJ*. [DOI](https://doi.org/10.7717/peerj.12498)
+
+## 2020
+
+-   **Nutraceutical profiles of two hydroponically grown sweet basil cultivars as affected by the composition of the nutrient solution and the inoculation with *Azospirillum brasilense*.** Kolega S, Miras-Moreno B, Buffagni V, Lucini L, Valentinuzzi F, *Maver M*, Mimmo T, Trevisan M, Pii Y & Cesco S. 2020. *Frontiers in plant science*. [DOI](https://dx.doi.org/10.3389%2Ffpls.2020.596000)
+
+-   **New insights in the allelopathic traits of different barley genotypes: Middle Eastern and Tibetan wild-relative accessions vs. cultivated modern barley.** *Maver M*, Miras-Moreno B, Lucini L, Trevisan M, Pii Y, Cesco S & Mimmo T. 2020. *PloS One*. [DOI](https://doi.org/10.1371/journal.pone.0231976)
+
+## 2019
+
+-   **Role of *Azospirillum brasilense* in triggering different Fe chelate reductase enzymes in cucumber plants subjected to both nutrient deficiency and toxicity.** Marastoni L, Pii Y, *Maver M*, Valentinuzzi F, Cesco S & Mimmo T. 2019. *Plant Physiology and Biochemistry*. [DOI](https://doi.org/10.1016/j.plaphy.2019.01.013)
+
+## 2018
+
+-   **Mitochondria dysfunctions under Fe and S deficiency: is citric acid involved in the regulation of adaptive responses?.** Vigani G, Pii Y, Celletti S, *Maver M*, Mimmo T, Cesco S & Astolfi S. 2018. *Plant Physiology and Biochemistry*. [DOI](https://doi.org/10.1016/j.plaphy.2018.02.022)
+
+## 2017
+
+-   **Foliar application of potassium-based fertilizer improves strawberry fruit quality.** Valentinuzzi F, *Maver M*, Fontanari S, Mott D, Savini G, Tiziani R, Pii Y, Mimmo T & Cesco S. 2017. *VIII International Symposium on Mineral Nutrition of Fruit Crops*. [DOI](https://doi.org/10.17660/ActaHortic.2018.1217.48)
+
+## 2015
+
+-   **Three-dimensional reconstruction by TEM tomography of the ultrastructural modifications occurring in *Cucumis sativus* L. mitochondria under Fe deficiency.** Vigani G, Faoro F, Ferretti AM, Cantele F, Maffi D, Marelli M, *Maver M*, Murgia I & Zocchi G. 2015. *PLoS One*. [DOI](https://doi.org/10.1371/journal.pone.0129141)
+
+:::
+
+:::
+
+::: {.column width="3%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="23%"}
+
+::: {.style style="font-size:17px;text-align:left;line-height:175%"}
+
+## 📚 Teaching
+
+#### Teaching Assistant 
+
+-   Biochemistry and physiology of agricultural plants
+-   Chemistry of fertilizers and mineral nutrition of grapevine 
+-   Mineral Nutrition
+
+## 🏆  Awards
+
+- *"Award for the Best Poster"*. 2014
+- *"Award for the Best PhD Thesis"*. 2022
+
+:::
+
+:::
+
+::: {.column width="3%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="23%"}
+
+::: {.style style="font-size:17px;text-align:left;line-height:175%"}
+
+## Skills
+
+#### 🖥️ Computational
+
+-   Scientific computing with R and Qiime
+-   HTML documents, websites, and reports with Rmarkdown/Quarto
+-   Various bioinformatics tools for sequencing and taxonomy
+-   Version control with Git
+-   Basic programming in Python and LaTeX
+
+#### 🧪 Lab
+
+-   Lab managment
+-   Lab tecnhical support
+-   Organizing & planning experiments
+-   Hydroponic systems
+-   HPLC-MS
+-   DNA/RNA purification
+-   PCR & Metabarcoding
+-   Electrophoresis
+-   Agar plating
+-   Barley and Arabidopsis plants
+
+:::
+
+:::
+
+::::
