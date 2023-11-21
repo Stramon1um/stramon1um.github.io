@@ -12,7 +12,7 @@ about:
       href: https://twitter.com/Stramon1um
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/mauro-maver-633525b6/
+      href: https://www.linkedin.com/in/mauro-maver-phd-633525b6/
     - icon: github
       text: Github
       href: https://github.com/Stramon1um
