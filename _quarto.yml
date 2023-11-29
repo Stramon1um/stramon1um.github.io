@@ -10,6 +10,7 @@ website:
   description: "Test di blog"
   favicon: foto.png
   twitter-card: true
+  google-analytics: "G-GEXKYETG1W"
   open-graph: true
   search: false
   navbar:
