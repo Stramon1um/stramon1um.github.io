@@ -1,9 +1,9 @@
 ---
-title: "Di tutto un po'..."
+title: "Gaelico Irlandese"
 listing:
-  contents: posts/posts_ga
+  contents: posts/posts_ga/*/index.qmd
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
   sort-ui: false
   filter-ui: false

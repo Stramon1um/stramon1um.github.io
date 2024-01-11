@@ -7,7 +7,7 @@ project:
 website:
   title: "Mauro Maver"
   #site-url: "https://www.quarto.org" # da cambiare una volta pubblicato, necessario per creazione FEED
-  description: "Test di blog"
+  description: "Portfolio"
   favicon: foto.png
   twitter-card: true
   google-analytics: "G-GEXKYETG1W"
@@ -47,3 +47,5 @@ format:
 
 editor: source
 
+execute:
+  freeze: auto # re-render only when source changes
