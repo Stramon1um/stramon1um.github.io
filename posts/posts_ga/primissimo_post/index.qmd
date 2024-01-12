@@ -1,0 +1,23 @@
+---
+title: "Primisso Post"
+author: "Mauro M"
+date: "2024-01-12"
+categories: [gaelico, irlandese, irlanda]
+image: "image.jpg"
+---
+
+Come nel 2012 tutto iniziò...
+
+::: {.callout-note appearance="minimal"}
+L'ora è tarda...
+ore 0.58 del 24 giugno 2012, apertura definitiva del mio blog! Era da tempo che ci avevo fatto un pensierino, e alla fine ho ceduto ed eccomi qua! Sto rifinendo i vari dettagli al blog, per renderlo allo stesso tempo semplice e accogliente.
+
+Alla prossima!
+
+Slán!
+:::
+
+Su una piattaforma di blog molto diversa e ormai datata, risalente al lontano 2012 (eh sì ripensandoci ora suona stranissimo), ho iniziato la mia avventura nel mondo dei blog. Da allora, l'idea di mantenerne uno non ha mai perso la sua rilevanza, nonostante alti e bassi che ne hanno portato quasi all'abbandono completo.
+
+Nelle prossime settimane, mi impegnerò a trasferire qui i post originariamente pubblicati sul mio vecchio [blog](https://gaelicoirlandese.blogspot.com). Questo nuovo spazio offre una maggiore versatilità e controllo dei contenuti, permettendomi di esprimere appieno la mia passione per la scrittura e condividere storie ed esperienze in modo più efficace.
+

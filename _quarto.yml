@@ -21,7 +21,8 @@ website:
         href: index.html
       - text: Research
         href: papers.html
-      # - text: Posts
+      - text: Blog 🇮🇪
+        href: blog_ga.qmd
       #   menu:
       #     - text: Blog IT 🇮🇹
       #       href: blog_it.qmd
