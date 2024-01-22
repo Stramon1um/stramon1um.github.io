@@ -1,5 +1,6 @@
 ---
 title: "Primisso Post"
+subtitle: "Si riparte!"
 author: "Mauro M"
 date: "2024-01-12"
 categories: [gaelico, irlandese, irlanda]
