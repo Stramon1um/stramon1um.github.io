@@ -1,0 +1,58 @@
+---
+title: "Alfabeto gaelico"
+subtitle: "Prima parte riguardante l'alfabeto"
+author: "Mauro M"
+date: "2024-02-07"
+categories: [gaelico, irlandese, alfabeto]
+image: "image.jpg"
+---
+
+## Aspetti generali
+
+Il gaelico utilizza sostanzialmente lo stesso alfabeto dell'italiano, ma normalmente solo le seguenti lettere vengono utilizzate: *a, b, c, d, e, f, g, h, i, l, m, n, o, p, r, s, t, u*.
+
+Le altre lettere possono comparire occasionalmente, in particolare *j e v*, per esempio "*jab*" per lavoro, e "*vóta*" per voto. Lettere come *j, q, v, w, x, z*, si ritrovano molto spesso in vocaboli scientifici e matematici.
+
+### Consonanti
+
+Nel gaelico, ogni consonante (ad eccezione della *h*) ha una forma *broad* (larga) e una forma *slender* (stretta) e il passaggio da una forma all'altra cambia il significato di una parola. La tipologia delle consonanti è data a seconda delle vocali adiacenti ad esse nella scrittura, in accordo con una delle più importanti regole del gaelico:
+
+::: {style="text-align: center"}
+***"Slender con slender e broad con broad"***
+
+*(Stretta con stretta e larga con larga)*
+:::
+
+Le consonanti slender sono sempre affiancate da vocali slender come *e* e *i*, mentre le consonanti broad sono affiancate da vocali broad come *a, o, u*. Ecco alcuni esempi:
+
+Broad :
+
+-   **p**ó**g** (la p e la g sono broad per la presenza di o)
+
+-   **f**o**c**a**l** (la f, la c e la l sono broad)
+
+Slender :
+
+-   **f**ei**c**eái**l** (la f, la c e la l sono slender per la presenza di e ed i)
+
+-   **d**ei**r**eadh (la d e la r sono slender)
+
+### Vocali
+
+Le vocali nel gaelico possono essere sia *lunghe* che *corte*. L'accento acuto indica una vocale lunga (es. á). Naturalmente, come avviene anche con le consonanti, l'utilizzo di una forma di vocale rispetto all'altra, cambia il significato di una parola, esempio "*páiste*" per bambino e "*paiste*" per pezza/rattoppo. Perciò abbiamo:
+
+Vocali *corte* :
+
+-   a, e, i, o, u
+
+Vocali *lunghe* :
+
+-   á, é, í, ó, ú
+
+Siccome solo poche vocali sono pronunciate mentre le altre indicano solo la tipologia di consonante (slender o broad), nel gaelico molte parole contengono sequenze di due o tre vocali, che possono rappresentare un solo suono.
+
+Continueremo la descrizione delle vocali nel gaelico nel prossimo post, affrontando anche alcuni aspetti della loro pronuncia.
+
+*Alla prossima!*
+
+*Slán go fóill!*
