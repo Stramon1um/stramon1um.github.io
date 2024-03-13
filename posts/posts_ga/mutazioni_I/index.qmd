@@ -1,0 +1,117 @@
+---
+title: "Mutazioni I: la Lenizione"
+subtitle: "Prima parte riguardante una delle principali mutazioni"
+author: "Mauro M"
+date: "2024-03-13"
+categories: [gaelico, irlandese, mutazioni]
+image: "image.jpg"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Dopo aver introdotto l'alfabeto gaelico, ci addentriamo ora nella vera
+grammatica. Oggi analizzeremo le famose lenizioni. Per completezza, il
+termine gaelico per lenizioni è *séimhíu*.
+
+Detto questo, possiamo cominciare!
+
+Le mutazioni, caratteristiche di tutte le lingue celtiche, modificano il
+suono di una parola in determinati contesti. Possono essere causate da
+una particolare parola o particella, da una specifica struttura
+grammaticale o da una combinazione delle due. Per lo più, le mutazioni
+coinvolgono le consonanti, anche se vi sono cambiamenti anche nelle
+vocali. È importante precisare che non tutte le consonanti sono soggette
+a mutazione.
+
+La mutazione più comune è la lenizione, che coinvolge nove consonanti in
+una vasta gamma di situazioni. Questa mutazione si manifesta con
+l'aggiunta di una "h" dopo la prima consonante della parola. Ecco
+l'elenco delle consonanti interessate dalla lenizione:
+
+-   **b** -> **bh** bán/bhán
+
+-   **c** -> **ch** cóta/chóta
+
+-   **d** -> **dh** dubh/dhubh
+
+-   **f** -> **fh** fuinneog/fhuinneog
+
+-   **g** -> **gh** gaoth/ghaoth
+
+-   **m** -> **mh** máthair/mháthair
+
+-   **p** -> **ph** póca/phóca
+
+-   **s** -> **sh** sagart/shagart
+
+-   **t** -> **th** teach/theach
+
+Come potete vedere, è facilmente riconoscibile dalla "h" subito dopo la
+prima consonante. Inoltre, le consonanti residue (*h, l, n, r*) non
+subiscono la mutazione. Ora elencherò alcuni dei contesti in cui è
+necessario utilizzare le lenizioni:
+
+-   Per caratterizzare il verbo in una frase (ad esempio, per renderlo
+    al passato):
+
+    -   **Tit mé** Io cado -> **Thit mé** Io caddi
+
+-   Per negare il verbo:
+
+    -   **Feic mé** Io vedo -> **Ní fheic mé** Io non vedo
+
+-   Per indicare il genere di un nome (maschile o femminile):
+
+    -   **an crann** l'albero **an chlann** la famiglia
+
+-   Nei casi di un aggettivo di un nome femminile:
+
+    -   **lá maith** buon giorno **oíche mhaith** buona notte
+
+-   In caso di particolari situazioni, come numeri, aggettivi
+    possessivi, preposizioni:
+
+    -   **teach amháin** una casa -> **trí theach** tre case
+
+    -   **a carr** la sua (di lei) macchina -> **a charr** la sua (di
+        lui) macchina
+
+    -   **ag Gearóid** a Gearóid -> **ó Gearóid** da Gearóid
+
+Nel corso del blog, ne incontreremo molti altri!
+
+In alcuni casi, vi è un blocco delle lenizioni. Questo avviene quando la
+"s" (sia larga che stretta) è seguita da una consonante come *p, t, c,
+f, m*. Perciò in questi casi, non si aggiunge la "h", anche se la
+situazione lo richiede. Ecco alcuni esempi:
+
+-   **an scian mhaith** il coltello buono -> anche se il nome è
+    femminile (si intuisce dall'aggettivo "maith = buono" che ha la
+    "h"), il nome resta immutato a causa della presenza di "c" dopo la
+    "s" iniziale;
+
+-   **trí sciorta** tre gonne -> anche se il nome segue il numero "trí
+    = tre", resta immutato a causa, ancora una volta, della "c" dopo la
+    "s" iniziale.
+
+Inoltre, non si verifica mutazione se le parole dopo l'articolo "an",
+equivalente a "the" in inglese, iniziano per *t, d, s*, anche se le
+altre consonanti sono mutate. Esempi:
+
+-   **an bhean bheag** la piccola donna
+
+-   **an tír bheag** la piccola terra
+
+-   **an ghloine mhór** la grande vetrata
+
+-   **an deoch mhór** il grande drink
+
+Come potete vedere, nonostante i nomi siano femminili (tír e deoch, come
+si nota dalla mutazione sull'aggettivo), il nome resta immutato perché
+inizia con "t" e "d" e segue l'articolo "an". Altre parole che evitano
+la mutazione di *t, d, s* sono **céad** "primo" e **agus** "e".
+
+*Alla prossima!*
+
+*Slán go fóill!*
