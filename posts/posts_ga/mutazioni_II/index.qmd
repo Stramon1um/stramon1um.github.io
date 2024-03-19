@@ -1,0 +1,82 @@
+---
+title: "Mutazioni II: l'Eclissi"
+subtitle: "Seconda parte riguardante una delle principali mutazioni"
+author: "Mauro M"
+date: "2024-03-19"
+categories: [gaelico, irlandese, mutazioni]
+image: "image.jpg"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Riassumendo, per quanto riguarda la grammatica finora abbiamo trattato:
+l'alfabeto, un minimo di fonetica e le lenizioni.
+
+Ora introdurrò la seconda parte delle mutazioni, presentando come da
+titolo, l'eclissi. Il termine gaelico per eclissi è *urú*.
+
+Bene, iniziamo!
+
+Le eclissi si verificano solo su determinate consonanti e sempre
+all'inizio delle parole. Questa mutazione è riconoscibile dal fatto che
+le consonanti vengono precedute da una determinata consonante (specifica
+per ogni consonante) e inoltre si genera una nuova pronuncia della
+parola mutata. Può sembrare complicato e articolato, ma con alcuni
+esempi tutto il procedimento si riduce a una semplice regola. Ecco
+l'elenco delle consonanti che possono essere "eclissate":
+
+-   **b** -> **mb** bord/mbord (tavolo)
+
+-   **c** -> **gc** cailín/gcailín (ragazza)
+
+-   **d** -> **nd** duine/nduine (persone)
+
+-   **f** -> **bhf** fuinneog/bhfuinneog (finestra)
+
+-   **g** -> **ng** gort/ngort (campo)
+
+-   **p** -> **bp** páiste/bpáiste (bambino)
+
+-   **t** -> **dt** trucail/dtrucail (carro)
+
+Come si può notare, le consonanti *l, m, n, q, r, s, v* non possono
+essere mutate e quindi rimangono normali nel caso in cui sia richiesta
+la mutazione. Come per le lenizioni, le eclissi di *t* e *d* sono
+bloccate dopo l'articolo an o in presenza di parole che terminano con
+*t, d, n*. Inoltre, le eclipsis prefissano con *n-* le parole che
+iniziano per vocale, tranne nei casi in cui le parole che generano la
+mutazione finiscano per *n*. Ad esempio:
+
+-   **seacht n-éan** sette uccelli [MA]{.underline} **in Éirinn** in
+    Irlanda
+
+La preposizione "in" genera la mutazione, ma in presenza di parole che
+iniziano per vocale, non causa alcun effetto. Ora elencherò alcuni dei
+contesti in cui sono presenti le eclipsis:
+
+-   Con diverse particelle pre-verbali:
+
+    -   **An bhfeiceann tú é?** Tu lo vedi?
+    
+    -   **Sílim go gcloisim ceol** Penso di sentire la musica
+    
+-   Nei numeri da 7 a 10:
+
+    -   **seacht dteach** sette case
+    
+-   Con gli aggettivi possessivi plurali:
+
+    -   **ár gcairde** i nostri amici
+    
+    -   **a gcarr** la loro macchina
+    
+-   Con la preposizione "i(n)" (che diventa "i n-") "in":
+
+    -   **i bPáras** a Parigi
+    
+    -   **i nGaillimh** a Galway
+
+*Alla prossima!*
+
+*Slán go fóill!*
