@@ -37,10 +37,13 @@ website:
       # - icon: rss
       #   href: blog_it.xml
   page-footer:
-    background: primary
+    background: white
+    foreground: black
+    left: "© 2024 Mauro Maver. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
     
 format:
   html:
+    smooth-scroll: true
     # mainfont: "Lucida Console, monospace"
     theme: 
       light: cosmo
