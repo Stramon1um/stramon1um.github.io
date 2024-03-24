@@ -43,6 +43,8 @@ Furthermore, my background encompasses various aspects of 🌱 plant nutrition a
 
 I'm a big fan of R and all the possibilities it offers, 🧑‍💻 from data analysis, data visualization, to data publication, and bioinformatics. 📉
 
-I also have a deep love for traditional Irish music and the Irish Gaelic language 🇮🇪, and I enjoy tinkering with electronic components and computers in my free time. 🖥️
+I also have a deep love for traditional Irish music and the Gaelic Irish (alias *Gaeilge*) language 🇮🇪, and I enjoy tinkering with electronic components and computers in my free time. 🖥️
+
+Additionally, I am one of the authors of the book 📗**[L'irlandese contemporaneo](https://www.amazon.it/dp/8892958682/?coliid=I34IVBMHTQRJEP&colid=36FABK7A5OZ2Q&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it)**, capable of providing a compendium of historical, grammatical, and socio-linguistic-identity notions of the Gaelic Irish language. Available in both digital and print formats.
 
 :::
