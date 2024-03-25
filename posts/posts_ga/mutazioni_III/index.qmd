@@ -1,0 +1,70 @@
+---
+title: "Mutazioni III: altre mutazioni"
+subtitle: "Terza parte riguardante altre tipologie ti mutazioni"
+author: "Mauro M"
+date: "2024-03-25"
+categories: [gaelico, irlandese, mutazioni]
+image: "image.jpg"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Benvenuti di nuovo! Oggi concluderemo la nostra serie sulle mutazioni
+irlandesi esaminando i prefissi *h-* e *t-*.
+
+### Prefisso h-
+
+Quando una parola inizia per vocale e segue determinate particelle che
+terminano per vocale, una *h-* è aggiunta come prefisso alla seconda
+parola, separando le due vocali con la pronuncia e la scrittura. Ecco
+alcuni esempi:
+
+-   **an oifig** (l'ufficio) -\> **na hoifigí** (gli uffici)
+
+-   **bean álainn** (bella donna) -\> **tá sí go hálainn** (lei è bella)
+
+Queste particelle non hanno effetto sulle parole che iniziano per
+consonanti e non causano lenizioni o eclipsis.
+
+### Prefisso t- (per consonanti)
+
+La consonante *s*, sia larga che stretta, è affetta da questa mutazione.
+In molti casi, dove la lenizione è richiesta ma è bloccata per la
+presenza della consonante n prima della parola, la *s* sarà prefissata
+da una *t*, che ne cambierà la pronuncia. Questa mutazione è frequente
+nei nomi genitivi maschili e nei nomi non genitivi femminili:
+
+-   **an siopa** (il negozio) -\> **doras an tsiopa** (la porta del
+    negozio)
+-   **an sagart** (il prete) -\> **teach an tsagairt** (la casa del
+    prete)
+
+La *t-* non viene aggiunta se la *s* iniziale è seguita da una di queste
+consonanti: *c, t, p, m, f*.
+
+### Prefisso t- (per vocali)
+
+In questo caso, la `t` è separata dalla parola per mezzo di un trattino.
+Questa mutazione ha effetto solo sui nomi singolari maschili dopo
+l'articolo *an*:
+
+-   **athair** (padre) -\> **an t-athair** (il padre)
+
+-   **uisce** (acqua) -\> **an t-uisce** (l'acqua)
+
+-   **im** (burro) -\> **an t-im** (il burro)
+
+-   **airgead** (argento/denaro) -\> **an t-airgead** (l'argento/il
+    denaro)
+
+Questa mutazione non si applica ai nomi genitivi maschili e a tutti i
+nomi femminili.
+
+Ecco quindi un'introduzione ai prefissi *h-* e *t-* nelle mutazioni
+irlandesi. Spero che questo vi aiuti a comprendere meglio questa
+interessante parte della lingua irlandese!
+
+*Alla prossima!*
+
+*Slán go fóill!*
