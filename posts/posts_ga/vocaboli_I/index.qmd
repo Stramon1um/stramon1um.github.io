@@ -1,0 +1,94 @@
+---
+title: "Vocaboli I"
+subtitle: "Piccolo elenco di utili vocaboli"
+author: "Mauro M"
+date: "2024-04-09"
+categories: [gaelico, irlandese, vocaboli]
+image: "image.jpg"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Di seguito, trovate un breve elenco di vocaboli accompagnati
+dall'articolo determinativo "an".
+
+Il genere dei nomi può essere intuito dalla mutazione che colpisce il
+sostantivo. Per un rapido ripasso, ricordo che i nomi femminili
+subiscono la lenizione dopo l'articolo, tranne in casi particolari. Per
+un ripasso più approfondito, potete consultare il seguente link:
+[Mutazioni I: la
+Lenizione](https://www.mauromaver.eu/posts/posts_ga/mutazioni_I/).
+
+Come in italiano, anche in gaelico i sostantivi possono essere maschili
+o femminili. Infatti, a differenza dall'inglese, non vi è il neutro che
+caratterizza, ad esempio, gli oggetti indicati dal pronome "It".
+
+Pertanto, elencherò ora alcuni vocaboli separandoli per genere e
+indicando anche a quale classe/coniugazione appartengono (entreremo nei
+dettagli più avanti; per ora, sappiate che le coniugazioni sono
+fondamentali, ad esempio, nella costruzione del genitivo).
+
+### Vocaboli maschili:
+
+-   **an t-adhmad** = il legno (m1)
+-   **an t-airgead** = l'argento/il denaro (m1)
+-   **an bád** = la barca (m1)
+-   **an bainne** = il latte (m4)
+-   **an bord** = il tavolo (m1)
+-   **an bosca** = la scatola (m4)
+-   **an bóthar** = la strada (m1)
+-   **an buidéal** = la bottiglia (m1)
+-   **an capall** = il cavallo (m1)
+-   **an casóg** = il mantello/il giubbotto (m1)
+-   **an cat** = il gatto (m1)
+-   **an ceann** = la testa/il capo (m1)
+-   **an doras** = la porta (m1)
+-   **an fear** = l'uomo (m1)
+-   **an focal** = la parola (m1)
+-   **an fráma** = la cornice (m1)
+-   **an gadhar** = il cane (m1)
+-   **an garsún** = il ragazzo (m1)
+-   **an gort** = il campo (m1)
+-   **an t-iasc** = il pesce (m1)
+-   **an lá** = il giorno (m1)
+-   **an leabhar** = il libro (m1)
+-   **an mála** = lo zaino (m4)
+-   **an páipéar** = la carta/il giornale (m1)
+-   **an sagart** = il prete (m1)
+-   **an t-urlár** = il pavimento (m1)
+
+### Vocaboli femminili:
+
+-   **an áit** = il luogo (f2)
+-   **an bhaintreach** = la vedova (f2)
+-   **an bhia** = il cibo (f4)
+-   **an bhréag** = la bugia (f2)
+-   **an bhróg** = la scarpa (f2)
+-   **an chearc** = la gallina (f2)
+-   **an cheist** = la domanda (f2)
+-   **an chiall** = il senso (f2)
+-   **an chistin** = la cucina (f2)
+-   **an chlann** = la famiglia (f2)
+-   **an chluas** = l'orecchio (f2)
+-   **an chos** = la gamba (f2)
+-   **an deoch** = la bevanda (f)
+-   **an fhuinneog** = la finestra (f2)
+-   **an fhírinne** = la verità (f4)
+-   **an ghloine** = il vetro (f4)
+-   **an ghrian** = il sole (f2)
+-   **an lámh** = la mano (f2)
+-   **an litir** = la lettera (f)
+-   **an mhuc** = il maiale (f2)
+-   **an pháirc** = il parco (f2)
+-   **an phóg** = il bacio (f2)
+-   **an scian** = il coltello/la lama (f2)
+-   **an scoil** = la scuola (f2)
+-   **an speal** = la falce (f2)
+-   **an sráid** = la strada (f2)
+-   **an súil** = l'occhio (f2)
+-   **an téad** = la corda (f2)
+
+*Alla prossima!*
+
+*Slán go fóill!*
