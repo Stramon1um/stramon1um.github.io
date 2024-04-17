@@ -11,7 +11,7 @@ listing:
   fields: [image, date, title, subtitle, author, reading-time, description]
 page-layout: full
 #title-block-style: plain
-title-block-banner: "#006666" 
+title-block-banner: "#007373" 
 ---
 
 ## Omnia *Focus*

@@ -35,7 +35,7 @@ p.drop-cap {
 */
 
 .drop-cap:first-letter {
-  color: #008080;
+  color: #007373;
   float: left;
   font-family: Serif;
   font-size: 60px;
@@ -48,5 +48,5 @@ p.drop-cap {
 }
 
 .callout-note {
-  border-left-color: #008080 !important;
+  border-left-color: #007373 !important;
 }
