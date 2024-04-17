@@ -7,7 +7,7 @@ project:
   
 website:
   title: "Mauro Maver"
-  #site-url: "https://www.quarto.org" # da cambiare una volta pubblicato, necessario per creazione FEED
+  site-url: "https://www.mauromaver.eu" # da cambiare una volta pubblicato, necessario per creazione FEED
   description: "Portfolio"
   favicon: foto.png
   twitter-card: true
@@ -21,6 +21,8 @@ website:
         href: index.html
       - text: Research
         href: papers.html
+      - text: Omnia
+        href: omnia.qmd
       - text: Blog 🇮🇪
         href: blog_ga.qmd
       #   menu:

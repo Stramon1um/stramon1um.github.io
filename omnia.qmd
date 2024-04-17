@@ -1,0 +1,17 @@
+---
+title: "Omnia"
+listing:
+  contents: posts/posts_omnia/*/index.qmd
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: true
+  fields: [image, date, title, subtitle, author, reading-time, description]
+page-layout: full
+#title-block-style: plain
+title-block-banner: "#006666" 
+---
+
+## Omnia *Focus*

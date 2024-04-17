@@ -1,0 +1,87 @@
+---
+title: "Floral synchrony: the role of *FLOWERING LOCUS T* in the leaf-specific vernalisation response in Arabidopsis"
+subtitle: "Omnia *Focus* - Volume 1"
+title-block-banner: "#006666"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Floral synchrony: the role of FLOWERING LOCUS T in the leaf-specific vernalisation response in Arabidopsis"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 1
+  issue: 1
+  issued: 2024-04-17
+  doi: "10.5281/zenodo.10955449"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-04-17"
+doi: "10.5281/zenodo.10955449"
+keywords:
+  - "*Arabidopsis thaliana*"
+  - Flowering synchrony
+  - Vernalisation
+  - "*FT*"
+  - "*FLC*"
+abstract: |
+  This study by *Huang et al.* explores the intricate relationship between vernalisation, leaf-specific responses, and flowering synchrony in *Arabidopsis thaliana*. They uncover how leaf development during vernalisation impacts the expression of key flowering genes, suggesting a complex interplay between leaf-based processes and meristem regulation in determining flowering timing.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+---
+
+<!-- This study by Huang et al. explores the intricate relationship between vernalisation, leaf-specific responses, and flowering synchrony in Arabidopsis thaliana. They uncover how leaf development during vernalisation impacts the expression of key flowering genes, suggesting a complex interplay between leaf-based processes and meristem regulation in determining flowering timing. -->
+
+::: drop-cap
+The synchronisation of flowering is important for plants as it helps them to reproduce efficiently and adapt to their environment. One key mechanism regulating this synchrony is vernalisation, where plants are induced to flower after being exposed to low temperatures for a long time. However, it is not fully understood how vernalisation helps plants belonging to heterogenous populations to synchronize their flowering.
+:::
+
+<!-- <p class="drop-cap"></p> -->
+
+<!-- <p><span class="first-letter">O</span>nce upon a time in a faraway land...<p> -->
+
+<!-- <font style="font-family: Bell MT, sans-serif; font-size:55pt; font-style:regular; width: .85em; line-height: 53px; float: left; color: #7D3C98; border: solid #D5C5EC; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; padding-left: 5px; margin-right: 5px; margin-bottom: -5px;">L</font>a fisiología -->
+
+The present study conducted by *Huang et al.*[@huang2024exploring] aims to investigate how the *FLOWERING LOCUS T* (*FT* ) gene affects the regulation of floral synchrony in *Arabidopsis thaliana*, focusing on its impact in response to vernalisation. Through a series of experiments, the researchers examined the role of genes involved in the flowering process and evaluated the importance of what they call “*leaf-specific vernalisation response*” in its regulation. The study hypothesised that leaves may have a “cold memory” that differs depending on their developmental stage at the onset of vernalisation.
+
+The experiments were conducted on the Col-*FRI* genotype of *A. thaliana*, which was obtained by introgressing the *FRIGIDA* locus (*FRI* ) into Col, thus making its flowering vernalisation-dependent. In the first experiment, Col-*FRI* seeds were germinated sequentially (cohorts on different days preceding vernalisation induction), grown under controlled light and temperature conditions (SD, 8 weeks of vernalisation at 4°C and LD until flowering), and their flowering time was recorded. It was observed that the Col-*FRI* genotype showed synchronised flowering (positive synchronisation index (SI)[@miryeganeh2020synchronization]) among different groups despite germination occurring at distinct times. In contrast, Col showed asynchronous flowering among the various groups, exhibiting a negative SI.
+
+Replicating prior experiments investigating the *FLOWERING LOCUS C* (*FLC* ) gene[@finnegan2007vernalization], a repressor of *FT*, the authors analysed the expression levels of the latter in relation to the leaf-specific vernalisation response. Again, using sequential germination experiments of Col-*FRI*, it emerged that *FT* expression was not strictly correlated with the number of leaves present at the time of flowering but rather with a specific number of leaves which developed after vernalisation induction. This confirms the presence of an intricate flowering regulation mechanism based on leaf number and their developmental stage at the onset of low temperatures.
+
+To minimise the possible effect of photoperiod on *FT* expression level analyses, the authors applied SD photoperiod both before and after vernalisation. This allowed the confirmation of the *FLC* expression values reported in the literature[@finnegan2007vernalization] (elevated in the absence and before vernalisation) while simultaneously observing uniform *FT* expression values in leaves developed during and after vernalisation. These data indicate that *FLC* and *FT* expression levels are not positively (or negatively) correlated. Furthermore, this suggests that the relationship between leaf development and vernalisation is more evident and marked for *FT* compared to *FLC*.
+
+In addition to *FT* and *FLC*, the authors evaluated the expression levels of five other genes involved in flowering pathways: *FLM*, *TSF*, *MAF3*, *SOC1*, and *AGL19*. Leaf-specific vernalisation response was also observed for these genes, although with different and gene-specific expression patterns. Among all the genes analysed, only *FLC* and *SOC1* showed diametrically opposite expression patterns. For the remaining genes, a strong effect of leaf-specific vernalisation response was observed. In fact, higher expression levels were found in leaves developed during and after vernalisation.
+
+Finally, the researchers assessed the impact of leaf-specific vernalisation response compared to other regulatory processes, such as those deriving from the shoot apical meristem (SAM). In a last experiment of Col-*FRI* sequential germination, they established a MD photoperiod following the eight weeks of vernalisation and monitored *FT* levels until flowering. Data showed an *FT* expression pattern similar to that observed in the presence of post-vernalisation LD conditions, but with an intensity almost five times lower. Contrary to the low *FT* levels, the delay in flowering was slight and not significantly prolonged. This suggests that other non-leaf-dependent signals may play a significant role in regulating flowering in response to vernalisation.
+
+The study conducted by *Huang et al.* represents one of the first attempts to establish a clearer relationship between flowering pathways and flowering synchrony in response to vernalisation. In Arabidopsis, the authors observed a correlation between leaf-specific vernalisation response and floral synchrony, although this does not represent the only factor at play. Other non-leaf-based signals, such as those generated by the shoot apical meristem, could play an important role as well. Another key factor emerging from this study was the lack of correlation between *FLC* and *FT* expression levels, despite the former acting as a strong repressor of *FT*.
+
+Overall, the research conducted in Arabidopsis by *Huang et al.* contributes to a better understanding of leaf-level interaction between vernalisation and floral synchrony, paving the way for further investigations in this field.
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Huang, P-K., Schmitt, J. & Runcie, D.E. (2024). Exploring the molecular regulation of vernalization-induced flowering synchrony in Arabidopsis. *New Phytologist* **242**: 947-959 [doi.org/10.111/nph.19680](https://doi.org/10.1111/nph.19680)
+
+**List of abbreviations**
+
+**SD**, short days, 8h:16h (day:night cycle) **•** **MD**, medium days, 12h:12h **•** **LD**, long days, 16h:8h **•** ***FLM***, *FLOWERING LOCUS M* **•** ***TSF***, *TWIN SISTER OF FT* **•** ***MAF3***, *MADS AFFECTING FLOWERING 3* **•** ***SOC1***, *SUPPRESSOR OF OVEREXPRESSION OF CO 1* **•** ***AGL19***, *AGAMOUS-LIKE 19*.
+:::

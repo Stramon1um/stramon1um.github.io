@@ -6,6 +6,12 @@
     ]
   },
   {
+    "listing": "/omnia.html",
+    "items": [
+      "/posts/posts_omnia/omnia_focus_I/index.html"
+    ]
+  },
+  {
     "listing": "/blog_it.html",
     "items": [
       "/posts/posts_it/welcome/index.html"
