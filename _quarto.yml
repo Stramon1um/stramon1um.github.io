@@ -46,7 +46,7 @@ website:
 format:
   html:
     smooth-scroll: true
-    # mainfont: "Lucida Console, monospace"
+    mainfont: "Roboto, sans-serif"
     theme: 
       light: cosmo
       dark: [cosmo, dark_css.scss]

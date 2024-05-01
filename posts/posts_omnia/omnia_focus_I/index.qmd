@@ -1,6 +1,6 @@
 ---
 title: "Floral synchrony: the role of *FLOWERING LOCUS T* in the leaf-specific vernalisation response in Arabidopsis"
-subtitle: "Omnia *Focus* - Volume 1"
+subtitle: "Omnia *Focus* - Volume 1-1"
 title-block-banner: "#007373"
 author:
   - name: Mauro Maver

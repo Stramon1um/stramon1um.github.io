@@ -1,0 +1,84 @@
+---
+title: "Redefining tinnitus: a complex neurological disorder and its genetic roots"
+subtitle: "Omnia *Focus* - Volume 1-2"
+title-block-banner: "#007373"
+author:
+  - name: Sara Gomez-Cabellos
+    id: gcs
+    orcid: 0000-0003-3608-0957
+    email: sara.gomez.cabellos@gmail.com
+    #url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Redefining tinnitus: a complex neurological disorder and its genetic roots"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 1
+  issue: 2
+  issued: 2024-05-02
+  doi: "10.5281/zenodo.10955449"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-05-02"
+doi: "10.5281/zenodo.11034959"
+keywords:
+  - Tinnitus
+  - Extreme phenotype
+  - Neurological disorder
+  - "Ménière's disorder"
+abstract: |
+  What is tinnitus exactly? A shift in the conception of tinnitus from being just a symptom of an underlying condition to being recognized as a neurological disorder redefines its long-established dogma definition. 
+copyright:
+  statement: "© 2024 Sara Gomez-Cabellos | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+resources: 
+  - Omnia_focus_II.pdf
+---
+
+::: drop-cap
+When was the last time you heard nothing, just silence? What a strange question to ask, you might be thinking. My answer might differ from yours, when I was 16. I suffer from tinnitus, continuous “*ringing noises*” in both of my ears, and my loyal companion for more than 20 years now.
+:::
+
+The definition of tinnitus is precisely the phantom sensation of “*ringing in the ears*” or, in other words, the perception of noise in the absence of external acoustic stimulation. Despite being experienced by more than 15 % of the world's population, it does not have a cure. The only solutions for those who suffer from it are limited to reducing their psychological distress or masking the symptoms by external sound sources. Still, there are no targeted treatments for the pathophysiological mechanisms[@mcferran2019there].
+
+Tinnitus can be continuous, pulsatile, or episodic, affecting one or both ears. It can last only a few moments, months, years, or a lifetime. Severe tinnitus is a debilitating condition experienced by 1% of the population, and it has been discovered to have a significant heritability[@trpchevska2020sex;@maas2017genetic].
+
+Environmental factors were thought to be the main drivers of tinnitus for decades, but the widespread availability of sequencing data from distinct cohorts has opened new research possibilities[@vona2022road]. The first study that defined tinnitus as a complex disorder in which genes and environmental factors interact was conducted by *Clifford et al.*[@clifford2020novel], performing a genome-wide association study (GWAS) using large datasets from self-reported tinnitus. The following year, *Wells et al.*[@wells2021genome], with a case-control GWAS, identified *RCOR1* (*REST COREPRESSOR 1* ) as the gene with the highest significance in a sub-group of patients with the most severe form of tinnitus. Nevertheless, even though both analyses of GWAS used UK Biobank participants, there was little overlap in the strongest associations between both studies, possibly because of the significant heterogeneity in tinnitus phenotype[@vona2022road].
+
+GWAS allows the identification of significant common variants with small effect sizes that confer susceptibility to tinnitus. However, *Amanat et al.*[@amanat2021burden] used a different approach to identify the enrichment of rare pathogenic variants and target candidate genes. This strategy consisted of selecting individuals with extreme clinical attributes, toxic effects, or extreme responses to treatments, *i.e.*, extreme phenotype[@amanat2020systematic], to narrow the phenotypic heterogeneity that tinnitus manifests.
+
+*Amanat et al.*[@amanat2021burden] aimed to identify rare variants in synaptic genes by exome sequencing of Spanish patients with Ménière’s disease and an extreme tinnitus phenotype, performing a gene burden analysis (GBA). The disease of Ménière is a rare ear disorder characterized by intense episodes of vertigo, tinnitus, and hearing loss[@perez2020current]. After years of the disease, patients consider tinnitus the most debilitating symptom[@ueberfuhr2017tinnitus; @herraiz2006tinnitus].
+
+Their research uncovered a burden of rare missense and structural variants in several synaptic genes. Three candidate genes, *ANK2* (*ANKYRIN-2* ), *TSC2* (*TSC COMPLEX SUBUNIT 2* ), and *AKAP9* (*A-KINASE ANCHOR PROTEIN 9* ), were replicated in a Swedish cohort of patients with severe tinnitus. Moreover, to determine if the association of these genes was specific to severe tinnitus, they performed a GBA using an independent cohort of patients with generalized genetic epilepsy who did not have tinnitus. Some neurological disorders, such as epilepsy, could also share some common genetic background with tinnitus. None of the genes showed significant enrichment of missense variants, confirming the tinnitus-specificity of the candidate genes.
+
+Gene ontology and gene-set enrichment analysis uncovered the involvement of membrane trafficking and cytoskeletal protein binding in neurons. *ANK2*, *TSC2*, and *AKAP9* are associated with axonal branching and neuron connectivity in the brain, and their expression in spiral ganglion neurons was confirmed. Furthermore, *ANK2* and *TSC2* showed significant co-expression in limbic brain regions.
+
+This study presents several limitations, such as a lack of representation of the whole phenotype of Ménière’s disease using the extreme phenotype strategy or the possibility that other neural pathways unrelated to synapses are also implicated in tinnitus. Nevertheless, it provides a first reference point in understanding the molecular players in severe tinnitus, and it could be a significant step forward in its future treatment.
+
+👉 [PDF version](Omnia_focus_II.pdf "Here you can download the PDF version")
+
+<!-- ::: {.callout-note appearance="minimal"} -->
+
+<!-- **Original article** -->
+
+<!-- Huang, P-K., Schmitt, J. & Runcie, D.E. (2024). Exploring the molecular regulation of vernalization-induced flowering synchrony in Arabidopsis. *New Phytologist* **242**: 947-959 [doi.org/10.111/nph.19680](https://doi.org/10.1111/nph.19680) -->
+
+<!-- **List of abbreviations** -->
+
+<!-- **SD**, short days, 8h:16h (day:night cycle) **•** **MD**, medium days, 12h:12h **•** **LD**, long days, 16h:8h **•** ***FLM***, *FLOWERING LOCUS M* **•** ***TSF***, *TWIN SISTER OF FT* **•** ***MAF3***, *MADS AFFECTING FLOWERING 3* **•** ***SOC1***, *SUPPRESSOR OF OVEREXPRESSION OF CO 1* **•** ***AGL19***, *AGAMOUS-LIKE 19*. -->
+
+<!-- ::: -->

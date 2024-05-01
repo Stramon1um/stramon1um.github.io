@@ -1,5 +1,7 @@
 ---
 title: "Omnia"
+subtitle: "An independent and multidisciplinary open-access journal, created by Mauro Maver"
+#description: ""
 listing:
   contents: posts/posts_omnia/*/index.qmd
   sort: "date desc"
