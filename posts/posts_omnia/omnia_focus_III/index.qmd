@@ -1,0 +1,81 @@
+---
+title: "<sup>13</sup>C dynamics in forest rhizosphere microbial communities under drought and rewetting"
+subtitle: "Omnia *Focus* - Volume 1-3"
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "13C dynamics in forest rhizosphere microbial communities under drought and rewetting"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 1
+  issue: 3
+  issued: 2024-05-13
+  doi: "10.5281/zenodo.11148076"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-05-13"
+doi: "10.5281/zenodo.11148076"
+keywords:
+  - Carbon allocation
+  - Drought
+  - Forest
+  - Isotope tracing
+  - Microbial community
+  - PLFA
+  - Rhizosphere
+abstract: |
+  This study by *Gao et al.* investigates the impact of drought and soil rewetting on forest rhizosphere microbial communities, tracing the dynamics of carbon-13 (<sup>13</sup>C) in European beech and Scots pine forests. Findings reveal significant shifts in <sup>13</sup>C uptake and microbial community resilience, shedding light on ecosystem responses to climate change-induced stressors.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+resources: 
+  - Omnia_focus_III.pdf
+---
+
+::: drop-cap
+Global climate change is causing a series of severe weather events like prolonged droughts followed by heavy rainfalls, posing a growing threat to forest ecosystems worldwide. Understanding the crucial link between plants and rhizosphere microbial communities during drought periods is fundamental, as it significantly influences soil community structure and functionalities, with carbon (C) transport and release by plants into the rhizosphere playing a key role.
+:::
+
+In this context, *Gao et al.*[@gao2024drought] investigated the impact of drought and soil rewetting on forest rhizosphere microbial communities. The study was conducted on 4-year-old European beech (*Fagus sylvatica*) forests under artificial conditions and approximately 120-year-old Scots pine (*Pinus sylvestris*) forests under natural growth conditions. The authors applied a combination of isotopic labelling techniques with <sup>13</sup>C and molecular analyses to trace the flow of C initially absorbed by plants, subsequently released into the soil, and then incorporated by microbial communities. <sup>13</sup>C labelling was performed at the leaf level during drought and two weeks after rewetting. These data were compared with those obtained from the control treatment, consisting of constantly irrigated plants. This approach allowed them to explore in detail the mechanisms regulating rhizosphere microbial community dynamics in response to drought and rewetting events in two different forests.
+
+During drought, a significant reduction in <sup>13</sup>C uptake was observed in both forest types at both plant and soil microbial community levels. This phenomenon has been previously observed in grasslands [@fuchslueger2016drought; @karlowsky2018land]; however, this experiment showed a significant decrease in symbiotic fungi, particularly ectomycorrhizal fungi (ECM) (biomarker 18:2ω6,9). This decline could compromise water and nutrient availability for plants, thereby affecting their growth and ability to withstand strong water stress, further exacerbating their stress status. Among the less negatively affected microorganisms were gram-positive bacteria, which have a thicker peptidoglycan membrane and are therefore more drought resistant.
+
+Moreover, at the cellular level, the authors observed a shift in the functional use of <sup>13</sup>C absorbed by microbial communities. Indeed, during drought, there was a significant decrease in <sup>13</sup>C incorporated into phospholipid fatty acids (PLFAs) compared to microbial cytoplasm (CFE-microbial biomass). This would indicate a greater priority towards energy conservation, osmoregulation, and storage processes, at the expense of cell growth. PLFAs are the main components of cell membranes, and their reduced presence would indicate a modulation in the use of fresh root exudates released by plants into survival and adaptation strategies rather than development [@mason2023intracellular].
+
+Upon restoration of optimal soil moisture conditions, both in beech and pine, microbial communities demonstrated remarkable resilience and recovery from the severe drought experienced. One of the main explanations for this strong resilience lies in the rapid restoration of tree C allocation in the rhizosphere at the end of the drought. One of the most interesting aspects observed was a greater incorporation of <sup>13</sup>C into microbes, compared to the control, despite normal leaf <sup>13</sup>C uptake values. This implies a preferential transfer and incorporation towards rhizosphere communities, strengthening their role in plant functioning and maintaining forest ecosystem health [@joseph2020rhizosphere; @gao2021drought].
+
+In addition, this study highlighted differences between beech and pine forests in the response of microbial communities to drought and subsequent rewetting. Beech forests showed more pronounced effects, with greater sensitivity to drought and a more pronounced response to rewetting. Conversely, in pine, the effect of rewetting had a lesser impact, perhaps due to the long-term adaptation of microbial communities to repeated natural drought events. Overall, these results may have been influenced by both the experimental conditions applied (more drastic and artificial in the case of beech) and the different sizes and biomass of the plants. The examined pine plants had more biomass (greater height) and consequently greater C storage. This would allow them to have greater buffering capacity in case of C content, transport, and release changes compared to beech, for example, under adverse growth conditions.
+
+In conclusion, the study conducted by *Gao et al.* provides important insights into the complex interactions between plants and soil microbial communities during drought and soil moisture restoration periods. The results obtained also offer valuable tools for understanding the mechanisms underlying the resilience of forest ecosystems, which are increasingly subject to rapid climate change.
+
+👉 [PDF version](Omnia_focus_III.pdf "Here you can download the PDF version")
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Gao, D., Luster, J., Zürcher, A., Arend, M., Bai, E., Gessler, A., Rigling, A., Schaub, M., Hartmann, M., Werner, R.A., Joseph, J., Poll, C. & Hagedorn, F. (2024). Drought resistance and resilience of rhizosphere communities in forest soils from the cellular to ecosystem scale – insights from 13C pulse labeling. *New Phytologist* **242**: 960-974 [doi.org/10.1111/nph.19612](https://doi.org/10.1111/nph.19612)
+
+**List of abbreviations**
+
+**CFE-microbial biomass**, chloroform fumigation extraction- microbial biomass
+:::

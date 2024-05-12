@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Mauro Maver">
+<meta name="dcterms.date" content="2024-05-13">
+<meta name="keywords" content="Carbon allocation, Drought, Forest, Isotope tracing, Microbial community, PLFA, Rhizosphere">
 
-<title>Mauro Maver - Omnia</title>
+<title>Mauro Maver - 13C dynamics in forest rhizosphere microbial communities under drought and rewetting</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +23,44 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<link href="./foto.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<link href="../../../foto.png" rel="icon" type="image/png">
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -55,35 +76,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle','listing-author','listing-reading-time','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GEXKYETG1W"></script>
 
 <script type="text/javascript">
@@ -101,53 +93,47 @@ gtag('config', 'G-GEXKYETG1W', { 'anonymize_ip': true});
       }
 </style>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Mauro Maver - Omnia">
-<meta property="og:description" content="An independent and multidisciplinary open-access journal, created by Mauro Maver">
+<link rel="stylesheet" href="../../../styles.css">
+<meta property="og:title" content="Mauro Maver - 13C dynamics in forest rhizosphere microbial communities under drought and rewetting">
+<meta property="og:description" content="This study by Gao et al. investigates the impact of drought and soil rewetting on forest rhizosphere microbial communities, tracing the dynamics of carbon-13 (13C) in European beech and Scots pine forests. Findings reveal significant shifts in 13C uptake and microbial community resilience, shedding light on ecosystem responses to climate change-induced stressors.">
+<meta property="og:image" content="image.jpg">
 <meta property="og:site_name" content="Mauro Maver">
-<meta name="twitter:title" content="Mauro Maver - Omnia">
-<meta name="twitter:description" content="An independent and multidisciplinary open-access journal, created by Mauro Maver">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Mauro Maver - 13C dynamics in forest rhizosphere microbial communities under drought and rewetting">
+<meta name="twitter:description" content="This study by Gao et al. investigates the impact of drought and soil rewetting on forest rhizosphere microbial communities, tracing the dynamics of carbon-13 (13C) in European beech and Scots pine forests. Findings reveal significant shifts in 13C uptake and microbial community resilience, shedding light on ecosystem responses to climate change-induced stressors.">
+<meta name="twitter:image" content="image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="citation_title" content="13C dynamics in forest rhizosphere microbial communities under drought and rewetting">
+<meta name="citation_abstract" content="This study by *Gao et al.* investigates the impact of drought and soil rewetting on forest rhizosphere microbial communities, tracing the dynamics of carbon-13 (&amp;amp;lt;sup&amp;gt;13</sup>C) in European beech and Scots pine forests. Findings reveal significant shifts in <sup>13</sup>C uptake and microbial community resilience, shedding light on ecosystem responses to climate change-induced stressors.
+">
+<meta name="citation_keywords" content="Carbon allocation,Drought,Forest,Isotope tracing,Microbial community,PLFA,Rhizosphere">
+<meta name="citation_author" content="Mauro Maver">
+<meta name="citation_publication_date" content="2024-05-13">
+<meta name="citation_cover_date" content="2024-05-13">
+<meta name="citation_year" content="2024">
+<meta name="citation_online_date" content="2024-05-13">
+<meta name="citation_issue" content="3">
+<meta name="citation_doi" content="10.5281/zenodo.11148076">
+<meta name="citation_volume" content="1">
+<meta name="citation_language" content="en">
+<meta name="citation_journal_title" content="Omnia Focus">
+<meta name="citation_publisher" content="Omnia">
+<meta name="citation_reference" content="citation_title=Rhizosphere activity in an old-growth forest reacts rapidly to changes in soil moisture and shapes whole-tree carbon allocation;,citation_author=Jobin Joseph;,citation_author=Decai Gao;,citation_author=Bernhard Backes;,citation_author=Corinne Bloch;,citation_author=Ivano Brunner;,citation_author=Gerd Gleixner;,citation_author=Matthias Haeni;,citation_author=Henrik Hartmann;,citation_author=Günter Hoch;,citation_author=Christian Hug;,citation_author=others;,citation_publication_date=2020;,citation_cover_date=2020;,citation_year=2020;,citation_issue=40;,citation_volume=117;,citation_journal_title=Proceedings of the National Academy of Sciences;,citation_publisher=National Acad Sciences;">
+<meta name="citation_reference" content="citation_title=Drought alters the carbon footprint of trees in soils—tracking the spatio-temporal fate of 13C-labelled assimilates in the soil of an old-growth pine forest;,citation_author=Decai Gao;,citation_author=Jobin Joseph;,citation_author=Roland A Werner;,citation_author=Ivano Brunner;,citation_author=Alois Zürcher;,citation_author=Christian Hug;,citation_author=Ao Wang;,citation_author=Chunhong Zhao;,citation_author=Edith Bai;,citation_author=Katrin Meusburger;,citation_author=others;,citation_publication_date=2021;,citation_cover_date=2021;,citation_year=2021;,citation_issue=11;,citation_volume=27;,citation_journal_title=Global Change Biology;,citation_publisher=Wiley Online Library;">
+<meta name="citation_reference" content="citation_title=Drought history affects grassland plant and microbial carbon turnover during and after a subsequent drought event;,citation_author=Lucia Fuchslueger;,citation_author=Michael Bahn;,citation_author=Roland Hasibeder;,citation_author=Sandra Kienzl;,citation_author=Karina Fritz;,citation_author=Michael Schmitt;,citation_author=Margarete Watzka;,citation_author=Andreas Richter;,citation_publication_date=2016;,citation_cover_date=2016;,citation_year=2016;,citation_issue=5;,citation_volume=104;,citation_journal_title=Journal of Ecology;,citation_publisher=Wiley Online Library;">
+<meta name="citation_reference" content="citation_title=Land use in mountain grasslands alters drought response and recovery of carbon allocation and plant-microbial interactions;,citation_author=Stefan Karlowsky;,citation_author=Angela Augusti;,citation_author=Johannes Ingrisch;,citation_author=Roland Hasibeder;,citation_author=Markus Lange;,citation_author=Sandra Lavorel;,citation_author=Michael Bahn;,citation_author=Gerd Gleixner;,citation_publication_date=2018;,citation_cover_date=2018;,citation_year=2018;,citation_issue=3;,citation_volume=106;,citation_journal_title=Journal of Ecology;,citation_publisher=Wiley Online Library;">
+<meta name="citation_reference" content="citation_title=Intracellular carbon storage by microorganisms is an overlooked pathway of biomass growth;,citation_author=Kyle Mason-Jones;,citation_author=Andreas Breidenbach;,citation_author=Jens Dyckmans;,citation_author=Callum C Banfield;,citation_author=Michaela A Dippold;,citation_publication_date=2023;,citation_cover_date=2023;,citation_year=2023;,citation_issue=1;,citation_volume=14;,citation_journal_title=Nature Communications;,citation_publisher=Nature Publishing Group UK London;">
+<meta name="citation_reference" content="citation_title=Drought resistance and resilience of rhizosphere communities in forest soils from the cellular to ecosystem scale–insights from 13C pulse labeling;,citation_author=Decai Gao;,citation_author=Jörg Luster;,citation_author=Alois Zürcher;,citation_author=Matthias Arend;,citation_author=Edith Bai;,citation_author=Arthur Gessler;,citation_author=Andreas Rigling;,citation_author=Marcus Schaub;,citation_author=Martin Hartmann;,citation_author=Roland A Werner;,citation_author=others;,citation_publication_date=2024;,citation_cover_date=2024;,citation_year=2024;,citation_issue=3;,citation_volume=242;,citation_journal_title=New Phytologist;,citation_publisher=Wiley Online Library;">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Mauro Maver</span>
     </a>
   </div>
@@ -157,19 +143,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./papers.html"> 
+    <a class="nav-link" href="../../../papers.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./omnia.html" aria-current="page"> 
+    <a class="nav-link" href="../../../omnia.html"> 
 <span class="menu-text">Omnia</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog_ga.html"> 
+    <a class="nav-link" href="../../../blog_ga.html"> 
 <span class="menu-text">Blog 🇮🇪</span></a>
   </li>  
   <li class="nav-item compact">
@@ -193,139 +179,135 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Omnia</h1>
-            <p class="subtitle lead">An independent and multidisciplinary open-access journal, created by Mauro Maver</p>
+    <div class="quarto-title column-body">
+      <h1 class="title"><sup>13</sup>C dynamics in forest rhizosphere microbial communities under drought and rewetting</h1>
+            <p class="subtitle lead">Omnia <em>Focus</em> - Volume 1-3</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p><a href="https://www.mauromaver.eu">Mauro Maver, PhD</a> <a href="mailto:mauromaver@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0002-8162-3618" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+            </div>
+    </div>
       
-    
-      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">May 13, 2024</p>
+      </div>
     </div>
     
+      
+      <div>
+      <div class="quarto-title-meta-heading">Doi</div>
+      <div class="quarto-title-meta-contents">
+        <p class="doi">
+          <a href="https://doi.org/10.5281/zenodo.11148076">10.5281/zenodo.11148076</a>
+        </p>
+      </div>
+    </div>
+    </div>
+    
+  <div>
+    <div class="abstract">
+      <div class="block-title">Abstract</div>
+      <p>This study by <em>Gao et al.</em> investigates the impact of drought and soil rewetting on forest rhizosphere microbial communities, tracing the dynamics of carbon-13 (<sup>13</sup>C) in European beech and Scots pine forests. Findings reveal significant shifts in <sup>13</sup>C uptake and microbial community resilience, shedding light on ecosystem responses to climate change-induced stressors.</p>
+    </div>
+  </div>
+
+  <div>
+    <div class="keywords">
+      <div class="block-title">Keywords</div>
+      <p>Carbon allocation, Drought, Forest, Isotope tracing, Microbial community, PLFA, Rhizosphere</p>
+    </div>
+  </div>
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
-<section id="omnia-focus" class="level2">
-<h2 class="anchored" data-anchor-id="omnia-focus">Omnia <em>Focus</em></h2>
+<div class="drop-cap">
+<p>Global climate change is causing a series of severe weather events like prolonged droughts followed by heavy rainfalls, posing a growing threat to forest ecosystems worldwide. Understanding the crucial link between plants and rhizosphere microbial communities during drought periods is fundamental, as it significantly influences soil community structure and functionalities, with carbon (C) transport and release by plants into the rhizosphere playing a key role.</p>
+</div>
+<p>In this context, <em>Gao et al.</em><span class="citation" data-cites="gao2024drought"><sup><a href="#ref-gao2024drought" role="doc-biblioref">1</a></sup></span> investigated the impact of drought and soil rewetting on forest rhizosphere microbial communities. The study was conducted on 4-year-old European beech (<em>Fagus sylvatica</em>) forests under artificial conditions and approximately 120-year-old Scots pine (<em>Pinus sylvestris</em>) forests under natural growth conditions. The authors applied a combination of isotopic labelling techniques with <sup>13</sup>C and molecular analyses to trace the flow of C initially absorbed by plants, subsequently released into the soil, and then incorporated by microbial communities. <sup>13</sup>C labelling was performed at the leaf level during drought and two weeks after rewetting. These data were compared with those obtained from the control treatment, consisting of constantly irrigated plants. This approach allowed them to explore in detail the mechanisms regulating rhizosphere microbial community dynamics in response to drought and rewetting events in two different forests.</p>
+<p>During drought, a significant reduction in <sup>13</sup>C uptake was observed in both forest types at both plant and soil microbial community levels. This phenomenon has been previously observed in grasslands<span class="citation" data-cites="fuchslueger2016drought karlowsky2018land"><sup><a href="#ref-fuchslueger2016drought" role="doc-biblioref">2</a>,<a href="#ref-karlowsky2018land" role="doc-biblioref">3</a></sup></span>; however, this experiment showed a significant decrease in symbiotic fungi, particularly ectomycorrhizal fungi (ECM) (biomarker 18:2ω6,9). This decline could compromise water and nutrient availability for plants, thereby affecting their growth and ability to withstand strong water stress, further exacerbating their stress status. Among the less negatively affected microorganisms were gram-positive bacteria, which have a thicker peptidoglycan membrane and are therefore more drought resistant.</p>
+<p>Moreover, at the cellular level, the authors observed a shift in the functional use of <sup>13</sup>C absorbed by microbial communities. Indeed, during drought, there was a significant decrease in <sup>13</sup>C incorporated into phospholipid fatty acids (PLFAs) compared to microbial cytoplasm (CFE-microbial biomass). This would indicate a greater priority towards energy conservation, osmoregulation, and storage processes, at the expense of cell growth. PLFAs are the main components of cell membranes, and their reduced presence would indicate a modulation in the use of fresh root exudates released by plants into survival and adaptation strategies rather than development<span class="citation" data-cites="mason2023intracellular"><sup><a href="#ref-mason2023intracellular" role="doc-biblioref">4</a></sup></span>.</p>
+<p>Upon restoration of optimal soil moisture conditions, both in beech and pine, microbial communities demonstrated remarkable resilience and recovery from the severe drought experienced. One of the main explanations for this strong resilience lies in the rapid restoration of tree C allocation in the rhizosphere at the end of the drought. One of the most interesting aspects observed was a greater incorporation of <sup>13</sup>C into microbes, compared to the control, despite normal leaf <sup>13</sup>C uptake values. This implies a preferential transfer and incorporation towards rhizosphere communities, strengthening their role in plant functioning and maintaining forest ecosystem health<span class="citation" data-cites="joseph2020rhizosphere gao2021drought"><sup><a href="#ref-joseph2020rhizosphere" role="doc-biblioref">5</a>,<a href="#ref-gao2021drought" role="doc-biblioref">6</a></sup></span>.</p>
+<p>In addition, this study highlighted differences between beech and pine forests in the response of microbial communities to drought and subsequent rewetting. Beech forests showed more pronounced effects, with greater sensitivity to drought and a more pronounced response to rewetting. Conversely, in pine, the effect of rewetting had a lesser impact, perhaps due to the long-term adaptation of microbial communities to repeated natural drought events. Overall, these results may have been influenced by both the experimental conditions applied (more drastic and artificial in the case of beech) and the different sizes and biomass of the plants. The examined pine plants had more biomass (greater height) and consequently greater C storage. This would allow them to have greater buffering capacity in case of C content, transport, and release changes compared to beech, for example, under adverse growth conditions.</p>
+<p>In conclusion, the study conducted by <em>Gao et al.</em> provides important insights into the complex interactions between plants and soil microbial communities during drought and soil moisture restoration periods. The results obtained also offer valuable tools for understanding the mechanisms underlying the resilience of forest ecosystems, which are increasingly subject to rapid climate change.</p>
+<p>👉 <a href="Omnia_focus_III.pdf" title="Here you can download the PDF version">PDF version</a></p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Gao, D., Luster, J., Zürcher, A., Arend, M., Bai, E., Gessler, A., Rigling, A., Schaub, M., Hartmann, M., Werner, R.A., Joseph, J., Poll, C. &amp; Hagedorn, F. (2024). Drought resistance and resilience of rhizosphere communities in forest soils from the cellular to ecosystem scale – insights from 13C pulse labeling. <em>New Phytologist</em> <strong>242</strong>: 960-974 <a href="https://doi.org/10.1111/nph.19612">doi.org/10.1111/nph.19612</a></p>
+<p><strong>List of abbreviations</strong></p>
+<p><strong>CFE-microbial biomass</strong>, chloroform fumigation extraction- microbial biomass</p>
+</div>
+</div>
+</div>
 
 
 
-</section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1715551200000" data-listing-file-modified-sort="1715349255657" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="752">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">
-<p><img src="./posts/posts_omnia/omnia_focus_III/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external"></a></p>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-gao2024drought" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gao, D. <em>et al.</em> Drought resistance and resilience of rhizosphere communities in forest soils from the cellular to ecosystem scale–insights from 13C pulse labeling. <em>New Phytologist</em> <strong>242</strong>, 960–974 (2024).</div>
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external"><sup>13</sup>C dynamics in forest rhizosphere microbial communities under drought and rewetting</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-3</a>
+<div id="ref-fuchslueger2016drought" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Fuchslueger, L. <em>et al.</em> Drought history affects grassland plant and microbial carbon turnover during and after a subsequent drought event. <em>Journal of Ecology</em> <strong>104</strong>, 1453–1465 (2016).</div>
 </div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">This study by <em>Gao et al.</em> investigates the impact of drought and soil rewetting on forest rhizosphere microbial communities, tracing the dynamics of carbon-13 (<sup>13</sup>C) in European beech and Scots pine forests. Findings reveal significant shifts in <sup>13</sup>C uptake and microbial community resilience, shedding light on ecosystem responses to climate change-induced stressors. </a>
+<div id="ref-karlowsky2018land" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Karlowsky, S. <em>et al.</em> Land use in mountain grasslands alters drought response and recovery of carbon allocation and plant-microbial interactions. <em>Journal of Ecology</em> <strong>106</strong>, 1230–1243 (2018).</div>
 </div>
+<div id="ref-mason2023intracellular" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Mason-Jones, K., Breidenbach, A., Dyckmans, J., Banfield, C. C. &amp; Dippold, M. A. Intracellular carbon storage by microorganisms is an overlooked pathway of biomass growth. <em>Nature Communications</em> <strong>14</strong>, 2240 (2023).</div>
 </div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">
-<div class="listing-date">
-May 13, 2024
+<div id="ref-joseph2020rhizosphere" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Joseph, J. <em>et al.</em> Rhizosphere activity in an old-growth forest reacts rapidly to changes in soil moisture and shapes whole-tree carbon allocation. <em>Proceedings of the National Academy of Sciences</em> <strong>117</strong>, 24885–24892 (2020).</div>
 </div>
-<div class="listing-author">
-Mauro Maver
+<div id="ref-gao2021drought" class="csl-entry" role="listitem">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Gao, D. <em>et al.</em> Drought alters the carbon footprint of trees in soils—tracking the spatio-temporal fate of 13C-labelled assimilates in the soil of an old-growth pine forest. <em>Global Change Biology</em> <strong>27</strong>, 2491–2506 (2021).</div>
 </div>
-<div class="listing-reading-time">
-4 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1714600800000" data-listing-file-modified-sort="1714591111951" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="749">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">
-<p><img src="./posts/posts_omnia/omnia_focus_II/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">Redefining tinnitus: a complex neurological disorder and its genetic roots</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-2</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">What is tinnitus exactly? A shift in the conception of tinnitus from being just a symptom of an underlying condition to being recognized as a neurological disorder redefines its long-established dogma definition. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">
-<div class="listing-date">
-May 2, 2024
-</div>
-<div class="listing-author">
-Sara Gomez-Cabellos
-</div>
-<div class="listing-reading-time">
-4 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1713304800000" data-listing-file-modified-sort="1714581787449" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="933">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">
-<p><img src="./posts/posts_omnia/omnia_focus_I/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">Floral synchrony: the role of <em>FLOWERING LOCUS T</em> in the leaf-specific vernalisation response in Arabidopsis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-1</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">This study by <em>Huang et al.</em> explores the intricate relationship between vernalisation, leaf-specific responses, and flowering synchrony in <em>Arabidopsis thaliana</em>. They uncover how leaf development during vernalisation impacts the expression of key flowering genes, suggesting a complex interplay between leaf-based processes and meristem regulation in determining flowering timing. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">
-<div class="listing-date">
-Apr 17, 2024
-</div>
-<div class="listing-author">
-Mauro Maver
-</div>
-<div class="listing-reading-time">
-5 min
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {13C Dynamics in Forest Rhizosphere Microbial Communities
+    Under Drought and Rewetting},
+  volume = {1},
+  number = {3},
+  date = {2024-05-13},
+  doi = {10.5281/zenodo.11148076},
+  langid = {en},
+  abstract = {This study by *Gao et al.* investigates the impact of
+    drought and soil rewetting on forest rhizosphere microbial
+    communities, tracing the dynamics of carbon-13
+    (\textsuperscript{13}C) in European beech and Scots pine forests.
+    Findings reveal significant shifts in \textsuperscript{13}C uptake
+    and microbial community resilience, shedding light on ecosystem
+    responses to climate change-induced stressors.}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Maver, M. 13C dynamics in forest rhizosphere
+microbial communities under drought and rewetting. <em>Omnia Focus</em>
+vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11148076">https://doi.org/10.5281/zenodo.11148076</a>
+(2024).</div>
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -897,5 +879,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
