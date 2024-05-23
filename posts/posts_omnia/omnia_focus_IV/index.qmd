@@ -39,7 +39,7 @@ keywords:
   - Transcriptome
   - Rice
 abstract: |
-  This study by *Huber et al.* demonstrates that supplemental far-red light significantly enhances growth and photosynthetic efficiency in rice without triggering a strong shade avoidance syndrome response. This suggests that that far-red light serves a dual role as an energy source and a proximity signal. These findings are crucial for optimising light management in greenhouse and vertical farming to maximise plant productivity.
+  This study by *Huber et al.* demonstrates that supplemental far-red light significantly enhances growth and photosynthetic efficiency in rice without triggering a strong shade avoidance syndrome response. This suggests that far-red light serves a dual role as an energy source and a proximity signal. These findings are crucial for optimising light management in greenhouse and vertical farming to maximise plant productivity.
 copyright:
   statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
 # license: "CC BY-NC-SA 4.0"
