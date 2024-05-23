@@ -1,0 +1,82 @@
+---
+title: "Enhanced photosynthesis in rice with far-red light supplement: unveiling dual roles beyond shade avoidance"
+subtitle: "Omnia *Focus* - Volume 1-4"
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Enhanced photosynthesis in rice with far-red light supplement: unveiling dual roles beyond shade avoidance"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 1
+  issue: 4
+  issued: 2024-05-23
+  doi: "10.5281/zenodo.11216925"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-05-23"
+doi: "10.5281/zenodo.11216925"
+keywords:
+  - Far-red light
+  - Photobiology
+  - Shade avoidance
+  - Shoot architecture
+  - Transcriptome
+  - Rice
+abstract: |
+  This study by *Huber et al.* demonstrates that supplemental far-red light significantly enhances growth and photosynthetic efficiency in rice without triggering a strong shade avoidance syndrome response. This suggests that that far-red light serves a dual role as an energy source and a proximity signal. These findings are crucial for optimising light management in greenhouse and vertical farming to maximise plant productivity.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+resources: 
+  - Omnia_focus_IV.pdf
+---
+
+::: drop-cap
+Light represents the primary source of energy for plants. Plants have developed elaborate strategies to maximise light exposure throughout their long evolution. This need is particularly crucial in environments with high vegetation density, where competition for light can be intense.
+:::
+
+In photosynthesis, the light spectrum between 400-700 nm is fundamental, while light between 700-800 nm, known as far-red (FR), contributes to photosynthesis only under specific conditions (e.g., Emerson effect) [@emerson1958quantum]. FR light is mainly known for its role as a signal indicating the presence of nearby vegetation. Nearby plants reflect FR light while absorbing red light, thus decreasing the Red:FR (R:FR) ratio. This reduction signals the proximity of other plants, triggering the shade avoidance syndrome (SAS). SAS induces changes in plant architecture, such as internode elongation, at the expense of forming new leaves and branches. Rice (*Oryza sativa*), one of the most important crops, is known for its sensitivity to high vegetation density and low light, although its response to SAS and to the R:FR ratio is still poorly studied.
+
+A study by *Huber et al.* [@huber2024far] examined the effect of supplemental FR light on architecture, growth, and the photosynthetic process in seven rice varieties. The plants were grown in a greenhouse under control conditions with white light (WL with R:FR 2.0), while the treatment involved supplemental FR light (WL + FR, R:FR 0.2). Analysis of the rice architecture revealed that plants exposed to FR exhibited an increase in leaves and tillers compared to those grown only in WL. This effect varied among the different rice varieties studied. However, no significant differences were observed in terms of height and internode length, indicating a weak SAS response and a promotion of vegetative growth.
+
+Following transcriptome analysis in 5-day-old seedlings, only a small number of differentially expressed genes (DEGs) from FR were common among all rice varieties. Specifically, only one gene (*LOC_Os09g27750*), which encodes an ethylene‐forming enzyme, was identified in all the varieties analysed. Subsequent Gene Ontology (GO) enrichment analysis showed that all genes regulated by FR, although limited in number, were primarily involved in photosynthetic processes and localised at the chloroplast level. Overall, the impact of FR on gene regulation was limited to specific physiological processes.
+
+Despite the weak SAS response in rice, a key aspect of the study was the effect of FR light on biomass accumulation and photosynthesis. The results showed that plants exposed to FR light had a higher rate of leaf formation, increased total leaf area, and more tillers, leading to a significant increase in root and shoot biomass. This effect was further confirmed with FR pulse treatments at the end of the light cycle (15 min WL + EoD FR) to further trigger SAS. In this case, a reduction in tillers and leaves was observed, suggesting that WL + FR can indeed promote growth and development in rice.
+
+To better understand the role of FR in promoting biomass accumulation and plant development, the authors focused on investigating the effects of FR light on photosynthesis. They found that supplemental FR light did not significantly alter stomatal density or chlorophyll content. However, carbon dioxide (CO<sub>2</sub>) fixation was significantly increased only in plants exposed to WL + FR, with some varieties showing almost double the fixation compared to the control. Additionally, no effects on stomatal conductance were observed, suggesting that FR can increase photosynthesis without causing greater water loss through transpiration, contrary to blue and red photons [@chen2012systems; @matthews2020role].
+
+This study by *Huber et al.* demonstrated that FR light not only acts as a shade/proximity signal but also as an energy source for photosynthesis and biomass accumulation, consistent with other studies [@park2017far; @zhen2020far]. WL + FR significantly increased growth and photosynthetic processes in rice without activating a noticeable SAS response. This suggests that rice may rely on other light signals (such as blue or red light) or chemical signals (e.g., volatile organic compounds) to sense the density of surrounding vegetation. Furthermore, the weak SAS response in rice may have been overshadowed by the strong promotion provided by the FR supplement.
+
+In conclusion, the interaction between FR and the photosynthetic photon flux density (PPFD) in photosynthesis needs further investigation, especially to understand how FR can compensate for a reduction in PPFD, particularly in the lower canopy zones [@huber2021light]. These results are particularly relevant for optimising light in greenhouse and vertical farming systems, where controlling light quality and quantity is crucial for maximising plant growth and productivity.
+
+👉 [PDF version](Omnia_focus_IV.pdf "Here you can download the PDF version")
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Huber, M., de Boer, H.J., Romanowski, A., van Veen, H., Buti, S., Kahlon, P.S. et al. (2024). Far-red light enrichment affects gene expression and architecture as well as growth and photosynthesis in rice. *Plant, Cell & Environment* 1–18 [doi.org/10.1111/pce.14909](https://doi.org/10.1111/pce.14909)
+
+**List of abbreviations**
+
+**nm**, nanometre **•** **SAS**, shade avoidance syndrome **•** **R:FR**, red to far‐red light ratio **•** **WL**, white light **•** **WL + FR**, white light with supplemental far‐red light **•** **WL + EoD FR**, end of day far‐red light (EoD FR) **•** **PPFD**, photosynthetic photon flux density.
+:::
