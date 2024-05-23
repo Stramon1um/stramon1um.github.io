@@ -25,12 +25,12 @@ citation:
   volume: 1
   issue: 4
   issued: 2024-05-23
-  doi: "10.5281/zenodo.11216925"
+  doi: "10.5281/zenodo.11216924"
   #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
 #appendix-cite-as: display
 google-scholar: true
 date: "2024-05-23"
-doi: "10.5281/zenodo.11216925"
+doi: "10.5281/zenodo.11216924"
 keywords:
   - Far-red light
   - Photobiology
