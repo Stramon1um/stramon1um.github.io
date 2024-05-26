@@ -1,5 +1,5 @@
 ---
-title: "Alfabeto gaelico"
+title: "**Alfabeto gaelico**"
 subtitle: "Prima parte riguardante l'alfabeto"
 author: "Mauro M"
 date: "2024-02-07"

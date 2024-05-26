@@ -1,5 +1,5 @@
 ---
-title: "Alfabeto gaelico II"
+title: "**Alfabeto gaelico II**"
 subtitle: "Seconda parte riguardante l'alfabeto"
 author: "Mauro M"
 date: "2024-02-26"

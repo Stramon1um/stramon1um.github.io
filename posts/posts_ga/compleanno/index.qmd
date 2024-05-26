@@ -1,0 +1,61 @@
+---
+title: "**Auguri di Buon Compleanno!**"
+subtitle: "Come augurare un buon compleanno in irlandese"
+author: "Mauro M"
+date: "2024-05-26"
+categories: [gaelico, irlandese, compleanno, auguri]
+image: "image.jpg"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Buongiorno!
+
+Questo breve post è dedicato agli auguri di compleanno in pieno stile
+irlandese. A volte capita di avere un amico o un'amica appassionato/a
+dell'Irlanda e di voler dedicargli/le un augurio speciale nel giorno del
+suo compleanno. Cercando su Google, si possono trovare molti link
+sull'argomento, ma è facile incappare in errori.
+
+Uno degli errori più comuni è scegliere il gaelico sbagliato, poiché
+esiste anche quello scozzese e, nella maggior parte dei casi, non viene
+specificato chiaramente di quale si tratti, facendoci credere per
+l'appunto che sia irlandese. Inoltre, può capitare di trovare frasi in
+gaelico irlandese scritte in modo errato. Per evitare figuracce
+imbarazzanti, ecco la frase di augurio di compleanno più utilizzata in
+Irlanda:
+
+::: {style="text-align: center; font-size: 32px"}
+***Breithlá sona duit!***
+:::
+
+e non **Breithlá shona dhuit!** (visto che *lá* \[giorno\] è maschile).
+Questa frase si utilizza quando si fa l'augurio a una sola persona.
+Quando ci sono più festeggiati (ad esempio in un compleanno di gruppo),
+si usa la seguente variante:
+
+::: {style="text-align: center; font-size: 32px"}
+***Breithlá sona daoibh!***
+:::
+
+### Altra Variante
+
+Esiste una seconda forma, sebbene raramente usata, che esprime più o
+meno lo stesso augurio:
+
+::: {style="text-align: center; font-size: 24px"}
+***Lá breithe maith agat!***
+:::
+
+Come ripeto, questa forma è difficilmente utilizzata.
+
+Ora potrete tranquillamente augurare un felice compleanno irlandese alla
+persona che vi è più cara, e state sicuri che questo pensiero sarà ben
+apprezzato!
+
+Buon compleanno in stile irlandese! 🎂🍀
+
+*Alla prossima!*
+
+*Slán go fóill!*
