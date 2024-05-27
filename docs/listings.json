@@ -1,26 +1,5 @@
 [
   {
-    "listing": "/blog_en.html",
-    "items": [
-      "/posts/posts_en/post-with-code/index.html"
-    ]
-  },
-  {
-    "listing": "/omnia.html",
-    "items": [
-      "/posts/posts_omnia/omnia_focus_IV/index.html",
-      "/posts/posts_omnia/omnia_focus_III/index.html",
-      "/posts/posts_omnia/omnia_focus_II/index.html",
-      "/posts/posts_omnia/omnia_focus_I/index.html"
-    ]
-  },
-  {
-    "listing": "/blog_it.html",
-    "items": [
-      "/posts/posts_it/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/blog_ga.html",
     "items": [
       "/posts/posts_ga/compleanno/index.html",
@@ -35,6 +14,15 @@
       "/posts/posts_ga/un_minuto/index.html",
       "/posts/posts_ga/il_gaelico/index.html",
       "/posts/posts_ga/primissimo_post/index.html"
+    ]
+  },
+  {
+    "listing": "/omnia.html",
+    "items": [
+      "/posts/posts_omnia/omnia_focus_IV/index.html",
+      "/posts/posts_omnia/omnia_focus_III/index.html",
+      "/posts/posts_omnia/omnia_focus_II/index.html",
+      "/posts/posts_omnia/omnia_focus_I/index.html"
     ]
   }
 ]
