@@ -10,6 +10,10 @@ page-layout: full
 
 ::: {.style style="font-size:16px;text-align:justify"}
 
+## 2024
+
+-   **Microplastic influences the ménage à trois among the plant, a fungal pathogen, and a plant growth-promoting fungal species.** Bouaicha O, *Maver M*, Mimmo T, Cesco S & Borruso L. 2024. *Ecotoxicology and Environmental Safety*. [DOI](https://doi.org/10.1016/j.ecoenv.2024.116518)
+
 ## 2022
 
 -   **The interplay between nitrogenated allelochemicals, mineral nutrition and metabolic profile in barley roots.** *Maver M*, Trevisan F, Miras-Moreno B, Lucini L, Trevisan M, Cesco S & Mimmo T. 2022. *Plant and Soil*. [DOI](https://doi.org/10.1007/s11104-022-05553-8)
