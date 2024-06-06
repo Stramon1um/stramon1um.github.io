@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Mauro Maver">
+<meta name="dcterms.date" content="2024-06-06">
+<meta name="keywords" content="Co-cropping, Defence metabolites, <em>Meloidogyne</em>, Benzanoxinoids, <em>Trifolium</em>">
 
-<title>Mauro Maver - Omnia</title>
+<title>Mauro Maver - Enhancing root-knot nematode invasion resistance in clover through root uptake of benzoxazinoids</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +23,44 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<link href="./foto.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<link href="../../../foto.png" rel="icon" type="image/png">
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -55,35 +76,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle','listing-author','listing-reading-time','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GEXKYETG1W"></script>
 
 <script type="text/javascript">
@@ -101,53 +93,47 @@ gtag('config', 'G-GEXKYETG1W', { 'anonymize_ip': true});
       }
 </style>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Mauro Maver - Omnia">
-<meta property="og:description" content="An independent and multidisciplinary open-access journal, created by Mauro Maver">
+<link rel="stylesheet" href="../../../styles.css">
+<meta property="og:title" content="Mauro Maver - Enhancing root-knot nematode invasion resistance in clover through root uptake of benzoxazinoids">
+<meta property="og:description" content="This study by Hama et al. demonstrates that clover can absorb and metabolise benzoxazinoids from other plants, significantly enhancing its resistance to nematode invasion temporarily. The findings suggest that continuous benzoxazinoids release in co-cropping systems could sustain pathogen protection in non-benzoxazinoids-producing plants like clover.">
+<meta property="og:image" content="image.jpg">
 <meta property="og:site_name" content="Mauro Maver">
-<meta name="twitter:title" content="Mauro Maver - Omnia">
-<meta name="twitter:description" content="An independent and multidisciplinary open-access journal, created by Mauro Maver">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Mauro Maver - Enhancing root-knot nematode invasion resistance in clover through root uptake of benzoxazinoids">
+<meta name="twitter:description" content="This study by Hama et al. demonstrates that clover can absorb and metabolise benzoxazinoids from other plants, significantly enhancing its resistance to nematode invasion temporarily. The findings suggest that continuous benzoxazinoids release in co-cropping systems could sustain pathogen protection in non-benzoxazinoids-producing plants like clover.">
+<meta name="twitter:image" content="image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="citation_title" content="Enhancing root-knot nematode invasion resistance in clover through root uptake of benzoxazinoids">
+<meta name="citation_abstract" content="This study by *Hama et al.* demonstrates that clover can absorb and metabolise benzoxazinoids from other plants, significantly enhancing its resistance to nematode invasion temporarily. The findings suggest that continuous benzoxazinoids release in co-cropping systems could sustain pathogen protection in non-benzoxazinoids-producing plants like clover.
+">
+<meta name="citation_keywords" content="Co-cropping,Defence metabolites,*Meloidogyne*,Benzanoxinoids,*Trifolium*">
+<meta name="citation_author" content="Mauro Maver">
+<meta name="citation_publication_date" content="2024-06-06">
+<meta name="citation_cover_date" content="2024-06-06">
+<meta name="citation_year" content="2024">
+<meta name="citation_online_date" content="2024-06-06">
+<meta name="citation_issue" content="5">
+<meta name="citation_doi" content="10.5281/zenodo.11491221">
+<meta name="citation_volume" content="1">
+<meta name="citation_language" content="en">
+<meta name="citation_journal_title" content="Omnia Focus">
+<meta name="citation_publisher" content="Omnia">
+<meta name="citation_reference" content="citation_title=The role of root exudates and allelochemicals in the rhizosphere;,citation_author=Cecile Bertin;,citation_author=Xiaohan Yang;,citation_author=Leslie A Weston;,citation_publication_date=2003;,citation_cover_date=2003;,citation_year=2003;,citation_volume=256;,citation_journal_title=Plant and soil;,citation_publisher=Springer;">
+<meta name="citation_reference" content="citation_title=Root-exuded benzoxazinoids: Uptake and translocation in neighboring plants;,citation_author=Hossein Hazrati;,citation_author=Inge S Fomsgaard;,citation_author=Per Kudsk;,citation_publication_date=2020;,citation_cover_date=2020;,citation_year=2020;,citation_issue=39;,citation_volume=68;,citation_journal_title=Journal of Agricultural and Food Chemistry;,citation_publisher=ACS Publications;">
+<meta name="citation_reference" content="citation_title=Reproduction of meloidogyne incognita on winter cover crops used in cotton production;,citation_author=Patricia Timper;,citation_author=Richard F Davis;,citation_author=P Glynn Tillman;,citation_publication_date=2006;,citation_cover_date=2006;,citation_year=2006;,citation_issue=1;,citation_volume=38;,citation_journal_title=Journal of nematology;,citation_publisher=Society of Nematologists;">
+<meta name="citation_reference" content="citation_title=Trap crops for meloidogyne hapla management and its integration with supplementary strategies;,citation_author=Mette Vestergård;,citation_publication_date=2019;,citation_cover_date=2019;,citation_year=2019;,citation_volume=134;,citation_journal_title=Applied soil ecology;,citation_publisher=Elsevier;">
+<meta name="citation_reference" content="citation_title=Hydroxamic acids derived from 2-hydroxy-2H-1,4-benzoxazin-3(4H)-one: Key defense chemicals of cereals;,citation_author=Hermann M Niemeyer;,citation_publication_date=2009;,citation_cover_date=2009;,citation_year=2009;,citation_issue=5;,citation_volume=57;,citation_journal_title=Journal of agricultural and food chemistry;,citation_publisher=ACS Publications;">
+<meta name="citation_reference" content="citation_title=Root uptake of cereal benzoxazinoids grants resistance to root-knot nematode invasion in white clover;,citation_author=Jawameer R Hama;,citation_author=Inge S Fomsgaard;,citation_author=Olivera Topalović;,citation_author=Mette Vestergård;,citation_publication_date=2024;,citation_cover_date=2024;,citation_year=2024;,citation_volume=210;,citation_journal_title=Plant Physiology and Biochemistry;,citation_publisher=Elsevier;">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Mauro Maver</span>
     </a>
   </div>
@@ -157,19 +143,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./papers.html"> 
+    <a class="nav-link" href="../../../papers.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./omnia.html" aria-current="page"> 
+    <a class="nav-link" href="../../../omnia.html"> 
 <span class="menu-text">Omnia</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog_ga.html"> 
+    <a class="nav-link" href="../../../blog_ga.html"> 
 <span class="menu-text">Blog 🇮🇪</span></a>
   </li>  
   <li class="nav-item compact">
@@ -193,201 +179,135 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Omnia</h1>
-            <p class="subtitle lead">An independent and multidisciplinary open-access journal, created by <a href="https://www.mauromaver.eu"><strong>Mauro Maver</strong></a></p>
+    <div class="quarto-title column-body">
+      <h1 class="title">Enhancing root-knot nematode invasion resistance in clover through root uptake of benzoxazinoids</h1>
+            <p class="subtitle lead">Omnia <em>Focus</em> - Volume 1-5</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p><a href="https://www.mauromaver.eu">Mauro Maver, PhD</a> <a href="mailto:mauromaver@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0002-8162-3618" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+            </div>
+    </div>
       
-    
-      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">June 6, 2024</p>
+      </div>
     </div>
     
+      
+      <div>
+      <div class="quarto-title-meta-heading">Doi</div>
+      <div class="quarto-title-meta-contents">
+        <p class="doi">
+          <a href="https://doi.org/10.5281/zenodo.11491221">10.5281/zenodo.11491221</a>
+        </p>
+      </div>
+    </div>
+    </div>
+    
+  <div>
+    <div class="abstract">
+      <div class="block-title">Abstract</div>
+      <p>This study by <em>Hama et al.</em> demonstrates that clover can absorb and metabolise benzoxazinoids from other plants, significantly enhancing its resistance to nematode invasion temporarily. The findings suggest that continuous benzoxazinoids release in co-cropping systems could sustain pathogen protection in non-benzoxazinoids-producing plants like clover.</p>
+    </div>
+  </div>
+
+  <div>
+    <div class="keywords">
+      <div class="block-title">Keywords</div>
+      <p>Co-cropping, Defence metabolites, <em>Meloidogyne</em>, Benzanoxinoids, <em>Trifolium</em></p>
+    </div>
+  </div>
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
-<section id="omnia-focus" class="level2">
-<h2 class="anchored" data-anchor-id="omnia-focus">Omnia <em>Focus</em></h2>
+<div class="drop-cap">
+<p>The evolution of plants has led to the development of complex defensive strategies based on metabolites, specifically secondary metabolites. Plants often co-evolved in biodiversity-rich environments, developing mechanisms to exploit metabolites released by other plants for their own defence. This phenomenon underpins co-cropping, where two crops grow in the same space, allowing chemical interaction between plants through metabolite release<span class="citation" data-cites="bertin2003role"><sup><a href="#ref-bertin2003role" role="doc-biblioref">1</a></sup></span>. In this context, one plant acts as the donor while the other as the target, with metabolites influencing growth, pathogen defence, and shaping rhizosphere communities.</p>
+</div>
+<p>Among these metabolites are benzoxazinoids (BXs), a class of compounds primarily found in <em>Poaceae</em>, which play crucial roles in the rhizosphere, such as soil pathogen defence and allelopathic effects<span class="citation" data-cites="hazrati2020root"><sup><a href="#ref-hazrati2020root" role="doc-biblioref">2</a></sup></span>. An underexplored aspect is the uptake of BXs by plants that are naturally lacking and whether this can enhance their pathogen resistance. A relevant example is clover (<em>Trifolium</em> spp.), an important legume in many inter-cropping systems for its nitrogen-fixing ability. However, clover is also an excellent host for root-knot nematodes (<em>Meloidogyne</em> spp.)<span class="citation" data-cites="timper2006reproduction vestergaard2019trap"><sup><a href="#ref-timper2006reproduction" role="doc-biblioref">3</a>,<a href="#ref-vestergaard2019trap" role="doc-biblioref">4</a></sup></span>.</p>
+<p>In this context, <em>Hama et al.</em><span class="citation" data-cites="hama2024root"><sup><a href="#ref-hama2024root" role="doc-biblioref">5</a></sup></span> investigated the uptake, transformation, and translocation of BXs, and how they influenced nematode resistance in white clover (<em>Trifolium repens</em> L.). Exposed to different BXs to facilitate absorption, clover plants were subsequently transferred to BXs-free soil. This soil was then inoculated with 2–7 day-old infective juveniles (J2 stage) of the root-knot nematode <em>Meloidogyne incognita</em>. Plants were sampled at 0, 3, 5.5, and 8 weeks post-transfer, analysing BXs concentrations and nematode invasion rates over time. The experiments were designed to separate the timing and location of BXs exposure from nematode infestation to prevent any direct effects of BXs on the nematodes.</p>
+<p>The experiments demonstrated that clover could absorb and translocate the applied BXs to its leaves. Additionally, clover showed the ability to metabolise them, an example being the glycosylation of DIBOA into DIBOA-glc, a detoxification and storage mechanism common in BX-producing plants<span class="citation" data-cites="niemeyer2009hydroxamic"><sup><a href="#ref-niemeyer2009hydroxamic" role="doc-biblioref">6</a></sup></span> but not previously observed in clover. However, by 5.5 weeks post-transfer, no BXs were detected, suggesting that without continuous exposure, BXs concentrations in clover diminish until undetectable.</p>
+<p>A key aspect of the study was the effect of BXs on nematode invasion. The authors observed that exposure to BXs significantly reduced nematode invasion. At 3 weeks post-transfer, all tested BXs showed a significant reduction in nematode invasion compared to the control, with the greatest reduction observed for HBOA (-68%). However, the effect diminished over time, with a significant reduction in invasion rate at 5.5 weeks only for DIBOA and no difference at 8 weeks. This decline in nematode suppression mirrors the reduction in concentrations of BXs in the roots, as clover cannot naturally synthesise them.</p>
+<p>This study is the first to show that the uptake of defence metabolites by other plant species can significantly improve pathogen resistance. Although nematode invasion in clover was notably reduced up to 5.5 weeks after the last BXs exposure, the effect diminished without continuous supply. This suggests that in a co-cropping context, the continuous release of BXs by producing plants like wheat or rye could maintain sufficient levels of these compounds in the soil, extending the protective effect in clover.</p>
+<p><em>Hama et al.</em> study advances our understanding of plant interactions in co-cropping systems. It demonstrated that secondary metabolites such as BXs can be transferred from one plant to another, enhancing pathogen resistance. However, this effect is temporary and tied to the ongoing availability of BXs in the soil.</p>
+<p>These findings suggest that intercropping with BX-producing plants could effectively improve pathogen resistance while reducing pesticide use. Further field studies are necessary to fully evaluate the long-term benefits and drawbacks of these interactions and develop optimal agricultural practices.</p>
+<p>👉 <a href="Omnia_focus_V.pdf" title="Here you can download the PDF version">PDF version</a></p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Hama, J.R., Fomsgaard, I.S., Topalović, O., &amp; Vestergård, M. (2024). Root uptake of cereal benzoxazinoids grants resistance to root-knot nematode invasion in white clover. <em>Plant Physiology and Biochemistry</em>, 210, 108636. <a href="https://doi.org/10.1016/j.plaphy.2024.108636">doi.org/10.1016/j.plaphy.2024.108636</a></p>
+<p><strong>List of abbreviations</strong></p>
+<p><strong>BXs</strong>, benzanoxinoids compunds (2,4-dihydroxy-1,4-benzoxazin-3-one, 2-hydroxy-1,4-benzoxazin-3-one, benzoxazolinone, and 6-methoxy- benzoxazolin-2-one) <strong>•</strong> <strong>DIBOA</strong>, 2,4-dihydroxy-1,4-benzoxazin-3-one <strong>•</strong> <strong>DIBOA-glc</strong>, 2-β-D-glucopyranosyloxy-4-hydroxy-1,4-benzoxazin-3-one <strong>•</strong> <strong>HBOA</strong>, 2-hydroxy-1,4-benzoxazin-3-one</p>
+</div>
+</div>
+</div>
 
 
 
-</section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1717624800000" data-listing-file-modified-sort="1717665995028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="661">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external">
-<p><img src="./posts/posts_omnia/omnia_focus_V/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external"></a></p>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-bertin2003role" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Bertin, C., Yang, X. &amp; Weston, L. A. The role of root exudates and allelochemicals in the rhizosphere. <em>Plant and soil</em> <strong>256</strong>, 67–83 (2003).</div>
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external">Enhancing root-knot nematode invasion resistance in clover through root uptake of benzoxazinoids</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-5</a>
+<div id="ref-hazrati2020root" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Hazrati, H., Fomsgaard, I. S. &amp; Kudsk, P. Root-exuded benzoxazinoids: Uptake and translocation in neighboring plants. <em>Journal of Agricultural and Food Chemistry</em> <strong>68</strong>, 10609–10617 (2020).</div>
 </div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external">This study by <em>Hama et al.</em> demonstrates that clover can absorb and metabolise benzoxazinoids from other plants, significantly enhancing its resistance to nematode invasion temporarily. The findings suggest that continuous benzoxazinoids release in co-cropping systems could sustain pathogen protection in non-benzoxazinoids-producing plants like clover. </a>
+<div id="ref-timper2006reproduction" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Timper, P., Davis, R. F. &amp; Tillman, P. G. Reproduction of meloidogyne incognita on winter cover crops used in cotton production. <em>Journal of nematology</em> <strong>38</strong>, 83 (2006).</div>
 </div>
+<div id="ref-vestergaard2019trap" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Vestergård, M. Trap crops for meloidogyne hapla management and its integration with supplementary strategies. <em>Applied soil ecology</em> <strong>134</strong>, 105–110 (2019).</div>
 </div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external">
-<div class="listing-date">
-Jun 6, 2024
+<div id="ref-hama2024root" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Hama, J. R., Fomsgaard, I. S., Topalović, O. &amp; Vestergård, M. Root uptake of cereal benzoxazinoids grants resistance to root-knot nematode invasion in white clover. <em>Plant Physiology and Biochemistry</em> <strong>210</strong>, 108636 (2024).</div>
 </div>
-<div class="listing-author">
-Mauro Maver
+<div id="ref-niemeyer2009hydroxamic" class="csl-entry" role="listitem">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Niemeyer, H. M. Hydroxamic acids derived from 2-hydroxy-2H-1,4-benzoxazin-3(4H)-one: Key defense chemicals of cereals. <em>Journal of agricultural and food chemistry</em> <strong>57</strong>, 1677–1696 (2009).</div>
 </div>
-<div class="listing-reading-time">
-4 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1716415200000" data-listing-file-modified-sort="1716471953274" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="827">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external">
-<p><img src="./posts/posts_omnia/omnia_focus_IV/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external">Enhanced photosynthesis in rice with far-red light supplement: unveiling dual roles beyond shade avoidance</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-4</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external">This study by <em>Huber et al.</em> demonstrates that supplemental far-red light significantly enhances growth and photosynthetic efficiency in rice without triggering a strong shade avoidance syndrome response. This suggests that far-red light serves a dual role as an energy source and a proximity signal. These findings are crucial for optimising light management in greenhouse and vertical farming to maximise plant productivity. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external">
-<div class="listing-date">
-May 23, 2024
-</div>
-<div class="listing-author">
-Mauro Maver
-</div>
-<div class="listing-reading-time">
-5 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1715551200000" data-listing-file-modified-sort="1715349255657" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="752">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">
-<p><img src="./posts/posts_omnia/omnia_focus_III/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external"><sup>13</sup>C dynamics in forest rhizosphere microbial communities under drought and rewetting</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-3</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">This study by <em>Gao et al.</em> investigates the impact of drought and soil rewetting on forest rhizosphere microbial communities, tracing the dynamics of carbon-13 (<sup>13</sup>C) in European beech and Scots pine forests. Findings reveal significant shifts in <sup>13</sup>C uptake and microbial community resilience, shedding light on ecosystem responses to climate change-induced stressors. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">
-<div class="listing-date">
-May 13, 2024
-</div>
-<div class="listing-author">
-Mauro Maver
-</div>
-<div class="listing-reading-time">
-4 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1714600800000" data-listing-file-modified-sort="1714591111951" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="749">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">
-<p><img src="./posts/posts_omnia/omnia_focus_II/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">Redefining tinnitus: a complex neurological disorder and its genetic roots</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-2</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">What is tinnitus exactly? A shift in the conception of tinnitus from being just a symptom of an underlying condition to being recognized as a neurological disorder redefines its long-established dogma definition. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">
-<div class="listing-date">
-May 2, 2024
-</div>
-<div class="listing-author">
-Sara Gomez-Cabellos
-</div>
-<div class="listing-reading-time">
-4 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1713304800000" data-listing-file-modified-sort="1714581787449" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="933">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">
-<p><img src="./posts/posts_omnia/omnia_focus_I/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">Floral synchrony: the role of <em>FLOWERING LOCUS T</em> in the leaf-specific vernalisation response in Arabidopsis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-1</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">This study by <em>Huang et al.</em> explores the intricate relationship between vernalisation, leaf-specific responses, and flowering synchrony in <em>Arabidopsis thaliana</em>. They uncover how leaf development during vernalisation impacts the expression of key flowering genes, suggesting a complex interplay between leaf-based processes and meristem regulation in determining flowering timing. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">
-<div class="listing-date">
-Apr 17, 2024
-</div>
-<div class="listing-author">
-Mauro Maver
-</div>
-<div class="listing-reading-time">
-5 min
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {Enhancing Root-Knot Nematode Invasion Resistance in Clover
+    Through Root Uptake of Benzoxazinoids},
+  volume = {1},
+  number = {5},
+  date = {2024-06-06},
+  doi = {10.5281/zenodo.11491221},
+  langid = {en},
+  abstract = {This study by *Hama et al.* demonstrates that clover can
+    absorb and metabolise benzoxazinoids from other plants,
+    significantly enhancing its resistance to nematode invasion
+    temporarily. The findings suggest that continuous benzoxazinoids
+    release in co-cropping systems could sustain pathogen protection in
+    non-benzoxazinoids-producing plants like clover.}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Maver, M. Enhancing root-knot nematode invasion
+resistance in clover through root uptake of benzoxazinoids. <em>Omnia
+Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11491221">https://doi.org/10.5281/zenodo.11491221</a>
+(2024).</div>
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -959,5 +879,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

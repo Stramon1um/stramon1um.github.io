@@ -1,0 +1,81 @@
+---
+title: "Enhancing root-knot nematode invasion resistance in clover through root uptake of benzoxazinoids"
+subtitle: "Omnia *Focus* - Volume 1-5"
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Enhancing root-knot nematode invasion resistance in clover through root uptake of benzoxazinoids"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 1
+  issue: 5
+  issued: 2024-06-06
+  doi: "10.5281/zenodo.11491221"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-06-06"
+doi: "10.5281/zenodo.11491221"
+keywords:
+  - Co-cropping
+  - Defence metabolites
+  - "*Meloidogyne*"
+  - Benzanoxinoids
+  - "*Trifolium*"
+abstract: |
+  This study by *Hama et al.* demonstrates that clover can absorb and metabolise benzoxazinoids from other plants, significantly enhancing its resistance to nematode invasion temporarily. The findings suggest that continuous benzoxazinoids release in co-cropping systems could sustain pathogen protection in non-benzoxazinoids-producing plants like clover.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+resources: 
+  - Omnia_focus_V.pdf
+---
+
+::: drop-cap
+The evolution of plants has led to the development of complex defensive strategies based on metabolites, specifically secondary metabolites. Plants often co-evolved in biodiversity-rich environments, developing mechanisms to exploit metabolites released by other plants for their own defence. This phenomenon underpins co-cropping, where two crops grow in the same space, allowing chemical interaction between plants through metabolite release [@bertin2003role]. In this context, one plant acts as the donor while the other as the target, with metabolites influencing growth, pathogen defence, and shaping rhizosphere communities.
+:::
+
+Among these metabolites are benzoxazinoids (BXs), a class of compounds primarily found in *Poaceae*, which play crucial roles in the rhizosphere, such as soil pathogen defence and allelopathic effects [@hazrati2020root]. An underexplored aspect is the uptake of BXs by plants that are naturally lacking and whether this can enhance their pathogen resistance. A relevant example is clover (*Trifolium* spp.), an important legume in many inter-cropping systems for its nitrogen-fixing ability. However, clover is also an excellent host for root-knot nematodes (*Meloidogyne* spp.) [@timper2006reproduction; @vestergaard2019trap].
+
+In this context, *Hama et al.* [@hama2024root] investigated the uptake, transformation, and translocation of BXs, and how they influenced nematode resistance in white clover (*Trifolium repens* L.). Exposed to different BXs to facilitate absorption, clover plants were subsequently transferred to BXs-free soil. This soil was then inoculated with 2–7 day-old infective juveniles (J2 stage) of the root-knot nematode *Meloidogyne incognita*. Plants were sampled at 0, 3, 5.5, and 8 weeks post-transfer, analysing BXs concentrations and nematode invasion rates over time. The experiments were designed to separate the timing and location of BXs exposure from nematode infestation to prevent any direct effects of BXs on the nematodes.
+
+The experiments demonstrated that clover could absorb and translocate the applied BXs to its leaves. Additionally, clover showed the ability to metabolise them, an example being the glycosylation of DIBOA into DIBOA-glc, a detoxification and storage mechanism common in BX-producing plants [@niemeyer2009hydroxamic] but not previously observed in clover. However, by 5.5 weeks post-transfer, no BXs were detected, suggesting that without continuous exposure, BXs concentrations in clover diminish until undetectable.
+
+A key aspect of the study was the effect of BXs on nematode invasion. The authors observed that exposure to BXs significantly reduced nematode invasion. At 3 weeks post-transfer, all tested BXs showed a significant reduction in nematode invasion compared to the control, with the greatest reduction observed for HBOA (-68%). However, the effect diminished over time, with a significant reduction in invasion rate at 5.5 weeks only for DIBOA and no difference at 8 weeks. This decline in nematode suppression mirrors the reduction in concentrations of BXs in the roots, as clover cannot naturally synthesise them.
+
+This study is the first to show that the uptake of defence metabolites by other plant species can significantly improve pathogen resistance. Although nematode invasion in clover was notably reduced up to 5.5 weeks after the last BXs exposure, the effect diminished without continuous supply. This suggests that in a co-cropping context, the continuous release of BXs by producing plants like wheat or rye could maintain sufficient levels of these compounds in the soil, extending the protective effect in clover.
+
+*Hama et al.* study advances our understanding of plant interactions in co-cropping systems. It demonstrated that secondary metabolites such as BXs can be transferred from one plant to another, enhancing pathogen resistance. However, this effect is temporary and tied to the ongoing availability of BXs in the soil.
+
+These findings suggest that intercropping with BX-producing plants could effectively improve pathogen resistance while reducing pesticide use. Further field studies are necessary to fully evaluate the long-term benefits and drawbacks of these interactions and develop optimal agricultural practices.
+
+👉 [PDF version](Omnia_focus_V.pdf "Here you can download the PDF version")
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Hama, J.R., Fomsgaard, I.S., Topalović, O., & Vestergård, M. (2024). Root uptake of cereal benzoxazinoids grants resistance to root-knot nematode invasion in white clover. *Plant Physiology and Biochemistry*, 210, 108636. [doi.org/10.1016/j.plaphy.2024.108636](https://doi.org/10.1016/j.plaphy.2024.108636)
+
+**List of abbreviations**
+
+**BXs**, benzanoxinoids compunds (2,4-dihydroxy-1,4-benzoxazin-3-one, 2-hydroxy-1,4-benzoxazin-3-one, benzoxazolinone, and 6-methoxy- benzoxazolin-2-one) **•** **DIBOA**, 2,4-dihydroxy-1,4-benzoxazin-3-one **•** **DIBOA-glc**, 2-β-D-glucopyranosyloxy-4-hydroxy-1,4-benzoxazin-3-one **•** **HBOA**, 2-hydroxy-1,4-benzoxazin-3-one
+:::
