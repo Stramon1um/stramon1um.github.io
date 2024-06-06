@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mauro Maver</title>
+<link>https://www.mauromaver.eu/omnia.html</link>
+<atom:link href="https://www.mauromaver.eu/omnia.xml" rel="self" type="application/rss+xml"/>
+<description>Portfolio</description>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Wed, 05 Jun 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Enhancing root-knot nematode invasion resistance in clover through root uptake of benzoxazinoids</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_V/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="drop-cap">
+<p>The evolution of plants has led to the development of complex defensive strategies based on metabolites, specifically secondary metabolites. Plants often co-evolved in biodiversity-rich environments, developing mechanisms to exploit metabolites released by other plants for their own defence. This phenomenon underpins co-cropping, where two crops grow in the same space, allowing chemical interaction between plants through metabolite release<span class="citation" data-cites="bertin2003role"><sup>1</sup></span>. In this context, one plant acts as the donor while the other as the target, with metabolites influencing growth, pathogen defence, and shaping rhizosphere communities.</p>
+</div>
+<p>Among these metabolites are benzoxazinoids (BXs), a class of compounds primarily found in <em>Poaceae</em>, which play crucial roles in the rhizosphere, such as soil pathogen defence and allelopathic effects<span class="citation" data-cites="hazrati2020root"><sup>2</sup></span>. An underexplored aspect is the uptake of BXs by plants that are naturally lacking and whether this can enhance their pathogen resistance. A relevant example is clover (<em>Trifolium</em> spp.), an important legume in many inter-cropping systems for its nitrogen-fixing ability. However, clover is also an excellent host for root-knot nematodes (<em>Meloidogyne</em> spp.)<span class="citation" data-cites="timper2006reproduction vestergaard2019trap"><sup>3,4</sup></span>.</p>
+<p>In this context, <em>Hama et al.</em><span class="citation" data-cites="hama2024root"><sup>5</sup></span> investigated the uptake, transformation, and translocation of BXs, and how they influenced nematode resistance in white clover (<em>Trifolium repens</em> L.). Exposed to different BXs to facilitate absorption, clover plants were subsequently transferred to BXs-free soil. This soil was then inoculated with 2–7 day-old infective juveniles (J2 stage) of the root-knot nematode <em>Meloidogyne incognita</em>. Plants were sampled at 0, 3, 5.5, and 8 weeks post-transfer, analysing BXs concentrations and nematode invasion rates over time. The experiments were designed to separate the timing and location of BXs exposure from nematode infestation to prevent any direct effects of BXs on the nematodes.</p>
+<p>The experiments demonstrated that clover could absorb and translocate the applied BXs to its leaves. Additionally, clover showed the ability to metabolise them, an example being the glycosylation of DIBOA into DIBOA-glc, a detoxification and storage mechanism common in BX-producing plants<span class="citation" data-cites="niemeyer2009hydroxamic"><sup>6</sup></span> but not previously observed in clover. However, by 5.5 weeks post-transfer, no BXs were detected, suggesting that without continuous exposure, BXs concentrations in clover diminish until undetectable.</p>
+<p>A key aspect of the study was the effect of BXs on nematode invasion. The authors observed that exposure to BXs significantly reduced nematode invasion. At 3 weeks post-transfer, all tested BXs showed a significant reduction in nematode invasion compared to the control, with the greatest reduction observed for HBOA (-68%). However, the effect diminished over time, with a significant reduction in invasion rate at 5.5 weeks only for DIBOA and no difference at 8 weeks. This decline in nematode suppression mirrors the reduction in concentrations of BXs in the roots, as clover cannot naturally synthesise them.</p>
+<p>This study is the first to show that the uptake of defence metabolites by other plant species can significantly improve pathogen resistance. Although nematode invasion in clover was notably reduced up to 5.5 weeks after the last BXs exposure, the effect diminished without continuous supply. This suggests that in a co-cropping context, the continuous release of BXs by producing plants like wheat or rye could maintain sufficient levels of these compounds in the soil, extending the protective effect in clover.</p>
+<p><em>Hama et al.</em> study advances our understanding of plant interactions in co-cropping systems. It demonstrated that secondary metabolites such as BXs can be transferred from one plant to another, enhancing pathogen resistance. However, this effect is temporary and tied to the ongoing availability of BXs in the soil.</p>
+<p>These findings suggest that intercropping with BX-producing plants could effectively improve pathogen resistance while reducing pesticide use. Further field studies are necessary to fully evaluate the long-term benefits and drawbacks of these interactions and develop optimal agricultural practices.</p>
+<p>👉 <a href="Omnia_focus_V.pdf" title="Here you can download the PDF version">PDF version</a></p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Hama, J.R., Fomsgaard, I.S., Topalović, O., &amp; Vestergård, M. (2024). Root uptake of cereal benzoxazinoids grants resistance to root-knot nematode invasion in white clover. <em>Plant Physiology and Biochemistry</em>, 210, 108636. <a href="https://doi.org/10.1016/j.plaphy.2024.108636">doi.org/10.1016/j.plaphy.2024.108636</a></p>
+<p><strong>List of abbreviations</strong></p>
+<p><strong>BXs</strong>, benzanoxinoids compunds (2,4-dihydroxy-1,4-benzoxazin-3-one, 2-hydroxy-1,4-benzoxazin-3-one, benzoxazolinone, and 6-methoxy- benzoxazolin-2-one) <strong>•</strong> <strong>DIBOA</strong>, 2,4-dihydroxy-1,4-benzoxazin-3-one <strong>•</strong> <strong>DIBOA-glc</strong>, 2-β-D-glucopyranosyloxy-4-hydroxy-1,4-benzoxazin-3-one <strong>•</strong> <strong>HBOA</strong>, 2-hydroxy-1,4-benzoxazin-3-one</p>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-bertin2003role" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Bertin, C., Yang, X. &amp; Weston, L. A. The role of root exudates and allelochemicals in the rhizosphere. <em>Plant and soil</em> <strong>256</strong>, 67–83 (2003).</div>
+</div>
+<div id="ref-hazrati2020root" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Hazrati, H., Fomsgaard, I. S. &amp; Kudsk, P. Root-exuded benzoxazinoids: Uptake and translocation in neighboring plants. <em>Journal of Agricultural and Food Chemistry</em> <strong>68</strong>, 10609–10617 (2020).</div>
+</div>
+<div id="ref-timper2006reproduction" class="csl-entry">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Timper, P., Davis, R. F. &amp; Tillman, P. G. Reproduction of meloidogyne incognita on winter cover crops used in cotton production. <em>Journal of nematology</em> <strong>38</strong>, 83 (2006).</div>
+</div>
+<div id="ref-vestergaard2019trap" class="csl-entry">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Vestergård, M. Trap crops for meloidogyne hapla management and its integration with supplementary strategies. <em>Applied soil ecology</em> <strong>134</strong>, 105–110 (2019).</div>
+</div>
+<div id="ref-hama2024root" class="csl-entry">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Hama, J. R., Fomsgaard, I. S., Topalović, O. &amp; Vestergård, M. Root uptake of cereal benzoxazinoids grants resistance to root-knot nematode invasion in white clover. <em>Plant Physiology and Biochemistry</em> <strong>210</strong>, 108636 (2024).</div>
+</div>
+<div id="ref-niemeyer2009hydroxamic" class="csl-entry">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Niemeyer, H. M. Hydroxamic acids derived from 2-hydroxy-2H-1,4-benzoxazin-3(4H)-one: Key defense chemicals of cereals. <em>Journal of agricultural and food chemistry</em> <strong>57</strong>, 1677–1696 (2009).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {Enhancing Root-Knot Nematode Invasion Resistance in Clover
+    Through Root Uptake of Benzoxazinoids},
+  volume = {1},
+  number = {5},
+  date = {2024-06-06},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_V},
+  doi = {10.5281/zenodo.11491221},
+  langid = {en},
+  abstract = {This study by *Hama et al.* demonstrates that clover can
+    absorb and metabolise benzoxazinoids from other plants,
+    significantly enhancing its resistance to nematode invasion
+    temporarily. The findings suggest that continuous benzoxazinoids
+    release in co-cropping systems could sustain pathogen protection in
+    non-benzoxazinoids-producing plants like clover.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+<div class="">Maver, M. Enhancing root-knot nematode invasion
+resistance in clover through root uptake of benzoxazinoids. <em>Omnia
+Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11491221">https://doi.org/10.5281/zenodo.11491221</a>
+(2024).</div>
+</div></div></section></div> ]]></description>
+  <guid>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_V/</guid>
+  <pubDate>Wed, 05 Jun 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_V/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Enhanced photosynthesis in rice with far-red light supplement: unveiling dual roles beyond shade avoidance</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IV/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="drop-cap">
+<p>Light represents the primary source of energy for plants. Plants have developed elaborate strategies to maximise light exposure throughout their long evolution. This need is particularly crucial in environments with high vegetation density, where competition for light can be intense.</p>
+</div>
+<p>In photosynthesis, the light spectrum between 400-700 nm is fundamental, while light between 700-800 nm, known as far-red (FR), contributes to photosynthesis only under specific conditions (e.g., Emerson effect)<span class="citation" data-cites="emerson1958quantum"><sup>1</sup></span>. FR light is mainly known for its role as a signal indicating the presence of nearby vegetation. Nearby plants reflect FR light while absorbing red light, thus decreasing the Red:FR (R:FR) ratio. This reduction signals the proximity of other plants, triggering the shade avoidance syndrome (SAS). SAS induces changes in plant architecture, such as internode elongation, at the expense of forming new leaves and branches. Rice (<em>Oryza sativa</em>), one of the most important crops, is known for its sensitivity to high vegetation density and low light, although its response to SAS and to the R:FR ratio is still poorly studied.</p>
+<p>A study by <em>Huber et al.</em><span class="citation" data-cites="huber2024far"><sup>2</sup></span> examined the effect of supplemental FR light on architecture, growth, and the photosynthetic process in seven rice varieties. The plants were grown in a greenhouse under control conditions with white light (WL with R:FR 2.0), while the treatment involved supplemental FR light (WL + FR, R:FR 0.2). Analysis of the rice architecture revealed that plants exposed to FR exhibited an increase in leaves and tillers compared to those grown only in WL. This effect varied among the different rice varieties studied. However, no significant differences were observed in terms of height and internode length, indicating a weak SAS response and a promotion of vegetative growth.</p>
+<p>Following transcriptome analysis in 5-day-old seedlings, only a small number of differentially expressed genes (DEGs) from FR were common among all rice varieties. Specifically, only one gene (<em>LOC_Os09g27750</em>), which encodes an ethylene‐forming enzyme, was identified in all the varieties analysed. Subsequent Gene Ontology (GO) enrichment analysis showed that all genes regulated by FR, although limited in number, were primarily involved in photosynthetic processes and localised at the chloroplast level. Overall, the impact of FR on gene regulation was limited to specific physiological processes.</p>
+<p>Despite the weak SAS response in rice, a key aspect of the study was the effect of FR light on biomass accumulation and photosynthesis. The results showed that plants exposed to FR light had a higher rate of leaf formation, increased total leaf area, and more tillers, leading to a significant increase in root and shoot biomass. This effect was further confirmed with FR pulse treatments at the end of the light cycle (15 min WL + EoD FR) to further trigger SAS. In this case, a reduction in tillers and leaves was observed, suggesting that WL + FR can indeed promote growth and development in rice.</p>
+<p>To better understand the role of FR in promoting biomass accumulation and plant development, the authors focused on investigating the effects of FR light on photosynthesis. They found that supplemental FR light did not significantly alter stomatal density or chlorophyll content. However, carbon dioxide (CO<sub>2</sub>) fixation was significantly increased only in plants exposed to WL + FR, with some varieties showing almost double the fixation compared to the control. Additionally, no effects on stomatal conductance were observed, suggesting that FR can increase photosynthesis without causing greater water loss through transpiration, contrary to blue and red photons<span class="citation" data-cites="chen2012systems matthews2020role"><sup>3,4</sup></span>.</p>
+<p>This study by <em>Huber et al.</em> demonstrated that FR light not only acts as a shade/proximity signal but also as an energy source for photosynthesis and biomass accumulation, consistent with other studies<span class="citation" data-cites="park2017far zhen2020far"><sup>5,6</sup></span>. WL + FR significantly increased growth and photosynthetic processes in rice without activating a noticeable SAS response. This suggests that rice may rely on other light signals (such as blue or red light) or chemical signals (e.g., volatile organic compounds) to sense the density of surrounding vegetation. Furthermore, the weak SAS response in rice may have been overshadowed by the strong promotion provided by the FR supplement.</p>
+<p>In conclusion, the interaction between FR and the photosynthetic photon flux density (PPFD) in photosynthesis needs further investigation, especially to understand how FR can compensate for a reduction in PPFD, particularly in the lower canopy zones<span class="citation" data-cites="huber2021light"><sup>7</sup></span>. These results are particularly relevant for optimising light in greenhouse and vertical farming systems, where controlling light quality and quantity is crucial for maximising plant growth and productivity.</p>
+<p>👉 <a href="Omnia_focus_IV.pdf" title="Here you can download the PDF version">PDF version</a></p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Huber, M., de Boer, H.J., Romanowski, A., van Veen, H., Buti, S., Kahlon, P.S. et al.&nbsp;(2024). Far-red light enrichment affects gene expression and architecture as well as growth and photosynthesis in rice. <em>Plant, Cell &amp; Environment</em> 1–18 <a href="https://doi.org/10.1111/pce.14909">doi.org/10.1111/pce.14909</a></p>
+<p><strong>List of abbreviations</strong></p>
+<p><strong>nm</strong>, nanometre <strong>•</strong> <strong>SAS</strong>, shade avoidance syndrome <strong>•</strong> <strong>R:FR</strong>, red to far‐red light ratio <strong>•</strong> <strong>WL</strong>, white light <strong>•</strong> <strong>WL + FR</strong>, white light with supplemental far‐red light <strong>•</strong> <strong>WL + EoD FR</strong>, end of day far‐red light (EoD FR) <strong>•</strong> <strong>PPFD</strong>, photosynthetic photon flux density.</p>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-emerson1958quantum" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Emerson, R. The quantum yield of photosynthesis. <em>Annual Review of Plant Physiology</em> <strong>9</strong>, 1–24 (1958).</div>
+</div>
+<div id="ref-huber2024far" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Huber, M. <em>et al.</em> Far-red light enrichment affects gene expression and architecture as well as growth and photosynthesis in rice. <em>Plant, Cell &amp; Environment</em> 1–18 (2024).</div>
+</div>
+<div id="ref-chen2012systems" class="csl-entry">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Chen, Z.-H. <em>et al.</em> Systems dynamic modeling of the stomatal guard cell predicts emergent behaviors in transport, signaling, and volume control. <em>Plant Physiology</em> <strong>159</strong>, 1235–1251 (2012).</div>
+</div>
+<div id="ref-matthews2020role" class="csl-entry">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Matthews, J. S., Vialet-Chabrand, S. &amp; Lawson, T. Role of blue and red light in stomatal dynamic behaviour. <em>Journal of Experimental Botany</em> <strong>71</strong>, 2253–2269 (2020).</div>
+</div>
+<div id="ref-park2017far" class="csl-entry">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Park, Y. &amp; Runkle, E. S. Far-red radiation promotes growth of seedlings by increasing leaf expansion and whole-plant net assimilation. <em>Environmental and Experimental Botany</em> <strong>136</strong>, 41–49 (2017).</div>
+</div>
+<div id="ref-zhen2020far" class="csl-entry">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Zhen, S. &amp; Bugbee, B. Far-red photons have equivalent efficiency to traditional photosynthetic photons: Implications for redefining photosynthetically active radiation. <em>Plant, Cell &amp; Environment</em> <strong>43</strong>, 1259–1272 (2020).</div>
+</div>
+<div id="ref-huber2021light" class="csl-entry">
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Huber, M., Nieuwendijk, N. M., Pantazopoulou, C. K. &amp; Pierik, R. Light signalling shapes plant–plant interactions in dense canopies. <em>Plant, Cell &amp; Environment</em> <strong>44</strong>, 1014–1029 (2021).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {Enhanced Photosynthesis in Rice with Far-Red Light
+    Supplement: Unveiling Dual Roles Beyond Shade Avoidance},
+  volume = {1},
+  number = {4},
+  date = {2024-05-23},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IV},
+  doi = {10.5281/zenodo.11216924},
+  langid = {en},
+  abstract = {This study by *Huber et al.* demonstrates that
+    supplemental far-red light significantly enhances growth and
+    photosynthetic efficiency in rice without triggering a strong shade
+    avoidance syndrome response. This suggests that far-red light serves
+    a dual role as an energy source and a proximity signal. These
+    findings are crucial for optimising light management in greenhouse
+    and vertical farming to maximise plant productivity.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+<div class="">Maver, M. Enhanced photosynthesis in rice with
+far-red light supplement: unveiling dual roles beyond shade avoidance.
+<em>Omnia Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11216924">https://doi.org/10.5281/zenodo.11216924</a>
+(2024).</div>
+</div></div></section></div> ]]></description>
+  <guid>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IV/</guid>
+  <pubDate>Wed, 22 May 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IV/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>13C dynamics in forest rhizosphere microbial communities under drought and rewetting</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_III/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="drop-cap">
+<p>Global climate change is causing a series of severe weather events like prolonged droughts followed by heavy rainfalls, posing a growing threat to forest ecosystems worldwide. Understanding the crucial link between plants and rhizosphere microbial communities during drought periods is fundamental, as it significantly influences soil community structure and functionalities, with carbon (C) transport and release by plants into the rhizosphere playing a key role.</p>
+</div>
+<p>In this context, <em>Gao et al.</em><span class="citation" data-cites="gao2024drought"><sup>1</sup></span> investigated the impact of drought and soil rewetting on forest rhizosphere microbial communities. The study was conducted on 4-year-old European beech (<em>Fagus sylvatica</em>) forests under artificial conditions and approximately 120-year-old Scots pine (<em>Pinus sylvestris</em>) forests under natural growth conditions. The authors applied a combination of isotopic labelling techniques with <sup>13</sup>C and molecular analyses to trace the flow of C initially absorbed by plants, subsequently released into the soil, and then incorporated by microbial communities. <sup>13</sup>C labelling was performed at the leaf level during drought and two weeks after rewetting. These data were compared with those obtained from the control treatment, consisting of constantly irrigated plants. This approach allowed them to explore in detail the mechanisms regulating rhizosphere microbial community dynamics in response to drought and rewetting events in two different forests.</p>
+<p>During drought, a significant reduction in <sup>13</sup>C uptake was observed in both forest types at both plant and soil microbial community levels. This phenomenon has been previously observed in grasslands<span class="citation" data-cites="fuchslueger2016drought karlowsky2018land"><sup>2,3</sup></span>; however, this experiment showed a significant decrease in symbiotic fungi, particularly ectomycorrhizal fungi (ECM) (biomarker 18:2ω6,9). This decline could compromise water and nutrient availability for plants, thereby affecting their growth and ability to withstand strong water stress, further exacerbating their stress status. Among the less negatively affected microorganisms were gram-positive bacteria, which have a thicker peptidoglycan membrane and are therefore more drought resistant.</p>
+<p>Moreover, at the cellular level, the authors observed a shift in the functional use of <sup>13</sup>C absorbed by microbial communities. Indeed, during drought, there was a significant decrease in <sup>13</sup>C incorporated into phospholipid fatty acids (PLFAs) compared to microbial cytoplasm (CFE-microbial biomass). This would indicate a greater priority towards energy conservation, osmoregulation, and storage processes, at the expense of cell growth. PLFAs are the main components of cell membranes, and their reduced presence would indicate a modulation in the use of fresh root exudates released by plants into survival and adaptation strategies rather than development<span class="citation" data-cites="mason2023intracellular"><sup>4</sup></span>.</p>
+<p>Upon restoration of optimal soil moisture conditions, both in beech and pine, microbial communities demonstrated remarkable resilience and recovery from the severe drought experienced. One of the main explanations for this strong resilience lies in the rapid restoration of tree C allocation in the rhizosphere at the end of the drought. One of the most interesting aspects observed was a greater incorporation of <sup>13</sup>C into microbes, compared to the control, despite normal leaf <sup>13</sup>C uptake values. This implies a preferential transfer and incorporation towards rhizosphere communities, strengthening their role in plant functioning and maintaining forest ecosystem health<span class="citation" data-cites="joseph2020rhizosphere gao2021drought"><sup>5,6</sup></span>.</p>
+<p>In addition, this study highlighted differences between beech and pine forests in the response of microbial communities to drought and subsequent rewetting. Beech forests showed more pronounced effects, with greater sensitivity to drought and a more pronounced response to rewetting. Conversely, in pine, the effect of rewetting had a lesser impact, perhaps due to the long-term adaptation of microbial communities to repeated natural drought events. Overall, these results may have been influenced by both the experimental conditions applied (more drastic and artificial in the case of beech) and the different sizes and biomass of the plants. The examined pine plants had more biomass (greater height) and consequently greater C storage. This would allow them to have greater buffering capacity in case of C content, transport, and release changes compared to beech, for example, under adverse growth conditions.</p>
+<p>In conclusion, the study conducted by <em>Gao et al.</em> provides important insights into the complex interactions between plants and soil microbial communities during drought and soil moisture restoration periods. The results obtained also offer valuable tools for understanding the mechanisms underlying the resilience of forest ecosystems, which are increasingly subject to rapid climate change.</p>
+<p>👉 <a href="Omnia_focus_III.pdf" title="Here you can download the PDF version">PDF version</a></p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Gao, D., Luster, J., Zürcher, A., Arend, M., Bai, E., Gessler, A., Rigling, A., Schaub, M., Hartmann, M., Werner, R.A., Joseph, J., Poll, C. &amp; Hagedorn, F. (2024). Drought resistance and resilience of rhizosphere communities in forest soils from the cellular to ecosystem scale – insights from 13C pulse labeling. <em>New Phytologist</em> <strong>242</strong>: 960-974 <a href="https://doi.org/10.1111/nph.19612">doi.org/10.1111/nph.19612</a></p>
+<p><strong>List of abbreviations</strong></p>
+<p><strong>CFE-microbial biomass</strong>, chloroform fumigation extraction- microbial biomass</p>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-gao2024drought" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gao, D. <em>et al.</em> Drought resistance and resilience of rhizosphere communities in forest soils from the cellular to ecosystem scale–insights from 13C pulse labeling. <em>New Phytologist</em> <strong>242</strong>, 960–974 (2024).</div>
+</div>
+<div id="ref-fuchslueger2016drought" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Fuchslueger, L. <em>et al.</em> Drought history affects grassland plant and microbial carbon turnover during and after a subsequent drought event. <em>Journal of Ecology</em> <strong>104</strong>, 1453–1465 (2016).</div>
+</div>
+<div id="ref-karlowsky2018land" class="csl-entry">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Karlowsky, S. <em>et al.</em> Land use in mountain grasslands alters drought response and recovery of carbon allocation and plant-microbial interactions. <em>Journal of Ecology</em> <strong>106</strong>, 1230–1243 (2018).</div>
+</div>
+<div id="ref-mason2023intracellular" class="csl-entry">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Mason-Jones, K., Breidenbach, A., Dyckmans, J., Banfield, C. C. &amp; Dippold, M. A. Intracellular carbon storage by microorganisms is an overlooked pathway of biomass growth. <em>Nature Communications</em> <strong>14</strong>, 2240 (2023).</div>
+</div>
+<div id="ref-joseph2020rhizosphere" class="csl-entry">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Joseph, J. <em>et al.</em> Rhizosphere activity in an old-growth forest reacts rapidly to changes in soil moisture and shapes whole-tree carbon allocation. <em>Proceedings of the National Academy of Sciences</em> <strong>117</strong>, 24885–24892 (2020).</div>
+</div>
+<div id="ref-gao2021drought" class="csl-entry">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Gao, D. <em>et al.</em> Drought alters the carbon footprint of trees in soils—tracking the spatio-temporal fate of 13C-labelled assimilates in the soil of an old-growth pine forest. <em>Global Change Biology</em> <strong>27</strong>, 2491–2506 (2021).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {13C Dynamics in Forest Rhizosphere Microbial Communities
+    Under Drought and Rewetting},
+  volume = {1},
+  number = {3},
+  date = {2024-05-13},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_III},
+  doi = {10.5281/zenodo.11148076},
+  langid = {en},
+  abstract = {This study by *Gao et al.* investigates the impact of
+    drought and soil rewetting on forest rhizosphere microbial
+    communities, tracing the dynamics of carbon-13
+    (\textsuperscript{13}C) in European beech and Scots pine forests.
+    Findings reveal significant shifts in \textsuperscript{13}C uptake
+    and microbial community resilience, shedding light on ecosystem
+    responses to climate change-induced stressors.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+<div class="">Maver, M. 13C dynamics in forest rhizosphere
+microbial communities under drought and rewetting. <em>Omnia Focus</em>
+vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11148076">https://doi.org/10.5281/zenodo.11148076</a>
+(2024).</div>
+</div></div></section></div> ]]></description>
+  <guid>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_III/</guid>
+  <pubDate>Sun, 12 May 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_III/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Redefining tinnitus: a complex neurological disorder and its genetic roots</title>
+  <dc:creator>Sara Gomez-Cabellos</dc:creator>
+  <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_II/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="drop-cap">
+<p>When was the last time you heard nothing, just silence? What a strange question to ask, you might be thinking. My answer might differ from yours, when I was 16. I suffer from tinnitus, continuous “<em>ringing noises</em>” in both of my ears, and my loyal companion for more than 20 years now.</p>
+</div>
+<p>The definition of tinnitus is precisely the phantom sensation of “<em>ringing in the ears</em>” or, in other words, the perception of noise in the absence of external acoustic stimulation. Despite being experienced by more than 15 % of the world’s population, it does not have a cure. The only solutions for those who suffer from it are limited to reducing their psychological distress or masking the symptoms by external sound sources. Still, there are no targeted treatments for the pathophysiological mechanisms<span class="citation" data-cites="mcferran2019there"><sup>1</sup></span>.</p>
+<p>Tinnitus can be continuous, pulsatile, or episodic, affecting one or both ears. It can last only a few moments, months, years, or a lifetime. Severe tinnitus is a debilitating condition experienced by 1% of the population, and it has been discovered to have a significant heritability<span class="citation" data-cites="trpchevska2020sex maas2017genetic"><sup>2,3</sup></span>.</p>
+<p>Environmental factors were thought to be the main drivers of tinnitus for decades, but the widespread availability of sequencing data from distinct cohorts has opened new research possibilities<span class="citation" data-cites="vona2022road"><sup>4</sup></span>. The first study that defined tinnitus as a complex disorder in which genes and environmental factors interact was conducted by <em>Clifford et al.</em><span class="citation" data-cites="clifford2020novel"><sup>5</sup></span>, performing a genome-wide association study (GWAS) using large datasets from self-reported tinnitus. The following year, <em>Wells et al.</em><span class="citation" data-cites="wells2021genome"><sup>6</sup></span>, with a case-control GWAS, identified <em>RCOR1</em> (<em>REST COREPRESSOR 1</em> ) as the gene with the highest significance in a sub-group of patients with the most severe form of tinnitus. Nevertheless, even though both analyses of GWAS used UK Biobank participants, there was little overlap in the strongest associations between both studies, possibly because of the significant heterogeneity in tinnitus phenotype<span class="citation" data-cites="vona2022road"><sup>4</sup></span>.</p>
+<p>GWAS allows the identification of significant common variants with small effect sizes that confer susceptibility to tinnitus. However, <em>Amanat et al.</em><span class="citation" data-cites="amanat2021burden"><sup>7</sup></span> used a different approach to identify the enrichment of rare pathogenic variants and target candidate genes. This strategy consisted of selecting individuals with extreme clinical attributes, toxic effects, or extreme responses to treatments, <em>i.e.</em>, extreme phenotype<span class="citation" data-cites="amanat2020systematic"><sup>8</sup></span>, to narrow the phenotypic heterogeneity that tinnitus manifests.</p>
+<p><em>Amanat et al.</em><span class="citation" data-cites="amanat2021burden"><sup>7</sup></span> aimed to identify rare variants in synaptic genes by exome sequencing of Spanish patients with Ménière’s disease and an extreme tinnitus phenotype, performing a gene burden analysis (GBA). The disease of Ménière is a rare ear disorder characterized by intense episodes of vertigo, tinnitus, and hearing loss<span class="citation" data-cites="perez2020current"><sup>9</sup></span>. After years of the disease, patients consider tinnitus the most debilitating symptom<span class="citation" data-cites="ueberfuhr2017tinnitus herraiz2006tinnitus"><sup>10,11</sup></span>.</p>
+<p>Their research uncovered a burden of rare missense and structural variants in several synaptic genes. Three candidate genes, <em>ANK2</em> (<em>ANKYRIN-2</em> ), <em>TSC2</em> (<em>TSC COMPLEX SUBUNIT 2</em> ), and <em>AKAP9</em> (<em>A-KINASE ANCHOR PROTEIN 9</em> ), were replicated in a Swedish cohort of patients with severe tinnitus. Moreover, to determine if the association of these genes was specific to severe tinnitus, they performed a GBA using an independent cohort of patients with generalized genetic epilepsy who did not have tinnitus. Some neurological disorders, such as epilepsy, could also share some common genetic background with tinnitus. None of the genes showed significant enrichment of missense variants, confirming the tinnitus-specificity of the candidate genes.</p>
+<p>Gene ontology and gene-set enrichment analysis uncovered the involvement of membrane trafficking and cytoskeletal protein binding in neurons. <em>ANK2</em>, <em>TSC2</em>, and <em>AKAP9</em> are associated with axonal branching and neuron connectivity in the brain, and their expression in spiral ganglion neurons was confirmed. Furthermore, <em>ANK2</em> and <em>TSC2</em> showed significant co-expression in limbic brain regions.</p>
+<p>This study presents several limitations, such as a lack of representation of the whole phenotype of Ménière’s disease using the extreme phenotype strategy or the possibility that other neural pathways unrelated to synapses are also implicated in tinnitus. Nevertheless, it provides a first reference point in understanding the molecular players in severe tinnitus, and it could be a significant step forward in its future treatment.</p>
+<p>👉 <a href="Omnia_focus_II.pdf" title="Here you can download the PDF version">PDF version</a></p>
+<!-- ::: {.callout-note appearance="minimal"} -->
+<!-- **Original article** -->
+<!-- Huang, P-K., Schmitt, J. & Runcie, D.E. (2024). Exploring the molecular regulation of vernalization-induced flowering synchrony in Arabidopsis. *New Phytologist* **242**: 947-959 [doi.org/10.111/nph.19680](https://doi.org/10.1111/nph.19680) -->
+<!-- **List of abbreviations** -->
+<!-- **SD**, short days, 8h:16h (day:night cycle) **•** **MD**, medium days, 12h:12h **•** **LD**, long days, 16h:8h **•** ***FLM***, *FLOWERING LOCUS M* **•** ***TSF***, *TWIN SISTER OF FT* **•** ***MAF3***, *MADS AFFECTING FLOWERING 3* **•** ***SOC1***, *SUPPRESSOR OF OVEREXPRESSION OF CO 1* **•** ***AGL19***, *AGAMOUS-LIKE 19*. -->
+<!-- ::: -->
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-mcferran2019there" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">McFerran, D. J., Stockdale, D., Holme, R., Large, C. H. &amp; Baguley, D. M. Why is there no cure for tinnitus? <em>Frontiers in neuroscience</em> <strong>13</strong>, 466176 (2019).</div>
+</div>
+<div id="ref-trpchevska2020sex" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Trpchevska, N. <em>et al.</em> Sex-dependent aggregation of tinnitus in swedish families. <em>Journal of Clinical Medicine</em> <strong>9</strong>, 3812 (2020).</div>
+</div>
+<div id="ref-maas2017genetic" class="csl-entry">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Maas, I. L. <em>et al.</em> Genetic susceptibility to bilateral tinnitus in a swedish twin cohort. <em>Genetics in Medicine</em> <strong>19</strong>, 1007–1012 (2017).</div>
+</div>
+<div id="ref-vona2022road" class="csl-entry">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Vona, B. The road traveled and journey ahead for the genetics and genomics of tinnitus. <em>Molecular Diagnosis &amp; Therapy</em> <strong>26</strong>, 129–136 (2022).</div>
+</div>
+<div id="ref-clifford2020novel" class="csl-entry">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Clifford, R. E., Maihofer, A. X., Stein, M. B., Ryan, A. F. &amp; Nievergelt, C. M. Novel risk loci in tinnitus and causal inference with neuropsychiatric disorders among adults of european ancestry. <em>JAMA Otolaryngology–Head &amp; Neck Surgery</em> <strong>146</strong>, 1015–1025 (2020).</div>
+</div>
+<div id="ref-wells2021genome" class="csl-entry">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Wells, H. R., Abidin, F. N. Z., Freidin, M. B., Williams, F. M. &amp; Dawson, S. J. Genome-wide association study suggests that variation at the RCOR1 locus is associated with tinnitus in UK biobank. <em>Scientific Reports</em> <strong>11</strong>, 6470 (2021).</div>
+</div>
+<div id="ref-amanat2021burden" class="csl-entry">
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Amanat, S. <em>et al.</em> Burden of rare variants in synaptic genes in patients with severe tinnitus: An exome based extreme phenotype study. <em>EBioMedicine</em> <strong>66</strong>, (2021).</div>
+</div>
+<div id="ref-amanat2020systematic" class="csl-entry">
+<div class="csl-left-margin">8. </div><div class="csl-right-inline">Amanat, S., Requena, T. &amp; Lopez-Escamez, J. A. A systematic review of extreme phenotype strategies to search for rare variants in genetic studies of complex disorders. <em>Genes</em> <strong>11</strong>, 987 (2020).</div>
+</div>
+<div id="ref-perez2020current" class="csl-entry">
+<div class="csl-left-margin">9. </div><div class="csl-right-inline">Perez-Carpena, P. &amp; Lopez-Escamez, J. A. Current understanding and clinical management of meniere’s disease: A systematic review. in <em>Seminars in neurology</em> vol. 40 138–150 (Thieme Medical Publishers, 2020).</div>
+</div>
+<div id="ref-ueberfuhr2017tinnitus" class="csl-entry">
+<div class="csl-left-margin">10. </div><div class="csl-right-inline">Ueberfuhr, M. A., Wiegrebe, L., Krause, E., Gürkov, R. &amp; Drexl, M. Tinnitus in normal-hearing participants after exposure to intense low-frequency sound and in m<span>é</span>ni<span>è</span>re’s disease patients. <em>Frontiers in neurology</em> <strong>7</strong>, 219513 (2017).</div>
+</div>
+<div id="ref-herraiz2006tinnitus" class="csl-entry">
+<div class="csl-left-margin">11. </div><div class="csl-right-inline">Herraiz, C., Tapia, M. &amp; Plaza, G. Tinnitus and meniere’s disease: Characteristics and prognosis in a tinnitus clinic sample. <em>European Archives of Oto-Rhino-Laryngology and Head &amp; Neck</em> <strong>263</strong>, 504–509 (2006).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Sara Gomez-Cabellos | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{gomez-cabellos2024,
+  author = {Gomez-Cabellos, Sara},
+  publisher = {Omnia},
+  title = {Redefining Tinnitus: A Complex Neurological Disorder and Its
+    Genetic Roots},
+  volume = {1},
+  number = {2},
+  date = {2024-05-02},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_II},
+  doi = {10.5281/zenodo.10955449},
+  langid = {en},
+  abstract = {What is tinnitus exactly? A shift in the conception of
+    tinnitus from being just a symptom of an underlying condition to
+    being recognized as a neurological disorder redefines its
+    long-established dogma definition.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-gomez-cabellos2024" class="csl-entry quarto-appendix-citeas">
+<div class="">Gomez-Cabellos, S. Redefining tinnitus: a
+complex neurological disorder and its genetic roots. <em>Omnia
+Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.10955449">https://doi.org/10.5281/zenodo.10955449</a>
+(2024).</div>
+</div></div></section></div> ]]></description>
+  <guid>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_II/</guid>
+  <pubDate>Wed, 01 May 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_II/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Floral synchrony: the role of FLOWERING LOCUS T in the leaf-specific vernalisation response in Arabidopsis</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<!-- This study by Huang et al. explores the intricate relationship between vernalisation, leaf-specific responses, and flowering synchrony in Arabidopsis thaliana. They uncover how leaf development during vernalisation impacts the expression of key flowering genes, suggesting a complex interplay between leaf-based processes and meristem regulation in determining flowering timing. -->
+<div class="drop-cap">
+<p>The synchronisation of flowering is important for plants as it helps them to reproduce efficiently and adapt to their environment. One key mechanism regulating this synchrony is vernalisation, where plants are induced to flower after being exposed to low temperatures for a long time. However, it is not fully understood how vernalisation helps plants belonging to heterogenous populations to synchronize their flowering.</p>
+</div>
+<!-- <p class="drop-cap"></p> -->
+<!-- <p><span class="first-letter">O</span>nce upon a time in a faraway land...<p> -->
+<!-- <font style="font-family: Bell MT, sans-serif; font-size:55pt; font-style:regular; width: .85em; line-height: 53px; float: left; color: #7D3C98; border: solid #D5C5EC; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; padding-left: 5px; margin-right: 5px; margin-bottom: -5px;">L</font>a fisiología -->
+<p>The present study conducted by <em>Huang et al.</em><span class="citation" data-cites="huang2024exploring"><sup>1</sup></span> aims to investigate how the <em>FLOWERING LOCUS T</em> (<em>FT</em> ) gene affects the regulation of floral synchrony in <em>Arabidopsis thaliana</em>, focusing on its impact in response to vernalisation. Through a series of experiments, the researchers examined the role of genes involved in the flowering process and evaluated the importance of what they call “<em>leaf-specific vernalisation response</em>” in its regulation. The study hypothesised that leaves may have a “cold memory” that differs depending on their developmental stage at the onset of vernalisation.</p>
+<p>The experiments were conducted on the Col-<em>FRI</em> genotype of <em>A. thaliana</em>, which was obtained by introgressing the <em>FRIGIDA</em> locus (<em>FRI</em> ) into Col, thus making its flowering vernalisation-dependent. In the first experiment, Col-<em>FRI</em> seeds were germinated sequentially (cohorts on different days preceding vernalisation induction), grown under controlled light and temperature conditions (SD, 8 weeks of vernalisation at 4°C and LD until flowering), and their flowering time was recorded. It was observed that the Col-<em>FRI</em> genotype showed synchronised flowering (positive synchronisation index (SI)<span class="citation" data-cites="miryeganeh2020synchronization"><sup>2</sup></span>) among different groups despite germination occurring at distinct times. In contrast, Col showed asynchronous flowering among the various groups, exhibiting a negative SI.</p>
+<p>Replicating prior experiments investigating the <em>FLOWERING LOCUS C</em> (<em>FLC</em> ) gene<span class="citation" data-cites="finnegan2007vernalization"><sup>3</sup></span>, a repressor of <em>FT</em>, the authors analysed the expression levels of the latter in relation to the leaf-specific vernalisation response. Again, using sequential germination experiments of Col-<em>FRI</em>, it emerged that <em>FT</em> expression was not strictly correlated with the number of leaves present at the time of flowering but rather with a specific number of leaves which developed after vernalisation induction. This confirms the presence of an intricate flowering regulation mechanism based on leaf number and their developmental stage at the onset of low temperatures.</p>
+<p>To minimise the possible effect of photoperiod on <em>FT</em> expression level analyses, the authors applied SD photoperiod both before and after vernalisation. This allowed the confirmation of the <em>FLC</em> expression values reported in the literature<span class="citation" data-cites="finnegan2007vernalization"><sup>3</sup></span> (elevated in the absence and before vernalisation) while simultaneously observing uniform <em>FT</em> expression values in leaves developed during and after vernalisation. These data indicate that <em>FLC</em> and <em>FT</em> expression levels are not positively (or negatively) correlated. Furthermore, this suggests that the relationship between leaf development and vernalisation is more evident and marked for <em>FT</em> compared to <em>FLC</em>.</p>
+<p>In addition to <em>FT</em> and <em>FLC</em>, the authors evaluated the expression levels of five other genes involved in flowering pathways: <em>FLM</em>, <em>TSF</em>, <em>MAF3</em>, <em>SOC1</em>, and <em>AGL19</em>. Leaf-specific vernalisation response was also observed for these genes, although with different and gene-specific expression patterns. Among all the genes analysed, only <em>FLC</em> and <em>SOC1</em> showed diametrically opposite expression patterns. For the remaining genes, a strong effect of leaf-specific vernalisation response was observed. In fact, higher expression levels were found in leaves developed during and after vernalisation.</p>
+<p>Finally, the researchers assessed the impact of leaf-specific vernalisation response compared to other regulatory processes, such as those deriving from the shoot apical meristem (SAM). In a last experiment of Col-<em>FRI</em> sequential germination, they established a MD photoperiod following the eight weeks of vernalisation and monitored <em>FT</em> levels until flowering. Data showed an <em>FT</em> expression pattern similar to that observed in the presence of post-vernalisation LD conditions, but with an intensity almost five times lower. Contrary to the low <em>FT</em> levels, the delay in flowering was slight and not significantly prolonged. This suggests that other non-leaf-dependent signals may play a significant role in regulating flowering in response to vernalisation.</p>
+<p>The study conducted by <em>Huang et al.</em> represents one of the first attempts to establish a clearer relationship between flowering pathways and flowering synchrony in response to vernalisation. In Arabidopsis, the authors observed a correlation between leaf-specific vernalisation response and floral synchrony, although this does not represent the only factor at play. Other non-leaf-based signals, such as those generated by the shoot apical meristem, could play an important role as well. Another key factor emerging from this study was the lack of correlation between <em>FLC</em> and <em>FT</em> expression levels, despite the former acting as a strong repressor of <em>FT</em>.</p>
+<p>Overall, the research conducted in Arabidopsis by <em>Huang et al.</em> contributes to a better understanding of leaf-level interaction between vernalisation and floral synchrony, paving the way for further investigations in this field.</p>
+<p>👉 <a href="Omnia_focus_I.pdf" title="Here you can download the PDF version">PDF version</a></p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Huang, P-K., Schmitt, J. &amp; Runcie, D.E. (2024). Exploring the molecular regulation of vernalization-induced flowering synchrony in Arabidopsis. <em>New Phytologist</em> <strong>242</strong>: 947-959 <a href="https://doi.org/10.1111/nph.19680">doi.org/10.111/nph.19680</a></p>
+<p><strong>List of abbreviations</strong></p>
+<p><strong>SD</strong>, short days, 8h:16h (day:night cycle) <strong>•</strong> <strong>MD</strong>, medium days, 12h:12h <strong>•</strong> <strong>LD</strong>, long days, 16h:8h <strong>•</strong> <strong><em>FLM</em></strong>, <em>FLOWERING LOCUS M</em> <strong>•</strong> <strong><em>TSF</em></strong>, <em>TWIN SISTER OF FT</em> <strong>•</strong> <strong><em>MAF3</em></strong>, <em>MADS AFFECTING FLOWERING 3</em> <strong>•</strong> <strong><em>SOC1</em></strong>, <em>SUPPRESSOR OF OVEREXPRESSION OF CO 1</em> <strong>•</strong> <strong><em>AGL19</em></strong>, <em>AGAMOUS-LIKE 19</em>.</p>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-huang2024exploring" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Huang, P.-K., Schmitt, J. &amp; Runcie, D. E. Exploring the molecular regulation of vernalization-induced flowering synchrony in arabidopsis. <em>New Phytologist</em> <strong>242</strong>, 947–959 (2024).</div>
+</div>
+<div id="ref-miryeganeh2020synchronization" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Miryeganeh, M. Synchronization of senescence and desynchronization of flowering in arabidopsis thaliana. <em>AoB Plants</em> <strong>12</strong>, plaa018 (2020).</div>
+</div>
+<div id="ref-finnegan2007vernalization" class="csl-entry">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Finnegan, E. J. &amp; Dennis, E. S. Vernalization-induced trimethylation of histone H3 lysine 27 at FLC is not maintained in mitotically quiescent cells. <em>Current biology</em> <strong>17</strong>, 1978–1983 (2007).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {Floral Synchrony: The Role of {FLOWERING} {LOCUS} {T} in the
+    Leaf-Specific Vernalisation Response in {Arabidopsis}},
+  volume = {1},
+  number = {1},
+  date = {2024-04-17},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I},
+  doi = {10.5281/zenodo.10955449},
+  langid = {en},
+  abstract = {This study by *Huang et al.* explores the intricate
+    relationship between vernalisation, leaf-specific responses, and
+    flowering synchrony in *Arabidopsis thaliana*. They uncover how leaf
+    development during vernalisation impacts the expression of key
+    flowering genes, suggesting a complex interplay between leaf-based
+    processes and meristem regulation in determining flowering timing.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+<div class="">Maver, M. Floral synchrony: the role of
+FLOWERING LOCUS T in the leaf-specific vernalisation response in
+Arabidopsis. <em>Omnia Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.10955449">https://doi.org/10.5281/zenodo.10955449</a>
+(2024).</div>
+</div></div></section></div> ]]></description>
+  <guid>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/</guid>
+  <pubDate>Tue, 16 Apr 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

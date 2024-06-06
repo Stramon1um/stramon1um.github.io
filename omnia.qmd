@@ -9,7 +9,7 @@ listing:
   categories: false
   sort-ui: false
   filter-ui: false
-  #feed: true
+  feed: true
   fields: [image, date, title, subtitle, author, reading-time, description]
 page-layout: full
 #title-block-style: plain
