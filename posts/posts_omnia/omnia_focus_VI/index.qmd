@@ -1,0 +1,83 @@
+---
+title: "Modulation of lettuce responses to salinity by *Graminaceae*-derived protein hydrolysates"
+subtitle: "Omnia *Focus* - Volume 1-6"
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Modulation of lettuce responses to salinity by Graminaceae-derived protein hydrolysates"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 1
+  issue: 6
+  issued: 2024-06-18
+  doi: "10.5281/zenodo.11965373"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-06-18"
+doi: "10.5281/zenodo.11965373"
+keywords:
+  - "*Lactuca sativa*"
+  - Salinity
+  - RNA-seq
+  - Untargeted metabolomics
+  - Biostimulant
+abstract: |
+  This study by *Monterisi et al.* investigates the effects of protein hydrolysates from *Graminaceae* and their fractions on lettuce under saline stress. It reveals that both treatments modulate the plant's transcriptome and metabolomic profile, enhancing its resilience to high salinity through distinct mechanisms. This study underscores the potential of protein hydrolysates to mitigate salinity stress in agriculture, promoting sustainable crop management.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+resources: 
+  - Omnia_focus_VI.pdf
+---
+
+::: drop-cap
+The increasing salinisation of soil is a major challenge for modern agriculture, as it significantly and irreversibly reduces crop yields. Many studies are currently focusing on this problem, anticipating a continuous worsening mainly by climate change. Indeed, it is projected that by 2050, half of the world’s arable land will be unusable due to high salinity [@bartels2005drought].
+:::
+
+Plants, particularly vegetables, are highly susceptible to salinity, which significantly affects their growth and productivity. Consequently, over the course of their evolution, plants have developed defence mechanisms and strategies, making them more adaptable and resilient under stressful conditions. Among the main defence responses include the modulation of phytohormones, the production of osmoprotectants, and antioxidant enzymes.
+
+However, in cases of severe salinity, these endogenous responses activated by the plant may not be enough to support growth. In such conditions, external interventions, such as the application of plant biostimulants (PBs) derived from food waste or agricultural residues, could provide an effective and sustainable solution. Among PBs, protein hydrolysates (PHs) are particularly promising; composed of a mix of polypeptides, oligopeptides, and amino acids, their composition varies based on the protein source, thus determining their effects on the plant [@colla2015protein]. A recent study demonstrated that PHs from *Graminaceae* induce diverse effects in lettuce (*Lactuca sativa* L.) under saline stress, although the contribution of individual fractions remains unclear [@el2023graminaceae]. Lettuce, widely cultivated globally for its high nutritional value, is highly sensitive to salinity and is often used as a model plant in these studies.
+
+In this context, *Monterisi et al*.[@monterisi2024integrated] investigate the molecular effects of PHs derived from *Graminaceae* (P) and their light fraction F3 (\<1 kDa) on lettuce under saline stress conditions using a combined transcriptomic and metabolomic approach. In this experiment, lettuce plants were exposed to two levels of salinity, 0 mM and 30 mM NaCl. P and F3 treatments were applied via spray on a weekly basis, starting from the 10th day after transplanting (DAT); control plants received distilled water. Upon reaching commercial maturity (44 DAT), the plants were sampled and subsequently analysed using different approaches.
+
+The results confirmed that the efficacy and mode of action of PHs strongly depend on the physiological status of the plant and the composition (fractionated and non-fractionated) of the biostimulants. In general, the authors demonstrated that both treatments, P and F3, significantly modulate the transcriptome and metabolomic profile of lettuce under saline stress, albeit through distinct mechanisms. For instance, P treatment resulted in the up-regulation of genes involved in biosynthesis and remodelling of the cell wall, cellulose hydrolysis, organic acid biosynthesis, osmoprotectant production, and antioxidants. On the other hand, F3 treatment showed a positive modulation in response to ethylene (via *ERF*) and genes involved in the *MAPK* signalling pathway, highlighting a regulation of salinity response mechanisms [@miransari2013salt].
+
+Another interesting aspect concerns the P treatment. It was observed that P up-regulates 17 genes encoding different nucleosome components. These changes can influence the degree of chromatin condensation, making it more or less accessible to transcription factors. Abiotic stresses have already been shown to activate these epigenetic mechanisms in plants [@he2018abiotic], but this is the first time it has been observed for PHs in stressed plants.
+
+From a multi-omics perspective, the integrated analysis of transcriptomics and metabolomics revealed that both P and F3 trigger a significant hormonal response under saline stress conditions. Among the main regulated phytohormones and respective pathways are ethylene, abscisic acid, auxin, and brassinosteroids. The latter, in particular, play an important role in plants in counteracting the negative effects of salinity by promoting cell division and elongation [@rattan2022involvement].
+
+In the absence of saline stress, the data obtained are partially discordant with those present in the scientific literature. Indeed, both P and F3 exhibited a down-regulation of genes involved in different steps of the photosynthetic process. Although these data are consistent with the biochemical parameters recorded in the experiment, they contrast with previous studies that demonstrated the positive effects of PHs on the photosynthetic machinery.
+
+In conclusion, *Monterisi et al*. demonstrate that PHs derived from *Graminaceae* and their molecular fractions can significantly modulate the molecular, biochemical, and physiological responses of lettuce under saline stress. Although P and F3 activate different mechanisms, both treatments provide benefits in counteracting severe salinity conditions. These findings underscore the importance of further investigating the bioactivity of the molecular components of biostimulants to fully maximise their potential in agricultural practices.
+
+👉 [PDF version](Omnia_focus_VI.pdf "Here you can download the PDF version")
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Monterisi, S., Zhang, L., Garcia-Perez, P., Alzate Zuluaga, M.Y., Ciriello, M., El-Nakhel, C., Buffagni, V., Cardarelli, M., Colla, G., Rouphael, Y., Cesco, S., Lucini, L. & Pii, Y. (2024). Integrated multi-omic approach reveals the effect of a Graminaceae-derived biostimulant and its lighter fraction on salt-stressed lettuce plants. *Scientific Reports*, **14**: 10710. [doi.org/10.1038/s41598-024-61576-4)](https://doi.org/10.1038/s41598-024-61576-4)
+
+**List of abbreviations**
+
+**PBs**, plant biostimulants **•** **PHs**, protein hydrolysates **•** **Da**, Dalton **•** **NaCl**, sodium chloride **•** **DAT**, days after transplantation **•** **ERFs**, ethylene-responsive transcription factors **•** **MAPK**, mitogen-activated protein kinase.
+:::

@@ -73,7 +73,7 @@ These findings suggest that intercropping with BX-producing plants could effecti
 ::: {.callout-note appearance="minimal"}
 **Original article**
 
-Hama, J.R., Fomsgaard, I.S., Topalović, O., & Vestergård, M. (2024). Root uptake of cereal benzoxazinoids grants resistance to root-knot nematode invasion in white clover. *Plant Physiology and Biochemistry*, 210, 108636. [doi.org/10.1016/j.plaphy.2024.108636](https://doi.org/10.1016/j.plaphy.2024.108636)
+Hama, J.R., Fomsgaard, I.S., Topalović, O., & Vestergård, M. (2024). Root uptake of cereal benzoxazinoids grants resistance to root-knot nematode invasion in white clover. *Plant Physiology and Biochemistry*, **210**: 108636. [doi.org/10.1016/j.plaphy.2024.108636](https://doi.org/10.1016/j.plaphy.2024.108636)
 
 **List of abbreviations**
 
