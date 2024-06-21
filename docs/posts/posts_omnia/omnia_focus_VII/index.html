@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Mauro Maver">
+<meta name="dcterms.date" content="2024-06-21">
+<meta name="keywords" content="Soil microbiota, Plant-herbivore interactions, Microbial spillover, <em>Solanum lycopersicum</em>, <em>Menduca sexta</em>">
 
-<title>Mauro Maver – Omnia</title>
+<title>Mauro Maver – Plant-mediated soil effects on microbiota in plant-herbivore systems</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +23,44 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<link href="./foto.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<link href="../../../foto.png" rel="icon" type="image/png">
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -55,35 +76,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle','listing-author','listing-reading-time','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GEXKYETG1W"></script>
 
 <script type="text/javascript">
@@ -101,53 +93,49 @@ gtag('config', 'G-GEXKYETG1W', { 'anonymize_ip': true});
       }
 </style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Mauro Maver" href="omnia.xml" data-external="1"><meta property="og:title" content="Mauro Maver - Omnia">
-<meta property="og:description" content="An independent and multidisciplinary open-access journal, created by Mauro Maver">
+<link rel="stylesheet" href="../../../styles.css">
+<meta property="og:title" content="Mauro Maver - Plant-mediated soil effects on microbiota in plant-herbivore systems">
+<meta property="og:description" content="The study by Malacrinò &amp; Bennett demonstrates that the soil-driven effects on plant and herbivore microbial communities are primarily mediated through the plant itself rather than through direct microorganism transfer. The results also highlight the impact of herbivores on the rhizosphere and root microbiota via microbial spillover. These findings offer insights into soil-plant-herbivore interactions with potential applications in sustainable agricultural practices.">
+<meta property="og:image" content="https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VII/image.jpg">
 <meta property="og:site_name" content="Mauro Maver">
-<meta name="twitter:title" content="Mauro Maver - Omnia">
-<meta name="twitter:description" content="An independent and multidisciplinary open-access journal, created by Mauro Maver">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Mauro Maver - Plant-mediated soil effects on microbiota in plant-herbivore systems">
+<meta name="twitter:description" content="The study by Malacrinò &amp; Bennett demonstrates that the soil-driven effects on plant and herbivore microbial communities are primarily mediated through the plant itself rather than through direct microorganism transfer. The results also highlight the impact of herbivores on the rhizosphere and root microbiota via microbial spillover. These findings offer insights into soil-plant-herbivore interactions with potential applications in sustainable agricultural practices.">
+<meta name="twitter:image" content="https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VII/image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="citation_title" content="Plant-mediated soil effects on microbiota in plant-herbivore systems">
+<meta name="citation_abstract" content="The study by *Malacrinò &amp;amp; Bennett* demonstrates that the soil-driven effects on plant and herbivore microbial communities are primarily mediated through the plant itself rather than through direct microorganism transfer. The results also highlight the impact of herbivores on the rhizosphere and root microbiota via microbial spillover. These findings offer insights into soil-plant-herbivore interactions with potential applications in sustainable agricultural practices.
+">
+<meta name="citation_keywords" content="Soil microbiota,Plant-herbivore interactions,Microbial spillover,*Solanum lycopersicum*,*Menduca sexta*">
+<meta name="citation_author" content="Mauro Maver">
+<meta name="citation_publication_date" content="2024-06-21">
+<meta name="citation_cover_date" content="2024-06-21">
+<meta name="citation_year" content="2024">
+<meta name="citation_online_date" content="2024-06-21">
+<meta name="citation_fulltext_html_url" content="https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VII">
+<meta name="citation_issue" content="7">
+<meta name="citation_doi" content="10.5281/zenodo.12188671">
+<meta name="citation_volume" content="1">
+<meta name="citation_language" content="en">
+<meta name="citation_journal_title" content="Omnia Focus">
+<meta name="citation_publisher" content="Omnia">
+<meta name="citation_reference" content="citation_title=Influence of plant fraction, soil, and plant species on microbiota: A multikingdom comparison;,citation_author=Andrzej Tkacz;,citation_author=Eloı̈ne Bestion;,citation_author=Zhiyan Bo;,citation_author=Marion Hortala;,citation_author=Philip S Poole;,citation_publication_date=2020;,citation_cover_date=2020;,citation_year=2020;,citation_issue=1;,citation_volume=11;,citation_journal_title=MBio;,citation_publisher=Am Soc Microbiol;">
+<meta name="citation_reference" content="citation_title=Soil microbial diversity impacts plant microbiota more than herbivory;,citation_author=Antonino Malacrinò;,citation_author=Alison J Karley;,citation_author=Leonardo Schena;,citation_author=Alison E Bennett;,citation_publication_date=2021;,citation_cover_date=2021;,citation_year=2021;,citation_issue=4;,citation_volume=5;,citation_journal_title=Phytobiomes Journal;,citation_publisher=Am Phytopath Society;">
+<meta name="citation_reference" content="citation_title=Reciprocal influence of soil, phyllosphere, and aphid microbiomes;,citation_author=Adrian Wolfgang;,citation_author=Ayco JM Tack;,citation_author=Gabriele Berg;,citation_author=Ahmed Abdelfattah;,citation_publication_date=2023;,citation_cover_date=2023;,citation_year=2023;,citation_issue=1;,citation_volume=18;,citation_journal_title=Environmental Microbiome;,citation_publisher=Springer;">
+<meta name="citation_reference" content="citation_title=Steering soil microbiomes to suppress aboveground insect pests;,citation_author=Ana Pineda;,citation_author=Ian Kaplan;,citation_author=T Martijn Bezemer;,citation_publication_date=2017;,citation_cover_date=2017;,citation_year=2017;,citation_issue=9;,citation_volume=22;,citation_journal_title=Trends in Plant Science;,citation_publisher=Elsevier;">
+<meta name="citation_reference" content="citation_title=Emerging strategies for precision microbiome management in diverse agroecosystems;,citation_author=Elizabeth French;,citation_author=Ian Kaplan;,citation_author=Anjali Iyer-Pascuzzi;,citation_author=Cindy H Nakatsu;,citation_author=Laramy Enders;,citation_publication_date=2021;,citation_cover_date=2021;,citation_year=2021;,citation_issue=3;,citation_volume=7;,citation_journal_title=Nature plants;,citation_publisher=Nature Publishing Group UK London;">
+<meta name="citation_reference" content="citation_title=Crying out for help with root exudates: Adaptive mechanisms by which stressed plants assemble health-promoting soil microbiomes;,citation_author=Stephen A Rolfe;,citation_author=Joseph Griffiths;,citation_author=Jurriaan Ton;,citation_publication_date=2019;,citation_cover_date=2019;,citation_year=2019;,citation_volume=49;,citation_journal_title=Current opinion in microbiology;,citation_publisher=Elsevier;">
+<meta name="citation_reference" content="citation_title=Soil microbiota and herbivory drive the assembly of tomato plant-associated microbial communities through different mechanisms;,citation_author=Antonino Malacrinò;,citation_author=Alison E Bennett;,citation_publication_date=2024;,citation_cover_date=2024;,citation_year=2024;,citation_issue=1;,citation_volume=7;,citation_journal_title=Communications Biology;,citation_publisher=Nature Publishing Group UK London;">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Mauro Maver</span>
     </a>
   </div>
@@ -157,19 +145,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./papers.html"> 
+    <a class="nav-link" href="../../../papers.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./omnia.html" aria-current="page"> 
+    <a class="nav-link" href="../../../omnia.html"> 
 <span class="menu-text">Omnia</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog_ga.html"> 
+    <a class="nav-link" href="../../../blog_ga.html"> 
 <span class="menu-text">Blog 🇮🇪</span></a>
   </li>  
   <li class="nav-item compact">
@@ -183,7 +171,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./omnia.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../../omnia.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -198,263 +186,139 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Omnia</h1>
-            <p class="subtitle lead">An independent and multidisciplinary open-access journal, created by <a href="https://www.mauromaver.eu"><strong>Mauro Maver</strong></a></p>
+    <div class="quarto-title column-body">
+      <h1 class="title">Plant-mediated soil effects on microbiota in plant-herbivore systems</h1>
+            <p class="subtitle lead">Omnia <em>Focus</em> - Volume 1-7</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p><a href="https://www.mauromaver.eu">Mauro Maver, PhD</a> <a href="mailto:mauromaver@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0002-8162-3618" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+            </div>
+    </div>
       
-    
-      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">June 21, 2024</p>
+      </div>
     </div>
     
+      
+      <div>
+      <div class="quarto-title-meta-heading">Doi</div>
+      <div class="quarto-title-meta-contents">
+        <p class="doi">
+          <a href="https://doi.org/10.5281/zenodo.12188671">10.5281/zenodo.12188671</a>
+        </p>
+      </div>
+    </div>
+    </div>
+    
+  <div>
+    <div class="abstract">
+      <div class="block-title">Abstract</div>
+      <p>The study by <em>Malacrinò &amp; Bennett</em> demonstrates that the soil-driven effects on plant and herbivore microbial communities are primarily mediated through the plant itself rather than through direct microorganism transfer. The results also highlight the impact of herbivores on the rhizosphere and root microbiota via microbial spillover. These findings offer insights into soil-plant-herbivore interactions with potential applications in sustainable agricultural practices.</p>
+    </div>
+  </div>
+
+  <div>
+    <div class="keywords">
+      <div class="block-title">Keywords</div>
+      <p>Soil microbiota, Plant-herbivore interactions, Microbial spillover, <em>Solanum lycopersicum</em>, <em>Menduca sexta</em></p>
+    </div>
+  </div>
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
-<section id="omnia-focus" class="level2">
-<h2 class="anchored" data-anchor-id="omnia-focus">Omnia <em>Focus</em></h2>
+<div class="drop-cap">
+<p>Soil has a significant impact on plants, profoundly influencing their microbiota. Studies have demonstrated that the influence of soil far exceeds that of other factors, such as plant genotype or the presence of insects<span class="citation" data-cites="tkacz2020influence malacrino2021soil"><sup><a href="#ref-tkacz2020influence" role="doc-biblioref">1</a>,<a href="#ref-malacrino2021soil" role="doc-biblioref">2</a></sup></span>. Indeed, soil microorganisms can colonise different parts of plants, like roots and leaves, affecting their microbiome or altering their physiological status. Overall, these soil-mediated effects are known as soil-driven effects. Similarly, the presence of herbivores can directly or indirectly influence plant microbiomes, known as herbivore-driven effects. However, few studies have explored the combined impact of soil- and herbivore-driven effects on the structure and diversity of microbial communities within plants.</p>
+</div>
+<p>Two possible mechanisms are hypothesised to explain the interactions between below- and above-ground microorganisms in a plant-herbivore system. The first mechanism involves direct mediation by the plant itself. For example, microorganisms can interact directly with the host plant or indirectly by improving the availability of nutritional resources. Alternatively, influence can occur via spillover, with direct transfer of microorganisms between above- and below-ground compartments, such as through insect frass or honeydew, or vice versa through splashes or droplets of water (e.g., rain or irrigation).</p>
+<p>This study by <em>Malacrinò &amp; Bennett</em><span class="citation" data-cites="malacrino2024soil"><sup><a href="#ref-malacrino2024soil" role="doc-biblioref">3</a></sup></span> aims to clarify how microorganisms in a plant-herbivore system influence each other. They hypothesised that the plant itself primarily mediates the effects of soil and herbivores on plant microbiota. The experimental design included manipulating the soil composition (three different inocula), the presence/absence of herbivorous insects, and the effect of the presence/absence of soil cover.</p>
+<p>The experiment was conducted on tomato plants (<em>Solanum lycopersicum</em> L.) grown in microcosms with three different soil microbial communities (agricultural field, marginal field, and prairie) selected for their distinct compositions. Half of the microcosms were covered with a neoprene disc at the soil level to separate “via plant” effects from “via spillover” effects, and half of them were exposed to the herbivore <em>Manduca sexta</em>. At the end of the experiment (7 weeks), microbial communities of soil, rhizosphere, root, leaf, and herbivores were analysed, along with plant and insect biomass.</p>
+<p>The results of this study primarily show that soil inoculum has the most significant impact on the structure of bacterial communities in all plant compartments analysed, especially on root and herbivore microbiota. Additionally, it was interesting to note that changes induced by soil inoculum on herbivore microbiomes followed a linear gradient, with the greatest impact observed by agricultural soil and the least by prairie soil.</p>
+<p>However, contrary to previous studies, it was observed that the soil-driven effect influences the leaf and herbivore microbiota regardless of the presence of the neoprene disc. These results thus support the hypothesis of a soil-driven effect “via plant.” This effect could be due to changes in plant metabolism and physiology, which in turn alter the diet of herbivores and their microbiome. Another possible explanation is the direct transfer of microorganisms from below ground to above ground via the xylem, as demonstrated by recent research<span class="citation" data-cites="wolfgang2023reciprocal"><sup><a href="#ref-wolfgang2023reciprocal" role="doc-biblioref">4</a></sup></span>. Furthermore, it was observed that soil microbial communities can negatively affect insect biomass. This factor is particularly interesting as it could lead to the development of more sustainable methods for controlling pathogens<span class="citation" data-cites="pineda2017steering french2021emerging"><sup><a href="#ref-pineda2017steering" role="doc-biblioref">5</a>,<a href="#ref-french2021emerging" role="doc-biblioref">6</a></sup></span>.</p>
+<p>On the other hand, the herbivore-driven effect can alter plant microbiome composition both directly and indirectly through changes in metabolism, plant physiology, and root exudates<span class="citation" data-cites="rolfe2019crying"><sup><a href="#ref-rolfe2019crying" role="doc-biblioref">7</a></sup></span>. Moreover, the data support the presence of microbial spillover between different plant compartments, although it is reduced when the soil is covered. This indicates that microbial spillover and plant-mediated changes in the below-ground microbiota could coexist in this specific system.</p>
+<p>In conclusion, the study by <em>Malacrinò &amp; Bennett</em> demonstrates that the soil-driven effect on plant and herbivore microbial communities is mediated by the plant, not via spillover. At the same time, it was observed that the rhizosphere and root microbiota are influenced by microbial spillover from herbivores. These findings provide a clearer understanding of the interactions between soil, plants, and herbivores, with potential applications in improving agricultural practices by manipulating soil microbiota.</p>
+<p>👉 <a href="Omnia_focus_VII.pdf" title="Here you can download the PDF version">PDF version</a></p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Malacrinò A. &amp; Bennett A.E. (2024). Soil microbiota and herbivory drive the assembly of tomato plant-associated microbial communities through different mechanisms. <em>Communications Biology</em>, <strong>7</strong>: 564. <a href="https://doi.org/10.1038/s42003-024-06259-6">doi.org/10.1038/s42003-024-06259-6)</a></p>
+</div>
+</div>
+</div>
 
 
 
-</section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1718920800000" data-listing-file-modified-sort="1718953929466" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="688">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_VII/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_VII/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/posts_omnia/omnia_focus_VII/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_VII/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_VII/index.html" class="no-external">Plant-mediated soil effects on microbiota in plant-herbivore systems</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_VII/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-7</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_VII/index.html" class="no-external">The study by <em>Malacrinò &amp; Bennett</em> demonstrates that the soil-driven effects on plant and herbivore microbial communities are primarily mediated through the plant itself rather than through direct microorganism transfer. The results also highlight the impact of herbivores on the rhizosphere and root microbiota via microbial spillover. These findings offer insights into soil-plant-herbivore interactions with potential applications in sustainable agricultural practices. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_VII/index.html" class="no-external">
-<div class="listing-date">
-Jun 21, 2024
-</div>
-<div class="listing-author">
-Mauro Maver
-</div>
-<div class="listing-reading-time">
-4 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1718661600000" data-listing-file-modified-sort="1718716767328" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="810">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_VI/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_VI/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/posts_omnia/omnia_focus_VI/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_VI/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_VI/index.html" class="no-external">Modulation of lettuce responses to salinity by <em>Graminaceae</em>-derived protein hydrolysates</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_VI/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-6</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_VI/index.html" class="no-external">This study by <em>Monterisi et al.</em> investigates the effects of protein hydrolysates from <em>Graminaceae</em> and their fractions on lettuce under saline stress. It reveals that both treatments modulate the plant’s transcriptome and metabolomic profile, enhancing its resilience to high salinity through distinct mechanisms. This study underscores the potential of protein hydrolysates to mitigate salinity stress in agriculture, promoting sustainable crop management. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_VI/index.html" class="no-external">
-<div class="listing-date">
-Jun 18, 2024
-</div>
-<div class="listing-author">
-Mauro Maver
-</div>
-<div class="listing-reading-time">
-5 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1717624800000" data-listing-file-modified-sort="1718716760262" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="661">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/posts_omnia/omnia_focus_V/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external">Enhancing root-knot nematode invasion resistance in clover through root uptake of benzoxazinoids</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-5</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external">This study by <em>Hama et al.</em> demonstrates that clover can absorb and metabolise benzoxazinoids from other plants, significantly enhancing its resistance to nematode invasion temporarily. The findings suggest that continuous benzoxazinoids release in co-cropping systems could sustain pathogen protection in non-benzoxazinoids-producing plants like clover. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_V/index.html" class="no-external">
-<div class="listing-date">
-Jun 6, 2024
-</div>
-<div class="listing-author">
-Mauro Maver
-</div>
-<div class="listing-reading-time">
-4 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1716415200000" data-listing-file-modified-sort="1716471953274" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="827">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/posts_omnia/omnia_focus_IV/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external">Enhanced photosynthesis in rice with far-red light supplement: unveiling dual roles beyond shade avoidance</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-4</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external">This study by <em>Huber et al.</em> demonstrates that supplemental far-red light significantly enhances growth and photosynthetic efficiency in rice without triggering a strong shade avoidance syndrome response. This suggests that far-red light serves a dual role as an energy source and a proximity signal. These findings are crucial for optimising light management in greenhouse and vertical farming to maximise plant productivity. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_IV/index.html" class="no-external">
-<div class="listing-date">
-May 23, 2024
-</div>
-<div class="listing-author">
-Mauro Maver
-</div>
-<div class="listing-reading-time">
-5 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1715551200000" data-listing-file-modified-sort="1715349255657" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="752">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/posts_omnia/omnia_focus_III/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external"><sup>13</sup>C dynamics in forest rhizosphere microbial communities under drought and rewetting</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-3</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">This study by <em>Gao et al.</em> investigates the impact of drought and soil rewetting on forest rhizosphere microbial communities, tracing the dynamics of carbon-13 (<sup>13</sup>C) in European beech and Scots pine forests. Findings reveal significant shifts in <sup>13</sup>C uptake and microbial community resilience, shedding light on ecosystem responses to climate change-induced stressors. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_III/index.html" class="no-external">
-<div class="listing-date">
-May 13, 2024
-</div>
-<div class="listing-author">
-Mauro Maver
-</div>
-<div class="listing-reading-time">
-4 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1714600800000" data-listing-file-modified-sort="1714591111951" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="749">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/posts_omnia/omnia_focus_II/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">Redefining tinnitus: a complex neurological disorder and its genetic roots</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-2</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">What is tinnitus exactly? A shift in the conception of tinnitus from being just a symptom of an underlying condition to being recognized as a neurological disorder redefines its long-established dogma definition. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_II/index.html" class="no-external">
-<div class="listing-date">
-May 2, 2024
-</div>
-<div class="listing-author">
-Sara Gomez-Cabellos
-</div>
-<div class="listing-reading-time">
-4 min
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1713304800000" data-listing-file-modified-sort="1714581787449" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="933">
-<div class="thumbnail">
-<p><a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/posts_omnia/omnia_focus_I/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">Floral synchrony: the role of <em>FLOWERING LOCUS T</em> in the leaf-specific vernalisation response in Arabidopsis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">Omnia <em>Focus</em> - Volume 1-1</a>
-</div>
-<div class="listing-description">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">This study by <em>Huang et al.</em> explores the intricate relationship between vernalisation, leaf-specific responses, and flowering synchrony in <em>Arabidopsis thaliana</em>. They uncover how leaf development during vernalisation impacts the expression of key flowering genes, suggesting a complex interplay between leaf-based processes and meristem regulation in determining flowering timing. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posts_omnia/omnia_focus_I/index.html" class="no-external">
-<div class="listing-date">
-Apr 17, 2024
-</div>
-<div class="listing-author">
-Mauro Maver
-</div>
-<div class="listing-reading-time">
-5 min
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-tkacz2020influence" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Tkacz, A., Bestion, E., Bo, Z., Hortala, M. &amp; Poole, P. S. Influence of plant fraction, soil, and plant species on microbiota: A multikingdom comparison. <em>MBio</em> <strong>11</strong>, 10–1128 (2020).</div>
+</div>
+<div id="ref-malacrino2021soil" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Malacrinò, A., Karley, A. J., Schena, L. &amp; Bennett, A. E. Soil microbial diversity impacts plant microbiota more than herbivory. <em>Phytobiomes Journal</em> <strong>5</strong>, 408–417 (2021).</div>
+</div>
+<div id="ref-malacrino2024soil" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Malacrinò, A. &amp; Bennett, A. E. Soil microbiota and herbivory drive the assembly of tomato plant-associated microbial communities through different mechanisms. <em>Communications Biology</em> <strong>7</strong>, 564 (2024).</div>
+</div>
+<div id="ref-wolfgang2023reciprocal" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Wolfgang, A., Tack, A. J., Berg, G. &amp; Abdelfattah, A. Reciprocal influence of soil, phyllosphere, and aphid microbiomes. <em>Environmental Microbiome</em> <strong>18</strong>, 63 (2023).</div>
+</div>
+<div id="ref-pineda2017steering" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Pineda, A., Kaplan, I. &amp; Bezemer, T. M. Steering soil microbiomes to suppress aboveground insect pests. <em>Trends in Plant Science</em> <strong>22</strong>, 770–778 (2017).</div>
+</div>
+<div id="ref-french2021emerging" class="csl-entry" role="listitem">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">French, E., Kaplan, I., Iyer-Pascuzzi, A., Nakatsu, C. H. &amp; Enders, L. Emerging strategies for precision microbiome management in diverse agroecosystems. <em>Nature plants</em> <strong>7</strong>, 256–267 (2021).</div>
+</div>
+<div id="ref-rolfe2019crying" class="csl-entry" role="listitem">
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Rolfe, S. A., Griffiths, J. &amp; Ton, J. Crying out for help with root exudates: Adaptive mechanisms by which stressed plants assemble health-promoting soil microbiomes. <em>Current opinion in microbiology</em> <strong>49</strong>, 73–82 (2019).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {Plant-Mediated Soil Effects on Microbiota in Plant-Herbivore
+    Systems},
+  volume = {1},
+  number = {7},
+  date = {2024-06-21},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VII},
+  doi = {10.5281/zenodo.12188671},
+  langid = {en},
+  abstract = {The study by *Malacrinò \&amp; Bennett* demonstrates that the
+    soil-driven effects on plant and herbivore microbial communities are
+    primarily mediated through the plant itself rather than through
+    direct microorganism transfer. The results also highlight the impact
+    of herbivores on the rhizosphere and root microbiota via microbial
+    spillover. These findings offer insights into soil-plant-herbivore
+    interactions with potential applications in sustainable agricultural
+    practices.}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Maver, M. Plant-mediated soil effects on
+microbiota in plant-herbivore systems. <em>Omnia Focus</em> vol. 1
+Preprint at <a href="https://doi.org/10.5281/zenodo.12188671">https://doi.org/10.5281/zenodo.12188671</a>
+(2024).</div>
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1037,5 +901,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

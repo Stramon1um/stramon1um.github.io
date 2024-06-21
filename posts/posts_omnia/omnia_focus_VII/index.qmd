@@ -1,0 +1,77 @@
+---
+title: "Plant-mediated soil effects on microbiota in plant-herbivore systems"
+subtitle: "Omnia *Focus* - Volume 1-7"
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Plant-mediated soil effects on microbiota in plant-herbivore systems"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 1
+  issue: 7
+  issued: 2024-06-21
+  doi: "10.5281/zenodo.12188671"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-06-21"
+doi: "10.5281/zenodo.12188671"
+keywords:
+  - Soil microbiota
+  - Plant-herbivore interactions
+  - Microbial spillover
+  - "*Solanum lycopersicum*"
+  - "*Menduca sexta*"
+abstract: |
+  The study by *Malacrinò & Bennett* demonstrates that the soil-driven effects on plant and herbivore microbial communities are primarily mediated through the plant itself rather than through direct microorganism transfer. The results also highlight the impact of herbivores on the rhizosphere and root microbiota via microbial spillover. These findings offer insights into soil-plant-herbivore interactions with potential applications in sustainable agricultural practices.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+resources: 
+  - Omnia_focus_VI.pdf
+---
+
+::: drop-cap
+Soil has a significant impact on plants, profoundly influencing their microbiota. Studies have demonstrated that the influence of soil far exceeds that of other factors, such as plant genotype or the presence of insects [@tkacz2020influence; @malacrino2021soil]. Indeed, soil microorganisms can colonise different parts of plants, like roots and leaves, affecting their microbiome or altering their physiological status. Overall, these soil-mediated effects are known as soil-driven effects. Similarly, the presence of herbivores can directly or indirectly influence plant microbiomes, known as herbivore-driven effects. However, few studies have explored the combined impact of soil- and herbivore-driven effects on the structure and diversity of microbial communities within plants.
+:::
+
+Two possible mechanisms are hypothesised to explain the interactions between below- and above-ground microorganisms in a plant-herbivore system. The first mechanism involves direct mediation by the plant itself. For example, microorganisms can interact directly with the host plant or indirectly by improving the availability of nutritional resources. Alternatively, influence can occur via spillover, with direct transfer of microorganisms between above- and below-ground compartments, such as through insect frass or honeydew, or vice versa through splashes or droplets of water (e.g., rain or irrigation).
+
+This study by *Malacrinò & Bennett*[@malacrino2024soil] aims to clarify how microorganisms in a plant-herbivore system influence each other. They hypothesised that the plant itself primarily mediates the effects of soil and herbivores on plant microbiota. The experimental design included manipulating the soil composition (three different inocula), the presence/absence of herbivorous insects, and the effect of the presence/absence of soil cover.
+
+The experiment was conducted on tomato plants (*Solanum lycopersicum* L.) grown in microcosms with three different soil microbial communities (agricultural field, marginal field, and prairie) selected for their distinct compositions. Half of the microcosms were covered with a neoprene disc at the soil level to separate “via plant” effects from “via spillover” effects, and half of them were exposed to the herbivore *Manduca sexta*. At the end of the experiment (7 weeks), microbial communities of soil, rhizosphere, root, leaf, and herbivores were analysed, along with plant and insect biomass.
+
+The results of this study primarily show that soil inoculum has the most significant impact on the structure of bacterial communities in all plant compartments analysed, especially on root and herbivore microbiota. Additionally, it was interesting to note that changes induced by soil inoculum on herbivore microbiomes followed a linear gradient, with the greatest impact observed by agricultural soil and the least by prairie soil.
+
+However, contrary to previous studies, it was observed that the soil-driven effect influences the leaf and herbivore microbiota regardless of the presence of the neoprene disc. These results thus support the hypothesis of a soil-driven effect “via plant.” This effect could be due to changes in plant metabolism and physiology, which in turn alter the diet of herbivores and their microbiome. Another possible explanation is the direct transfer of microorganisms from below ground to above ground via the xylem, as demonstrated by recent research [@wolfgang2023reciprocal]. Furthermore, it was observed that soil microbial communities can negatively affect insect biomass. This factor is particularly interesting as it could lead to the development of more sustainable methods for controlling pathogens[@pineda2017steering; @french2021emerging].
+
+On the other hand, the herbivore-driven effect can alter plant microbiome composition both directly and indirectly through changes in metabolism, plant physiology, and root exudates[@rolfe2019crying]. Moreover, the data support the presence of microbial spillover between different plant compartments, although it is reduced when the soil is covered. This indicates that microbial spillover and plant-mediated changes in the below-ground microbiota could coexist in this specific system.
+
+In conclusion, the study by *Malacrinò & Bennett* demonstrates that the soil-driven effect on plant and herbivore microbial communities is mediated by the plant, not via spillover. At the same time, it was observed that the rhizosphere and root microbiota are influenced by microbial spillover from herbivores. These findings provide a clearer understanding of the interactions between soil, plants, and herbivores, with potential applications in improving agricultural practices by manipulating soil microbiota.
+
+👉 [PDF version](Omnia_focus_VII.pdf "Here you can download the PDF version")
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Malacrinò A. & Bennett A.E. (2024). Soil microbiota and herbivory drive the assembly of tomato plant-associated microbial communities through different mechanisms. *Communications Biology*, **7**: 564. [doi.org/10.1038/s42003-024-06259-6)](https://doi.org/10.1038/s42003-024-06259-6)
+:::
