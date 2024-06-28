@@ -9,7 +9,7 @@
 <link>https://www.mauromaver.eu/omnia.html</link>
 <atom:link href="https://www.mauromaver.eu/omnia.xml" rel="self" type="application/rss+xml"/>
 <description>Portfolio</description>
-<generator>quarto-1.5.43</generator>
+<generator>quarto-1.5.52</generator>
 <lastBuildDate>Fri, 28 Jun 2024 22:00:00 GMT</lastBuildDate>
 <item>
   <title>TWA1: a novel thermosensor enhancing plant thermotolerance</title>
@@ -87,7 +87,7 @@
   volume = {1},
   number = {8},
   date = {2024-06-29},
-  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VIII},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VIII/},
   doi = {10.5281/zenodo.12582848},
   langid = {en},
   abstract = {In this study, *Bohn et al.* identified
@@ -179,7 +179,7 @@ plant thermotolerance. <em>Omnia Focus</em> vol. 1 Preprint at <a href="https://
   volume = {1},
   number = {7},
   date = {2024-06-21},
-  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VII},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VII/},
   doi = {10.5281/zenodo.12188671},
   langid = {en},
   abstract = {The study by *Malacrinò \&amp; Bennett* demonstrates that the
@@ -276,7 +276,7 @@ Preprint at <a href="https://doi.org/10.5281/zenodo.12188671">https://doi.org/10
   volume = {1},
   number = {6},
   date = {2024-06-18},
-  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VI},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VI/},
   doi = {10.5281/zenodo.11965373},
   langid = {en},
   abstract = {This study by *Monterisi et al.* investigates the effects
@@ -369,7 +369,7 @@ Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11965373">
   volume = {1},
   number = {5},
   date = {2024-06-06},
-  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_V},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_V/},
   doi = {10.5281/zenodo.11491221},
   langid = {en},
   abstract = {This study by *Hama et al.* demonstrates that clover can
@@ -463,7 +463,7 @@ Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11491221">
   volume = {1},
   number = {4},
   date = {2024-05-23},
-  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IV},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IV/},
   doi = {10.5281/zenodo.11216924},
   langid = {en},
   abstract = {This study by *Huber et al.* demonstrates that
@@ -554,7 +554,7 @@ far-red light supplement: unveiling dual roles beyond shade avoidance.
   volume = {1},
   number = {3},
   date = {2024-05-13},
-  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_III},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_III/},
   doi = {10.5281/zenodo.11148076},
   langid = {en},
   abstract = {This study by *Gao et al.* investigates the impact of
@@ -655,7 +655,7 @@ vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11148076">https://doi
   volume = {1},
   number = {2},
   date = {2024-05-02},
-  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_II},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_II/},
   doi = {10.5281/zenodo.10955449},
   langid = {en},
   abstract = {What is tinnitus exactly? A shift in the conception of
@@ -740,7 +740,7 @@ Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.10955449">
   volume = {1},
   number = {1},
   date = {2024-04-17},
-  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/},
   doi = {10.5281/zenodo.10955449},
   langid = {en},
   abstract = {This study by *Huang et al.* explores the intricate
