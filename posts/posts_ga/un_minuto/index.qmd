@@ -1,7 +1,6 @@
 ---
 title: "**Avete un minuto?**"
 subtitle: "Brevissima intro sul Gaelico"
-author: "Mauro M"
 date: "2024-01-22"
 categories: [gaelico, irlandese, irlanda]
 image: "image.jpg"

@@ -68,7 +68,15 @@ This study is the first to show that the uptake of defence metabolites by other 
 
 These findings suggest that intercropping with BX-producing plants could effectively improve pathogen resistance while reducing pesticide use. Further field studies are necessary to fully evaluate the long-term benefits and drawbacks of these interactions and develop optimal agricultural practices.
 
-👉 [PDF version](Omnia_focus_V.pdf "Here you can download the PDF version")
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_V.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_V.pdf "Here you can download the PDF version") 👈
+:::
 
 ::: {.callout-note appearance="minimal"}
 **Original article**

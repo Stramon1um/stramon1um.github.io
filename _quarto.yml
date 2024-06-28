@@ -14,6 +14,9 @@ website:
   google-analytics: "G-GEXKYETG1W"
   open-graph: true
   search: false
+  back-to-top-navigation: true
+  #bread-crumbs: true
+  #reader-mode: true
   navbar:
     background: primary
     right:

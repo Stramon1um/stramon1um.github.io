@@ -1,7 +1,6 @@
 ---
 title: "**Aggettivi I**"
 subtitle: "Piccolo elenco di utili aggettivi"
-author: "Mauro M"
 date: "2024-04-18"
 categories: [gaelico, irlandese, aggettivi]
 image: "image.jpg"

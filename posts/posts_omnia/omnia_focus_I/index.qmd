@@ -78,7 +78,15 @@ The study conducted by *Huang et al.* represents one of the first attempts to es
 
 Overall, the research conducted in Arabidopsis by *Huang et al.* contributes to a better understanding of leaf-level interaction between vernalisation and floral synchrony, paving the way for further investigations in this field.
 
-👉 [PDF version](Omnia_focus_I.pdf "Here you can download the PDF version")
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_I.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_I.pdf "Here you can download the PDF version") 👈
+:::
 
 ::: {.callout-note appearance="minimal"}
 **Original article**

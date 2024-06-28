@@ -1,7 +1,6 @@
 ---
 title: "**Auguri di Buon Compleanno!**"
 subtitle: "Come augurare un buon compleanno in irlandese"
-author: "Mauro M"
 date: "2024-05-26"
 categories: [gaelico, irlandese, compleanno, auguri]
 image: "image.jpg"

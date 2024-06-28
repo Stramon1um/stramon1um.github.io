@@ -69,7 +69,15 @@ Gene ontology and gene-set enrichment analysis uncovered the involvement of memb
 
 This study presents several limitations, such as a lack of representation of the whole phenotype of Ménière’s disease using the extreme phenotype strategy or the possibility that other neural pathways unrelated to synapses are also implicated in tinnitus. Nevertheless, it provides a first reference point in understanding the molecular players in severe tinnitus, and it could be a significant step forward in its future treatment.
 
-👉 [PDF version](Omnia_focus_II.pdf "Here you can download the PDF version")
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_II.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_II.pdf "Here you can download the PDF version") 👈
+:::
 
 <!-- ::: {.callout-note appearance="minimal"} -->
 

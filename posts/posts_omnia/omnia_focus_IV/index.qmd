@@ -69,8 +69,15 @@ This study by *Huber et al.* demonstrated that FR light not only acts as a shade
 
 In conclusion, the interaction between FR and the photosynthetic photon flux density (PPFD) in photosynthesis needs further investigation, especially to understand how FR can compensate for a reduction in PPFD, particularly in the lower canopy zones [@huber2021light]. These results are particularly relevant for optimising light in greenhouse and vertical farming systems, where controlling light quality and quantity is crucial for maximising plant growth and productivity.
 
-👉 [PDF version](Omnia_focus_IV.pdf "Here you can download the PDF version")
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_IV.pdf">
 
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_IV.pdf "Here you can download the PDF version") 👈
+:::
 ::: {.callout-note appearance="minimal"}
 **Original article**
 

@@ -68,7 +68,15 @@ In addition, this study highlighted differences between beech and pine forests i
 
 In conclusion, the study conducted by *Gao et al.* provides important insights into the complex interactions between plants and soil microbial communities during drought and soil moisture restoration periods. The results obtained also offer valuable tools for understanding the mechanisms underlying the resilience of forest ecosystems, which are increasingly subject to rapid climate change.
 
-👉 [PDF version](Omnia_focus_III.pdf "Here you can download the PDF version")
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_III.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_III.pdf "Here you can download the PDF version") 👈
+:::
 
 ::: {.callout-note appearance="minimal"}
 **Original article**

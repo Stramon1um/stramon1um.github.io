@@ -70,12 +70,20 @@ In the absence of saline stress, the data obtained are partially discordant with
 
 In conclusion, *Monterisi et al*. demonstrate that PHs derived from *Graminaceae* and their molecular fractions can significantly modulate the molecular, biochemical, and physiological responses of lettuce under saline stress. Although P and F3 activate different mechanisms, both treatments provide benefits in counteracting severe salinity conditions. These findings underscore the importance of further investigating the bioactivity of the molecular components of biostimulants to fully maximise their potential in agricultural practices.
 
-👉 [PDF version](Omnia_focus_VI.pdf "Here you can download the PDF version")
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_VI.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_VI.pdf "Here you can download the PDF version") 👈
+:::
 
 ::: {.callout-note appearance="minimal"}
 **Original article**
 
-Monterisi, S., Zhang, L., Garcia-Perez, P., Alzate Zuluaga, M.Y., Ciriello, M., El-Nakhel, C., Buffagni, V., Cardarelli, M., Colla, G., Rouphael, Y., Cesco, S., Lucini, L. & Pii, Y. (2024). Integrated multi-omic approach reveals the effect of a Graminaceae-derived biostimulant and its lighter fraction on salt-stressed lettuce plants. *Scientific Reports*, **14**: 10710. [doi.org/10.1038/s41598-024-61576-4)](https://doi.org/10.1038/s41598-024-61576-4)
+Monterisi, S., Zhang, L., Garcia-Perez, P., Alzate Zuluaga, M.Y., Ciriello, M., El-Nakhel, C., Buffagni, V., Cardarelli, M., Colla, G., Rouphael, Y., Cesco, S., Lucini, L. & Pii, Y. (2024). Integrated multi-omic approach reveals the effect of a Graminaceae-derived biostimulant and its lighter fraction on salt-stressed lettuce plants. *Scientific Reports*, **14**: 10710. [doi.org/10.1038/s41598-024-61576-4](https://doi.org/10.1038/s41598-024-61576-4)
 
 **List of abbreviations**
 

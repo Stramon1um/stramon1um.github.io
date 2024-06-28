@@ -1,0 +1,25 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: true
+
+# Enable CC licence appendix
+copyright:
+  statement: "© 2024 Mauro Maver | Il contenuto di questo blog è rilasciato sotto licenza CC BY-NC-SA 4.0"
+
+# # Default for table of contents
+# toc: true
+# toc-title: Table of contents
+# toc-location: left
+
+# Default fields for citation
+citation: true
+lang: it
+author:
+  - name: Mauro Maver
+    url: https://www.mauromaver.eu
+    email: mauromaver@gmail.com

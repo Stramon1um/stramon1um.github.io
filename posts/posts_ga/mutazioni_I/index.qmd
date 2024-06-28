@@ -1,7 +1,6 @@
 ---
 title: "**Mutazioni I: la Lenizione**"
 subtitle: "Prima parte riguardante una delle principali mutazioni"
-author: "Mauro M"
 date: "2024-03-13"
 categories: [gaelico, irlandese, mutazioni]
 image: "image.jpg"

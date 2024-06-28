@@ -50,3 +50,13 @@ p.drop-cap {
 .callout-note {
   border-left-color: #007373 !important;
 }
+
+.PDF{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  a:link {
+  color: #007373;
+  a:visited {
+  color: #007373;
+}

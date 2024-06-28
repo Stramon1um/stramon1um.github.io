@@ -47,7 +47,7 @@ image: "image.jpg"
 bibliography: reference.bib
 csl: "nature-reviews-molecular-cell-biology.csl"
 resources: 
-  - Omnia_focus_VI.pdf
+  - Omnia_focus_VII.pdf
 ---
 
 ::: drop-cap
@@ -68,7 +68,15 @@ On the other hand, the herbivore-driven effect can alter plant microbiome compos
 
 In conclusion, the study by *Malacrinò & Bennett* demonstrates that the soil-driven effect on plant and herbivore microbial communities is mediated by the plant, not via spillover. At the same time, it was observed that the rhizosphere and root microbiota are influenced by microbial spillover from herbivores. These findings provide a clearer understanding of the interactions between soil, plants, and herbivores, with potential applications in improving agricultural practices by manipulating soil microbiota.
 
-👉 [PDF version](Omnia_focus_VII.pdf "Here you can download the PDF version")
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_VII.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_VII.pdf "Here you can download the PDF version") 👈
+:::
 
 ::: {.callout-note appearance="minimal"}
 **Original article**
