@@ -10,7 +10,100 @@
 <atom:link href="https://www.mauromaver.eu/omnia.xml" rel="self" type="application/rss+xml"/>
 <description>Portfolio</description>
 <generator>quarto-1.5.52</generator>
-<lastBuildDate>Fri, 28 Jun 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Jul 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Repressive role of GLK in vindoline and TIA pathway regulation in Catharanthus roseus</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IX/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="drop-cap">
+<p>The plant <em>Catharanthus roseus</em> is of significant scientific interest because it is the primary and only source for the biosynthesis of the two terpenoid indole alkaloids (TIAs), vinblastine and vincristine, which are widely used in chemotherapy treatments. A distinctive feature of TIAs and the vindoline pathway (one of the downstream TIA pathways) is their strong accumulation in developing leaves, followed by their decrease as the leaf matures<span class="citation" data-cites="mall2019influence"><sup>1</sup></span>. However, despite the biosynthetic pathway being extensively characterised<span class="citation" data-cites="mizukami1979purification"><sup>2</sup></span>, the exact regulatory mechanisms underlying this developmental pattern remain largely unexplored.</p>
+</div>
+<p>Recently<span class="citation" data-cites="liu2019gata"><sup>3</sup></span>, two transcription factors (TF) involved in regulating the vindoline pathway have been identified: CrPIF1, acting as a repressor in dark conditions and CrGATA1, acting as an activator in the presence of light. Alongside GATAs, GOLDEN2-LIKE (GLK) is a TF known in plants for its key role in chloroplast biogenesis in young shoots and developing leaves. In fact, when etiolated shoots are exposed to light, GLK activates genes for chlorophyll biosynthesis and chloroplast maturation. However, its expression is inhibited in mature leaves.</p>
+<p>In this context, <em>Cole-Osborn et al.</em><span class="citation" data-cites="cole2024role"><sup>4</sup></span> investigated the potential role of the transcription factor GLK in the developmental activation of TIA biosynthesis, particularly vindoline biosynthesis, based on the similarity in leaf-level regulation between GLK and the vindoline pathway.</p>
+<p>The authors identified a single GLK homolog in <em>C.roseus</em>. Although many plants possess two GLK proteins, previous studies have shown that all C<sub>4</sub> plants and only some C<sub>3</sub> plants have two GLKs. <em>C.roseus</em> is a C<sub>3</sub> plant, and these results are thus consistent with the literature<span class="citation" data-cites="wang2013evolution"><sup>5</sup></span>. Additionally, multiple GLK binding motifs were identified in many vindoline pathway promoters, supporting the hypothesis that CrGLK could indeed modulate their expression.</p>
+<p>However, although GLK was initially hypothesised to act as an activator, experiments demonstrated quite the opposite. In the first experiment, the expression of <em>CrGLK</em>, the vindoline pathway, and some TIA genes were monitored in leaves at different developmental stages (immature and mature leaves) and light intensities (low and moderate light). In general, vindoline/TIA pathway genes were more highly expressed in immature leaves and moderate light. On the other hand, <em>CrGLK</em> was more highly expressed in mature and low light conditions. This negative correlation, although preliminary, would support the hypothesis of CrGLK as a non-activator of the vindoline pathway.</p>
+<p>To functionally characterise CrGLK, the authors used the virus-induced gene silencing (VIGS) technique to silence <em>CrGLK</em>, applying the same conditions as the previous experiment. As a positive control for the successful silencing of <em>CrGLK</em>, the expression of <em>CrLHCB2.2</em>, known to be strongly activated by GLKs<span class="citation" data-cites="waters2009glk"><sup>6</sup></span>, was monitored. The <em>CrGLK</em>-silenced plants exhibited a clear phenotype, with pale green leaves and lower chlorophyll <em>a</em> and chlorophyll <em>b</em> contents. This phenotype is consistent with that shown by double mutants <em>glk1</em> <em>glk2</em> in <em>Arabidopsis thaliana</em>, reconfirming the presence of a single copy of GLK in <em>C.roseus</em> and its positive correlation with chlorophyll accumulation. Furthermore, the silencing of <em>CrGLK</em> led to increased expression of vindoline and TIA pathway genes (except for the <em>D4H</em> gene); this effect was particularly evident under moderate light conditions and in immature leaves, under which <em>GLK</em> expression is normally high.</p>
+<p>Similarly to the VIGS silencing, the authors studied the effects of two chemicals, Norflurazon (Nor) and Lincomycin (Lin), capable of inducing chloroplast retrograde signalling, strongly repressing <em>GLK</em> and <em>LHCB2.2</em>, and disrupting chloroplast development. From this experiment, it was observed that treatment with Lin induced repression of <em>CrGLK</em>, <em>CrLHCB2.2</em>, and <em>D4H</em> while strongly inducing vindoline/TIA pathway genes. These results and those obtained with VIGS suggest that CrGLK does not activate but instead may repress TIA biosynthesis. Interestingly, Nor did not have the same effects as Lin, indicating that simply reducing <em>CrGLK</em> is not sufficient, and other mechanisms may be involved.</p>
+<p>In conclusion, <em>Cole-Osborn et al.</em> identified and functionally characterised the single GLK homolog in <em>C.roseus</em> and observed its negative correlation with regulating vindoline and TIA pathway expression genes. These findings suggest a repressive rather than an activating role for CrGLK, providing new insights into the regulation of this important metabolic pathway.</p>
+<hr>
+<div style="text-align: center">
+<iframe width="600" height="450" src="Omnia_focus_IX.pdf">
+</iframe>
+</div>
+<div class="PDF">
+<p>👉 <a href="Omnia_focus_IX.pdf" title="Here you can download the PDF version">Click here for the PDF</a> 👈</p>
+</div>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Cole‐Osborn L.F., McCallan S.A., Prifti O., Abu R., Sjoelund V. &amp; Lee‐Parsons C.W.T. (2024). The role of the Golden2‐like (GLK) transcription factor in regulating terpenoid indole alkaloid biosynthesis in Catharanthus roseus. <em>Plant Cell Reports</em>, <strong>43</strong>: 141. <a href="https://doi.org/10.1007/s00299-024-03208-9">doi.org/10.1007/s00299-024-03208-9</a></p>
+<p><strong>List of abbreviations</strong></p>
+<p><strong>TIA</strong>, terpenoid indole alkaloid <strong>•</strong> <strong>PIF1</strong>, phytochrome-interacting factor 1 <strong>•</strong> <strong>GATA1</strong>, GATA-binding factor 1 <strong>•</strong> <strong>GLK</strong>, golden2-like <strong>•</strong> <strong>VIGS</strong>, virus-induced gene silencing <strong>•</strong> <strong>LHCB2.2</strong>, light harvesting complex subunit B2.2 <strong>•</strong> <strong>D4H</strong>, desacetoxyvindoline 4-hydroxylase.</p>
+</div>
+</div>
+</div>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-mall2019influence" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Mall, M. <em>et al.</em> Influence of seasonal and ontogenic parameters on the pattern of key terpenoid indole alkaloids biosynthesized in the leaves of catharanthus roseus. <em>South African Journal of Botany</em> <strong>123</strong>, 98–104 (2019).</div>
+</div>
+<div id="ref-mizukami1979purification" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Mizukami, H., Nordlov, H., Lee, S.-L. &amp; Scott, A. I. Purification and properties of strictosidine synthetase (an enzyme condensing tryptamine and secologanin) from catharanthus roseus cultured cells. <em>Biochemistry</em> <strong>18</strong>, 3760–3763 (1979).</div>
+</div>
+<div id="ref-liu2019gata" class="csl-entry">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Liu, Y., Patra, B., Pattanaik, S., Wang, Y. &amp; Yuan, L. GATA and phytochrome interacting factor transcription factors regulate light-induced vindoline biosynthesis in catharanthus roseus. <em>Plant Physiology</em> <strong>180</strong>, 1336–1350 (2019).</div>
+</div>
+<div id="ref-cole2024role" class="csl-entry">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Cole-Osborn, L. F. <em>et al.</em> The role of the Golden2-like (GLK) transcription factor in regulating terpenoid indole alkaloid biosynthesis in catharanthus roseus. <em>Plant Cell Reports</em> <strong>43</strong>, 141 (2024).</div>
+</div>
+<div id="ref-wang2013evolution" class="csl-entry">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Wang, P. <em>et al.</em> Evolution of GOLDEN2-LIKE gene function in c 3 and c 4 plants. <em>Planta</em> <strong>237</strong>, 481–495 (2013).</div>
+</div>
+<div id="ref-waters2009glk" class="csl-entry">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Waters, M. T. <em>et al.</em> GLK transcription factors coordinate expression of the photosynthetic apparatus in arabidopsis. <em>The Plant Cell</em> <strong>21</strong>, 1109–1128 (2009).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {Repressive Role of {GLK} in Vindoline and {TIA} Pathway
+    Regulation in {Catharanthus} Roseus},
+  volume = {1},
+  number = {9},
+  date = {2024-07-02},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IX/},
+  doi = {10.5281/zenodo.12608361},
+  langid = {en},
+  abstract = {The study by *Cole-Osborn et al.* explores the regulatory
+    role of the transcription factor GLK in the biosynthesis of
+    terpenoid indole alkaloids (TIAs) in *Catharanthus roseus*,
+    revealing that CrGLK acts as a repressor rather than an activator of
+    the vindoline pathway. These findings provide new insights into the
+    developmental regulation of TIA biosynthesis, which is crucial for
+    chemotherapy treatments.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+<div class="">Maver, M. Repressive role of GLK in vindoline
+and TIA pathway regulation in Catharanthus roseus. <em>Omnia Focus</em>
+vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.12608361">https://doi.org/10.5281/zenodo.12608361</a>
+(2024).</div>
+</div></div></section></div> ]]></description>
+  <guid>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IX/</guid>
+  <pubDate>Mon, 01 Jul 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IX/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>TWA1: a novel thermosensor enhancing plant thermotolerance</title>
   <dc:creator>Mauro Maver</dc:creator>
