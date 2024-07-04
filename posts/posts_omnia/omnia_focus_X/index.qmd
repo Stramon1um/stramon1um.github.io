@@ -1,0 +1,87 @@
+---
+title: "Role of ExAD in salt-induced directional root response in *Arabidopsis thaliana*"
+subtitle: "Omnia *Focus* - Volume 1-10"
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Role of ExAD in salt-induced directional root response in Arabidopsis thaliana"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 1
+  issue: 10
+  issued: 2024-07-04
+  doi: "10.5281/zenodo.12633958"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-07-04"
+doi: "10.5281/zenodo.12633958"
+keywords:
+  - Sodium chloride
+  - Root growth direction
+  - Extensin arabinose deficient transferase
+  - Halotropism
+  - Cell wall modification
+abstract: |
+  The study by *Zou et al*. investigates the impact of saline stress on root growth direction in *Arabidopsis thaliana*, identifying the enzyme EXTENSIN ARABINOSE DEFICIENT TRANSFERASE (ExAD) as crucial for cell wall modification and salt-induced directional growth. Their findings highlight the specificity of Na<sup>+</sup> ions in triggering these responses and suggest ExAD’s significant role in adapting to saline conditions.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+resources: 
+  - Omnia_focus_X.pdf
+---
+
+::: drop-cap
+Most plants are sensitive to salinity, which negatively impacts root growth and development, making saline stress one of the primary causes of crop yield losses. The primary cause of this stress is sodium chloride (NaCl), which affects the plant in two ways: by causing osmotic stress, thereby inhibiting water uptake by the roots, and by causing high ion accumulation in tissues [@hasegawa2000plant; @julkowska2015tuning]. At the root level, the presence of NaCl leads to alterations in root architecture and cell wall composition and inhibits gravitropism. Plants can modify the direction of root growth to avoid areas of high soil salinity, a process known as halotropism (negative halotropism) [@deolu2019genetic].
+:::
+
+The mechanism underlying halotropism has been recently studied and demonstrated, involving a redistribution of the phytohormone auxin in the root [@korver2020halotropism]. However, under uniform salt conditions, little is known about the regulatory pathways and genetic components involved in salt-induced directional root growth. To address this, *Zou et al.*[@zou2024arabinosylation] used the variation in root growth direction under salinity as a phenotypic marker to investigate root responses to salinity and salt-signalling pathways.
+
+For this study, the authors initially developed a novel dynamic salt-induced tilting assay (SITA) to investigate and monitor root growth direction in response to salinity and salt-induced inhibition of gravitropism. Four-day-old *Arabidopsis thaliana* plants were transferred to plates with different treatments (100 mM NaCl, 100 mM KCl, 200 mM sorbitol, and control) and then rotated 90° clockwise to apply gravistimulus. Upon transfer, the root tip direction (RTD) was monitored every 20 minutes for at least 24 hours. This experiment revealed that changes in root bending via RTD were significant only in the presence of NaCl and not with other osmolites (KCl and sorbitol), although all impacted root growth. Similar results were obtained by applying NaNO<sub>3</sub>, confirming that the presence of Na<sup>+</sup> ions alone, not osmotic stress, is sufficient to trigger a different root growth direction in the SITA system.
+
+Given this Na<sup>+</sup> specificity, the authors subsequently used it in a genome-wide association study (GWAS) as a phenotypic marker to identify new factors involved in the salt-dependent root bending response in the presence of gravistimulation. This experiment screened the salt-specific response of 345 natural accessions of *A.thaliana* using the SITA system for possible correlations with single nucleotide polymorphisms (SNPs). This analysis identified a genetic locus in a region of chromosome 3 encoding for a cell wall-modifying enzyme, EXTENSIN ARABINOSE DEFICIENT TRANSFERASE (ExAD). This arabinosyltransferase adds the fourth arabinofuranose (Hyp-Araf<sub>1-4</sub>) to an adjacent hydroxyproline (Hyp) residue on extensins. Extensins are Hyp-rich glycoproteins necessary for maintaining the primary architecture of the cell wall [@liu2016bioinformatic].
+
+The functionalities of ExAD in regulating root growth direction were further characterised using the SITA system on two previously characterised T-DNA knock-out mutant lines: *exad1-1* and *exad1-3* [@moller2017identification]. Transmission electron microscopy (TEM) analysis revealed that the roots of *exad1* (loss-of-function) mutants exhibited thickening of the root epidermal cell walls and increased cell wall porosity under saline conditions. This phenotype is likely linked to the lack of Hyp-arabinosylation of extensins. Additionally, the roots exhibited altered gravitropic root bending and a reduced salt-avoidance response. These findings suggest that the arabinosylation of extensins constitutes another type of cell wall modification that, while not strictly necessary for normal root growth, is crucial for directional response under salt stress.
+
+In summary, the study by *Zou et al.* showed that saline stress significantly impacts the composition and structure of the cell wall. ExAD plays a crucial role in these changes, as it is involved in cell wall modification and is necessary for modulating root growth direction under saline stress in *A.thaliana*. However, ExAD is not the only factor involved, and its possible interactions with other salt-induced signals and factors remain to be established.
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_X.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_X.pdf "Here you can download the PDF version") 👈
+:::
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Zou Y., Gigli-Bisceglia N., van Zelm E., Kokkinopoulou P., Julkowska M.M, Besten M., Nguyen T.-P, Li H., Lamers J., de Zeeuw T., Dongus J.A., Zeng Y., Cheng Y., Koevoets I.T., Jørgensen B., Giesbers M., Vroom J., Ketelaar T., Petersen B.L., Engelsdorf T., Sprakel J., Zhang Y. & Testerink C. (2024). Arabinosylation of cell wall extensin is required for the directional response to salinity in roots. *The Plant Cell*, koae135 [doi.org/10.1093/plcell/koae135](https://doi.org/10.1093/plcell/koae135)
+
+**List of abbreviations**
+
+**NaCl**, sodium chloride **•** **SITA**, salt-induced tilting assay **•** **KCl**, potassium chloride **•** **RTD**, root tip direction **•** **NaNO**<sub>3</sub>, sodium nitrate **•** **GWAS**, genome-wide association study **•** **SNP**, single nucleotide polyphormism **•** **ExAD**, EXTENSIN ARABINOSE DEFICIENT TRANSFERASE **•** **Hyp**, hydroxyproline **•** **T-DNA**, transfer DNA **•** **TEM**, transmission electron microscopy.
+:::
