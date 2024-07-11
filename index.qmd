@@ -48,3 +48,6 @@ Additionally, I am one of the authors of the book 📗[**L'irlandese contemporan
 
 ✍️ Founder and Editor-in-Chief of [**Omnia**](https://www.mauromaver.eu/omnia.html)*,* an independent and multidisciplinary open-access journal.
 :::
+
+<!-- Mastodon verification -->
+<a rel="me" style="display:none" href="https://sciences.social/@stramon1um">Hidden link used to verify my account on sciences.social</a> 

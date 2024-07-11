@@ -10,7 +10,109 @@
 <atom:link href="https://www.mauromaver.eu/omnia.xml" rel="self" type="application/rss+xml"/>
 <description>Portfolio</description>
 <generator>quarto-1.5.52</generator>
-<lastBuildDate>Wed, 03 Jul 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Jul 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Impact of intraspecific chemodiversity on growth and reproduction in Tanacetum vulgare</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_XI/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="drop-cap">
+<p>Phenotypic diversity within species represents a crucial element in ecological dynamics, influencing the performance of individual organisms within communities and ecosystems. Functional traits play a fundamental role in the various factors contributing to this diversity. These are measurable attributes at the individual level that reflect the presence of specific environmental conditions, thereby impacting ecosystem functioning<span class="citation" data-cites="isbell2011high"><sup>1</sup></span>. In addition to visible morphological traits such as growth, reproduction, or physiology, there are less evident traits such as the composition of plant metabolites<span class="citation" data-cites="wetzel2020many"><sup>2</sup></span>. Defined as chemodiversity, and recently the focus of increasing interest in ecological studies, it plays a critical role in species and community interactions within ecosystems.</p>
+</div>
+<p>Organisms of the same species can be categorised into chemotypes based on their primary chemical compounds, the composition of volatile and non-volatile mixtures, or specific synthesised metabolites<span class="citation" data-cites="eilers2021intra"><sup>3</sup></span>. Plants like <em>Tanacetum vulgare</em>, known for their high intraspecific variation in specialised metabolites, are often used as model plants to study the effects of these metabolites on intra- and interspecific interactions<span class="citation" data-cites="balint2016intraspecific"><sup>4</sup></span>. However, few studies have focused on the effects of manipulating chemodiversity on plant-plant interactions<span class="citation" data-cites="thorpe2011interactions"><sup>5</sup></span>.</p>
+<p>To test different hypotheses, <em>Ojeda-Prieto et al.</em><span class="citation" data-cites="ojeda2024intraspecific"><sup>6</sup></span> carefully set up an experimental design to manipulate chemotype richness (number of chemotypes at plot level) and the presence of specific chemotypes at the level of individual plots, assessing their effects on growth, reproductive traits, and headspace volatile release. Individual plots (each with six plants) were created and differentiated in terms of chemotype richness, ranging from 1, 2, 3, to 6 chemotypes. Subsequently, the plots were combined into six blocks (14 plots each), each containing specific combinations of plot-level chemotype richness. All <em>T.vulgare</em> plants were propagated via stem cuttings to maintain the same chemotype as much as possible within each individual plant.</p>
+<p>The initial data collected in the study of <em>T.vulgare</em> revealed a complex interaction between the chemotypes. Indeed, the different chemotypes used exhibited differences in growth parameters (number of stems and plant height) and reproductive traits (number of flowers and floral phenology). These results align with previous studies<span class="citation" data-cites="keskitalo2001variation neuhaus2023chemodiversity"><sup>7,8</sup></span>, confirming that propagating by stem cuttings maintains the phenotypic traits of the chemotypes. In particular, morphological differences between chemotypes tend to decrease over time, suggesting distinctive growth strategies and adaptations for individual survival in the early stages of development.</p>
+<p>Contrary to expectations, no significant differences were observed in the growth parameters of plants grown in plots with different levels of chemotype-richness. This indicates that, when it comes to intraspecific competition, chemotype diversity may not exert a direct or sufficient impact on growth traits. It also suggests that the chemotypes are adaptable and robust in various environments.</p>
+<p>However, there were significant effects on reproductive traits, with differentiated floral strategies among chemotypes in response to plot-level chemodiversity. This strategy could serve to minimise competition for pollination and maximise reproductive fitness. Additionally, variation in floral phenology among different chemotypes might represent a mechanism to avoid cross-pollination and optimise seed production<span class="citation" data-cites="keskitalo1998genetic"><sup>9</sup></span>.</p>
+<p>Another interesting aspect is that at the plot level, the individual contribution of each chemotype tends to become less pronounced over time, suggesting a convergence of morphological traits and making the plots increasingly similar. Furthermore, no overyielding effect was observed in plots with greater chemodiversity; instead, an opposite trend was recorded. These observations suggest that chemodiversity may not necessarily lead to higher overall productivity at the plot level, possibly due to the presence of complex, competitive dynamics.</p>
+<p>Finally, at the plot level, the effect of increasing chemotype richness was evident in leaf-level terpenoid profiles. Surprisingly, contrary to expectations, the same trend was not observed regarding plot-level headspace volatile terpenoid profiles, highlighting the presence and influence of variables and factors that still need to be better understood and studied.</p>
+<p>Overall, this study by <em>Ojeda-Prieto et al.</em> underscores the importance and impact of intraspecific chemodiversity on plant growth and reproduction dynamics. Specifically, the results highlight how it can fundamentally influence various ecosystem functions, such as primary productivity, resource use efficiency, ecosystem stability and resilience.</p>
+<hr>
+<div style="text-align: center">
+<iframe width="600" height="450" src="Omnia_focus_XI.pdf">
+</iframe>
+</div>
+<div class="PDF">
+<p>👉 <a href="Omnia_focus_XI.pdf" title="Here you can download the PDF version">Click here for the PDF</a> 👈</p>
+</div>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Ojeda‐Prieto, L., Medina‐van Berkum, P., Unsicker, S. B., Heinen, R., &amp; Weisser, W. W. (2024). Intraspecific chemical variation of Tanacetum vulgare affects plant growth and reproductive traits in field plant communities. <em>Plant Biology</em>, <a href="https://doi.org/10.1111/plb.13646">doi.org/10.1111/plb.13646</a></p>
+</div>
+</div>
+</div>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-isbell2011high" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Isbell, F. <em>et al.</em> High plant diversity is needed to maintain ecosystem services. <em>Nature</em> <strong>477</strong>, 199–202 (2011).</div>
+</div>
+<div id="ref-wetzel2020many" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Wetzel, W. C. &amp; Whitehead, S. R. The many dimensions of phytochemical diversity: Linking theory to practice. <em>Ecology letters</em> <strong>23</strong>, 16–32 (2020).</div>
+</div>
+<div id="ref-eilers2021intra" class="csl-entry">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Eilers, E. J. Intra-individual and intraspecific terpenoid diversity in erodium cicutarium. <em>Plants</em> <strong>10</strong>, 1574 (2021).</div>
+</div>
+<div id="ref-balint2016intraspecific" class="csl-entry">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Bálint, J. <em>et al.</em> Intraspecific differences in plant chemotype determine the structure of arthropod food webs. <em>Oecologia</em> <strong>180</strong>, 797–807 (2016).</div>
+</div>
+<div id="ref-thorpe2011interactions" class="csl-entry">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Thorpe, A. S., Aschehoug, E. T., Atwater, D. Z. &amp; Callaway, R. M. Interactions among plants and evolution. <em>Journal of Ecology</em> <strong>99</strong>, 729–740 (2011).</div>
+</div>
+<div id="ref-ojeda2024intraspecific" class="csl-entry">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Ojeda-Prieto, L., Medina-van Berkum, P., Unsicker, S. B., Heinen, R. &amp; Weisser, W. W. Intraspecific chemical variation of tanacetum vulgare affects plant growth and reproductive traits in field plant communities. <em>Plant Biology</em> (2024).</div>
+</div>
+<div id="ref-keskitalo2001variation" class="csl-entry">
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Keskitalo, M., Pehu, E. &amp; Simon, J. E. Variation in volatile compounds from tansy (tanacetum vulgare l.) related to genetic and morphological differences of genotypes. <em>Biochemical systematics and ecology</em> <strong>29</strong>, 267–285 (2001).</div>
+</div>
+<div id="ref-neuhaus2023chemodiversity" class="csl-entry">
+<div class="csl-left-margin">8. </div><div class="csl-right-inline">Neuhaus-Harr, A. <em>et al.</em> Chemodiversity affects preference for tanacetum vulgare chemotypes in two aphid species. <em>Oikos</em> e10437 (2023).</div>
+</div>
+<div id="ref-keskitalo1998genetic" class="csl-entry">
+<div class="csl-left-margin">9. </div><div class="csl-right-inline">Keskitalo, M., Lindén, A. &amp; Valkonen, J. Genetic and morphological diversity of finnish tansy (tanacetum vulgare l., asteraceae). <em>Theoretical and Applied Genetics</em> <strong>96</strong>, 1141–1150 (1998).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {Impact of Intraspecific Chemodiversity on Growth and
+    Reproduction in {Tanacetum} Vulgare},
+  volume = {1},
+  number = {11},
+  date = {2024-07-11},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_XI/},
+  doi = {10.5281/zenodo.12723623},
+  langid = {en},
+  abstract = {The study by *Ojeda-Prieto et al.* explores the effects of
+    intraspecific chemodiversity on the growth and reproductive traits
+    of *Tanacetum vulgare*, revealing complex interactions and
+    adaptations among chemotypes that influence ecosystem functions such
+    as productivity and stability. Despite no significant impact on
+    growth, the research highlights differentiated floral strategies and
+    converging morphological traits over time, emphasising the
+    ecological importance of chemodiversity.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+<div class="">Maver, M. Impact of intraspecific
+chemodiversity on growth and reproduction in Tanacetum vulgare.
+<em>Omnia Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.12723623">https://doi.org/10.5281/zenodo.12723623</a>
+(2024).</div>
+</div></div></section></div> ]]></description>
+  <guid>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_XI/</guid>
+  <pubDate>Wed, 10 Jul 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_XI/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Role of ExAD in salt-induced directional root response in Arabidopsis thaliana</title>
   <dc:creator>Mauro Maver</dc:creator>
@@ -212,7 +314,7 @@ vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.12608361">https://doi
 <p>In the plant kingdom, each species has an optimal temperature range for growth and development. However, sudden climatic fluctuations or prolonged periods of intense heat can severely challenge their survival. When temperatures exceed this range, plants activate heat-stress responses (HSR) to adapt to these stressful conditions. These adaptation and response strategies involve various developmental processes in the plant<span class="citation" data-cites="casal2019thermomorphogenesis"><sup>1</sup></span>. Heat triggers the HSR through heat-shock factor 1 (HSF1) transcription factors, which induce the expression of heat-shock proteins (HSPs), helping the plant adapt to heat. Additionally, the HSR involves several phytohormone pathways, with abscisic acid (ABA) playing a crucial role in regulating the plant’s water status, promoting thermotolerance, and enhancing plant acclimation<span class="citation" data-cites="cutler2010abscisic yoshida2019revisiting"><sup>2,3</sup></span>.</p>
 </div>
 <p>To better understand the mechanisms of temperature perception and the induction of thermotolerance, <em>Bohn et al.</em><span class="citation" data-cites="bohn2024temperature"><sup>4</sup></span> examined different lines of <em>Arabidopsis thaliana</em> that were hyper-responsive or insensitive to ABA under heat stress. Among all the mutants tested, one showed strong thermosensitivity, and the gene locus was subsequently named <em>THERMO-WITH-ABA-RESPONSE 1</em> (<em>TWA1</em>). Expressed throughout the plant, it encodes a predicted intrinsically disordered protein of 130 kDa with two potential ethylene-responsive-element-binding-factor-associated amphiphilic repression (EAR) motifs (LxLxL).</p>
-<p>In a yeast two-hybrid (Y2H) system, TWA1 was found to interact with JASMONATE-ASSOCIATED MYC-LIKE 2 (JAM2), a transcription factor involved in jasmonate (JA) hormone signalling<span class="citation" data-cites="sasaki2013basic song2013bhlh"><sup>5,6</sup></span>, and with the co-repressors TOPLESS (TPL) and TOPLESS-RELATED (TPR), forming a repressor complex. However, this interaction is highly temperature-dependent. Specifically, TWA1 only accumulates in nuclear subdomains at elevated temperatures (30-35°C), and its conformational changes allow physical interaction with JAM2 and TPL/TPR. These temperature-dependent structural rearrangements are mediated by a 20 amino acid sequence in the amino-terminal region of TWA1, defined as the Highly Variable Region (HVR). The HVR thus confers strong thermosensitivity to TWA1.</p>
+<p>In a yeast two-hybrid (Y2H) system, TWA1 was found to interact with JASMONATE-ASSOCIATED MYC-LIKE 2 (JAM2), a transcription factor involved in jasmonate (JA) hormone signalling<span class="citation" data-cites="sasaki2013basic song2013bhlh"><sup>5,6</sup></span>, and with the co-repressors TOPLESS (TPL) and TOPLESS-RELATED (TPR), forming a repressor complex. However, this interaction is highly temperature-dependent. Specifically, TWA1 only accumulates in nuclear subdomains at elevated temperatures (e.g.&nbsp;30-35°C), and its conformational changes allow physical interaction with JAM2 and TPL/TPR. These temperature-dependent structural rearrangements are mediated by a 20 amino acid sequence in the amino-terminal region of TWA1, defined as the Highly Variable Region (HVR). The HVR thus confers strong thermosensitivity to TWA1.</p>
 <p>Homologues of TWA1 have been identified in both monocotyledons and dicotyledons. An interesting aspect is the role of HVR in thermal sensing, particularly its amino acid sequence. Although they have comparable inhibitory effects at 30-35°C, their thermal sensitivity or temperature threshold varies. For instance, half-maximum inhibitory values (IT<sub>50</sub>) of 20°C, 26°C, and 30°C were observed for TWA1 in <em>A.lyrata</em> (cold acclimated), <em>A.thaliana</em>, and <em>Sinapis alba</em> (Mediterranean climate), respectively. Similarly, this threshold has been shown to affect accumulation and interaction with JAM2 and TPL and, consequently, the activation of its inhibitor effects.</p>
 <p>Moreover, tests involving the overexpression of TWA1 (TWA1(oe)) have demonstrated its ability to confer an enhanced thermotolerance, both basal and acquired, without impacting growth and photosynthesis. No significant differences in growth, photosynthesis, and gas exchange were observed between WT and TWA1(oe) when grown at 20°C. These findings reconfirm the activation of TWA1 only above specific temperatures. Additionally, the improved thermotolerance of TWA1 is not due to the constitutive upregulation of HSP transcripts.</p>
 <p>TWA1 presents an interesting parallel with other known thermal sensors, such as EARLY FLOWERING 3 (ELF3) in <em>A.thaliana</em><span class="citation" data-cites="jung2020prion"><sup>7</sup></span>. However, thermally, TWA1 acts oppositely to ELF3, repressing gene expression at high temperatures and being much more sensitive to temperature changes.</p>

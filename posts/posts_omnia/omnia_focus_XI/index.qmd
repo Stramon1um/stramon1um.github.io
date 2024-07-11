@@ -1,0 +1,89 @@
+---
+title: "Impact of intraspecific chemodiversity on growth and reproduction in *Tanacetum vulgare*"
+subtitle: "Omnia *Focus* - Volume 1-11"
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Impact of intraspecific chemodiversity on growth and reproduction in Tanacetum vulgare"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 1
+  issue: 11
+  issued: 2024-07-11
+  doi: "10.5281/zenodo.12723623"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-07-11"
+doi: "10.5281/zenodo.12723623"
+keywords:
+  - Chemodiversity
+  - Functional traits
+  - Plant–plant competition
+  - "*Tanacetum vulgare*"
+  - Terpenoids
+abstract: |
+  The study by *Ojeda-Prieto et al.* explores the effects of intraspecific chemodiversity on the growth and reproductive traits of *Tanacetum vulgare*, revealing complex interactions and adaptations among chemotypes that influence ecosystem functions such as productivity and stability. Despite no significant impact on growth, the research highlights differentiated floral strategies and converging morphological traits over time, emphasising the ecological importance of chemodiversity.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+resources: 
+  - Omnia_focus_XI.pdf
+---
+
+::: drop-cap
+Phenotypic diversity within species represents a crucial element in ecological dynamics, influencing the performance of individual organisms within communities and ecosystems. Functional traits play a fundamental role in the various factors contributing to this diversity. These are measurable attributes at the individual level that reflect the presence of specific environmental conditions, thereby impacting ecosystem functioning [@isbell2011high]. In addition to visible morphological traits such as growth, reproduction, or physiology, there are less evident traits such as the composition of plant metabolites [@wetzel2020many]. Defined as chemodiversity, and recently the focus of increasing interest in ecological studies, it plays a critical role in species and community interactions within ecosystems.
+:::
+
+Organisms of the same species can be categorised into chemotypes based on their primary chemical compounds, the composition of volatile and non-volatile mixtures, or specific synthesised metabolites [@eilers2021intra]. Plants like *Tanacetum vulgare*, known for their high intraspecific variation in specialised metabolites, are often used as model plants to study the effects of these metabolites on intra- and interspecific interactions [@balint2016intraspecific]. However, few studies have focused on the effects of manipulating chemodiversity on plant-plant interactions [@thorpe2011interactions].
+
+To test different hypotheses, *Ojeda-Prieto et al.*[@ojeda2024intraspecific] carefully set up an experimental design to manipulate chemotype richness (number of chemotypes at plot level) and the presence of specific chemotypes at the level of individual plots, assessing their effects on growth, reproductive traits, and headspace volatile release. Individual plots (each with six plants) were created and differentiated in terms of chemotype richness, ranging from 1, 2, 3, to 6 chemotypes. Subsequently, the plots were combined into six blocks (14 plots each), each containing specific combinations of plot-level chemotype richness. All *T.vulgare* plants were propagated via stem cuttings to maintain the same chemotype as much as possible within each individual plant.
+
+The initial data collected in the study of *T.vulgare* revealed a complex interaction between the chemotypes. Indeed, the different chemotypes used exhibited differences in growth parameters (number of stems and plant height) and reproductive traits (number of flowers and floral phenology). These results align with previous studies [@keskitalo2001variation; @neuhaus2023chemodiversity], confirming that propagating by stem cuttings maintains the phenotypic traits of the chemotypes. In particular, morphological differences between chemotypes tend to decrease over time, suggesting distinctive growth strategies and adaptations for individual survival in the early stages of development.
+
+Contrary to expectations, no significant differences were observed in the growth parameters of plants grown in plots with different levels of chemotype-richness. This indicates that, when it comes to intraspecific competition, chemotype diversity may not exert a direct or sufficient impact on growth traits. It also suggests that the chemotypes are adaptable and robust in various environments.
+
+However, there were significant effects on reproductive traits, with differentiated floral strategies among chemotypes in response to plot-level chemodiversity. This strategy could serve to minimise competition for pollination and maximise reproductive fitness. Additionally, variation in floral phenology among different chemotypes might represent a mechanism to avoid cross-pollination and optimise seed production [@keskitalo1998genetic].
+
+Another interesting aspect is that at the plot level, the individual contribution of each chemotype tends to become less pronounced over time, suggesting a convergence of morphological traits and making the plots increasingly similar. Furthermore, no overyielding effect was observed in plots with greater chemodiversity; instead, an opposite trend was recorded. These observations suggest that chemodiversity may not necessarily lead to higher overall productivity at the plot level, possibly due to the presence of complex, competitive dynamics.
+
+Finally, at the plot level, the effect of increasing chemotype richness was evident in leaf-level terpenoid profiles. Surprisingly, contrary to expectations, the same trend was not observed regarding plot-level headspace volatile terpenoid profiles, highlighting the presence and influence of variables and factors that still need to be better understood and studied.
+
+Overall, this study by *Ojeda-Prieto et al.* underscores the importance and impact of intraspecific chemodiversity on plant growth and reproduction dynamics. Specifically, the results highlight how it can fundamentally influence various ecosystem functions, such as primary productivity, resource use efficiency, ecosystem stability and resilience.
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_XI.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_XI.pdf "Here you can download the PDF version") 👈
+:::
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Ojeda‐Prieto, L., Medina‐van Berkum, P., Unsicker, S. B., Heinen, R., & Weisser, W. W. (2024). Intraspecific chemical variation of Tanacetum vulgare affects plant growth and reproductive traits in field plant communities. *Plant Biology*, [doi.org/10.1111/plb.13646](https://doi.org/10.1111/plb.13646)
+:::
