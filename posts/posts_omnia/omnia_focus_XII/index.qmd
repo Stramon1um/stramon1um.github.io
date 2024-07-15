@@ -1,0 +1,91 @@
+---
+title: "Independent effects of drought and cultivation systems on wheat: insights from the trait space concept"
+subtitle: "Omnia *Focus* - Volume 1-12"
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Independent effects of drought and cultivation systems on wheat: insights from the trait space concept"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 1
+  issue: 12
+  issued: 2024-07-15
+  doi: "10.5281/zenodo.12732498"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-07-15"
+doi: "10.5281/zenodo.12732498"
+keywords:
+  - Climate change 
+  - Land management 
+  - Soil–plant–atmosphere continuum (SPAC) 
+  - Trait space
+  - Drought
+abstract: |
+  The study by *Sun et al.* examines the independent effects of drought and cultivation systems (conventional vs. organic) on the water and vegetative traits of winter wheat, demonstrating the importance of the trait space concept in developing resilient agricultural strategies against climate change. Their findings highlight that the type of cultivation system used does not mitigate drought-induced changes in wheat.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+resources: 
+  - Omnia_focus_XII.pdf
+---
+
+::: drop-cap
+The urgent need to understand and explore deeper into plants' responses to drought is driven by the increasing global warming and the resulting decrease in predicted water availability for crops. Despite the extensive research on the correlation between crops and water[@sourour2017review], there is still a lack of studies focusing on the soil-plant-atmosphere continuum (SPAC). Such studies are fundamental in understanding the physiological responses of crops to water scarcity, thus protecting their growth and productivity [@boyer1985water; @lambers2008plant].
+:::
+
+Studies on plant trait space are particularly lacking. The concept of trait space was created to integrate multiple traits from an integrative perspective. This includes a range of traits such as root water uptake depths, stem length and anatomy, and foliar ecophysiology. However, existing studies in this regard have primarily focused on growth and yield or relationships between individual traits without offering a comprehensive evaluation of the traits within a SPAC context. Specifically, our understanding of how multiple crop traits respond simultaneously to varying water availability is still insufficient.
+
+To address this challenge, *Sun et al.*[@sun2024drought] conducted an experiment examining the trait space resulting from the interaction between crop systems, management, and drought in winter wheat. Both conventional and organic cultivation methods were evaluated, applying intensive and conservative soil tillage. Wheat (*Triticum aestivum* L.), being a principal source of calories worldwide [@fao2020], was chosen as the case study.
+
+This study represents the first attempt to simultaneously evaluate water and vegetative traits in wheat within a SPAC context and to relate these traits to yield in response to drought and the cultivation system. In general, the data obtained from this experiment show how drought and the cultivation system independently influence traits in wheat, specifically indicating that changing the cultivation method (from conventional to organic) is not a valid and effective strategy for adapting crops to climate change.
+
+When considered individually, the authors observed significant effects of the cultivation system on vegetative traits such as chlorophyll content, plant height, leaf area, and yield. These traits are strongly correlated with the nutritional status of the plants, mainly related to nitrogen (N) [@marschner2011marschner]. These findings are consistent with previous studies and are most likely due to the different chemical and structural properties of the soil resulting from the different cultivation systems applied. For example, wheat was fertilised with a high N-availability fertiliser in the conventional system, while cattle slurry was applied in the organic system. However, no effects of the cultivation system on water traits were observed, especially under water stress. This suggests that crop management has a limited impact on water regulation in wheat.
+
+The drought factor affected wheat and its yield in different ways, regardless of the cultivation system. Besides water traits, drought also significantly impacted vegetative traits, consequently leading to a reduction in yield [@farooq2014drought]. These effects were observed across all applied cultivation systems.
+
+With this study, the authors have, for the first time, evaluated the trait space of wheat in SPAC, attempting to integrate root water uptake, xylem transport, leaf water status, and vegetative traits. The data analysis revealed an evident alteration of the trait space induced by drought, reflecting differences between the conventional and organic systems in terms of water, vegetative traits, and yields. Interestingly, no differences were observed between intensive and conservative tillage, nor was there any interaction between the cultivation system and drought. These findings underline that drought-induced changes were independent of the cultivation system, which raises strong concerns about the expectation to alleviate drought stress of winter wheat by selecting different, widely common management practices, such as organic farming and conservation tillage.
+
+In summary, *Sun et al.* have demonstrated how both the cultivation system and drought independently affect traits in wheat. They also highlighted the usefulness of the trait space concept in assessing the effectiveness of future agricultural strategies in adapting cultivation systems to climate change. However, further investigation of the complex interactions between traits and cultural systems remains necessary to develop more sustainable and resilient agricultural management systems.
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_XII.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_XII.pdf "Here you can download the PDF version") 👈
+:::
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Sun, Q., Gilgen, A.K., Wittwer, R., von Arx, G., van der Heijden, M.G.A., Klaus, V.H. & Buchmann, N. (2024). Drought effects on trait space of winter wheat are independent of land management. *New Phytologist*, **243**: 591-606. [doi.org/10.1111/nph.19851](https://doi.org/10.1111/nph.19851)
+
+**List of abbreviations**
+
+**SPAC**, soil-plant-atmosphere continuum **•** **N**, nitrogen
+:::
