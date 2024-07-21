@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -58,7 +61,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-focus .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -71,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-focus'] = new List('listing-focus', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -134,10 +137,16 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 <link rel="alternate" type="application/rss+xml" title="Mauro Maver" href="omnia.xml" data-external="1"><meta property="og:title" content="Omnia – Mauro Maver">
 <meta property="og:description" content="An independent and multidisciplinary open-access journal, created by Mauro Maver">
+<meta property="og:image" content="https://www.mauromaver.eu/posts/posts_omnia/omnia_cover_vol_I.png">
 <meta property="og:site_name" content="Mauro Maver">
+<meta property="og:image:height" content="3508">
+<meta property="og:image:width" content="2717">
 <meta name="twitter:title" content="Omnia – Mauro Maver">
 <meta name="twitter:description" content="An independent and multidisciplinary open-access journal, created by Mauro Maver">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://www.mauromaver.eu/posts/posts_omnia/omnia_cover_vol_I.png">
+<meta name="twitter:image-height" content="3508">
+<meta name="twitter:image-width" content="2717">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -226,14 +235,27 @@ window.Quarto = {
 
 <section id="omnia-focus" class="level2">
 <h2 class="anchored" data-anchor-id="omnia-focus">Omnia <em>Focus</em></h2>
-<!-- Mastodon verification -->
-<p><a rel="me" style="display:none" href="https://sciences.social/@stramon1um">Hidden link used to verify my account on sciences.social</a></p>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<section id="volume-i-22-july-2024" class="level3">
+<h3 class="anchored" data-anchor-id="volume-i-22-july-2024">Volume I – 22 July 2024</h3>
+<div class="columns">
+<div class="column" style="width:60%;">
+<div style="font-size: 15pt">
+<p><em>Omnia</em> is an independent, multidisciplinary, open-access journal dedicated to enhancing the communication of science-related topics.</p>
+<p>The <em>Focus</em> section has been created to distil the main highlights of featured research articles into concise summaries of 700-800 words (or one A4 page in the current layout). This approach aims to make scientific language more accessible, provide readers with a clear overview, and encourage them to explore the original articles more deeply.</p>
+<p>In this first Volume (July 2024), a collection of research highlights primarily related to the macro category of plants is presented. The highlights are available as blog posts and in a convenient printable format (PDF).</p>
+<p><em>Editor: Mauro Maver</em></p>
+<!-- Writers: Mauro Maver, Sara Gomez Cabellos -->
+</div>
+<!-- All published works are released under a CC BY-NC-SA license. -->
+<!-- Omnia is an independent, multidisciplinary, open-access journal through which I aim to enhance my ability to describe, narrate, and disseminate science-related topics. To this end, I created the Focus section to summarise and condense the main highlights of these articles, making the scientific language more accessible, all within a maximum of 700-800 words (or one A4 page in the current layout). This provides readers with an overview and encourages them, if interested, to read the original article in full. -->
+<!-- Omnia Focus aims to make scientific findings more accessible by summarizing the main highlights of articles like ours. I appreciate their efforts in disseminating our work and encourage you to read and explore the topic further. -->
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="posts/posts_omnia/omnia_cover_vol_I.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="posts/posts_omnia/omnia_cover_vol_I.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:83.0%"></a></p>
+</figure>
+</div>
+</div><hr><div id="listing-focus" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-listing-date-sort="1720994400000" data-listing-file-modified-sort="1720787370685" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="718">
 <div class="thumbnail">
@@ -611,7 +633,12 @@ Mauro Maver
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</div><!-- Mastodon verification --><p><a rel="me" style="display:none" href="https://sciences.social/@stramon1um">Hidden link used to verify my account on sciences.social</a></p>
+</div>
+</section>
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1190,6 +1217,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"loop":false,"selector":".lightbox","openEffect":"zoom","descPosition":"bottom","closeEffect":"zoom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

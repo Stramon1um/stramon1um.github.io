@@ -3,20 +3,58 @@ title: "Omnia"
 subtitle: "An independent and multidisciplinary open-access journal, created by [**Mauro Maver**](https://www.mauromaver.eu)"
 #description: ""
 listing:
-  contents: posts/posts_omnia/*/index.qmd
-  sort: "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
-  feed: true
-  fields: [image, date, title, subtitle, author, reading-time, description]
+  - id: focus
+    contents: posts/posts_omnia/*/index.qmd
+    sort: "date desc"
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    feed: true
+    fields: [image, date, title, subtitle, author, reading-time, description]
 page-layout: full
 #title-block-style: plain
-title-block-banner: "#007373" 
+title-block-banner: "#007373"
+lightbox: true
 ---
 
 ## Omnia *Focus*
 
+### Volume I -- 22 July 2024
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+::: {style="font-size: 15pt"}
+*Omnia* is an independent, multidisciplinary, open-access journal dedicated to enhancing the communication of science-related topics.
+
+The *Focus* section has been created to distil the main highlights of featured research articles into concise summaries of 700-800 words (or one A4 page in the current layout). This approach aims to make scientific language more accessible, provide readers with a clear overview, and encourage them to explore the original articles more deeply.
+
+In this first Volume (July 2024), a collection of research highlights primarily related to the macro category of plants is presented. The highlights are available as blog posts and in a convenient printable format (PDF).
+
+*Editor: Mauro Maver*
+
+<!-- Writers: Mauro Maver, Sara Gomez Cabellos -->
+:::
+
+<!-- All published works are released under a CC BY-NC-SA license. -->
+
+<!-- Omnia is an independent, multidisciplinary, open-access journal through which I aim to enhance my ability to describe, narrate, and disseminate science-related topics. To this end, I created the Focus section to summarise and condense the main highlights of these articles, making the scientific language more accessible, all within a maximum of 700-800 words (or one A4 page in the current layout). This provides readers with an overview and encourages them, if interested, to read the original article in full. -->
+
+<!-- Omnia Focus aims to make scientific findings more accessible by summarizing the main highlights of articles like ours. I appreciate their efforts in disseminating our work and encourage you to read and explore the topic further. -->
+
+:::
+
+::: {.column width="40%"}
+![](posts/posts_omnia/omnia_cover_vol_I.png){.lightbox width="83%" fig-align="center"}
+:::
+
+------------------------------------------------------------------------
+
+::: {#focus}
+:::
+
 <!-- Mastodon verification -->
-<a rel="me" style="display:none" href="https://sciences.social/@stramon1um">Hidden link used to verify my account on sciences.social</a> 
+
+<a rel="me" style="display:none" href="https://sciences.social/@stramon1um">Hidden link used to verify my account on sciences.social</a>
