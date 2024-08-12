@@ -14,6 +14,10 @@ page-layout: full
 
 -   **Microplastic influences the ménage à trois among the plant, a fungal pathogen, and a plant growth-promoting fungal species.** Bouaicha O, *Maver M*, Mimmo T, Cesco S & Borruso L. 2024. *Ecotoxicology and Environmental Safety*. [DOI](https://doi.org/10.1016/j.ecoenv.2024.116518)
 
+## 2023
+
+-   **A Novel Automatic Method for Primary Roots Length Measurements in Arabidopsis thaliana.** Allarà C, Ciocca M, *Maver M*, Mimmo T & Petti L. 2023. *IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)*. [DOI](https://doi.org/10.1109/MetroAgriFor58484.2023.10424201)
+
 ## 2022
 
 -   **The interplay between nitrogenated allelochemicals, mineral nutrition and metabolic profile in barley roots.** *Maver M*, Trevisan F, Miras-Moreno B, Lucini L, Trevisan M, Cesco S & Mimmo T. 2022. *Plant and Soil*. [DOI](https://doi.org/10.1007/s11104-022-05553-8)
@@ -28,7 +32,7 @@ page-layout: full
 
 ## 2020
 
--   **Nutraceutical profiles of two hydroponically grown sweet basil cultivars as affected by the composition of the nutrient solution and the inoculation with *Azospirillum brasilense*.** Kolega S, Miras-Moreno B, Buffagni V, Lucini L, Valentinuzzi F, *Maver M*, Mimmo T, Trevisan M, Pii Y & Cesco S. 2020. *Frontiers in plant science*. [DOI](https://dx.doi.org/10.3389%2Ffpls.2020.596000)
+-   **Nutraceutical profiles of two hydroponically grown sweet basil cultivars as affected by the composition of the nutrient solution and the inoculation with *Azospirillum brasilense*.** Kolega S, Miras-Moreno B, Buffagni V, Lucini L, Valentinuzzi F, *Maver M*, Mimmo T, Trevisan M, Pii Y & Cesco S. 2020. *Frontiers in plant science*. [DOI](https://dx.doi.org/10.3389/fpls.2020.596000)
 
 -   **New insights in the allelopathic traits of different barley genotypes: Middle Eastern and Tibetan wild-relative accessions vs. cultivated modern barley.** *Maver M*, Miras-Moreno B, Lucini L, Trevisan M, Pii Y, Cesco S & Mimmo T. 2020. *PloS One*. [DOI](https://doi.org/10.1371/journal.pone.0231976)
 
