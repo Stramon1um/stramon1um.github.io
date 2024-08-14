@@ -1,0 +1,46 @@
+---
+title: ""
+subtitle: ""
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+citation:
+#  type: post-weblog
+  title: "Test"
+  container-title: ""
+  publisher: ""
+#  publisher-location: "Italy"
+#  volume: 1
+#  issue: 1
+#  issued: 2024-04-17
+#  doi: "10.5281/zenodo.10955449"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-04-17"
+#doi: "10.5281/zenodo.10955449"
+keywords:
+  - "*Arabidopsis thaliana*"
+  - Flowering synchrony
+  - Vernalisation
+  - "*FT*"
+  - "*FLC*"
+abstract: ""
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+# categories: [xxx, yyy, zzz]
+image: "image.jpg"
+#bibliography: reference.bib
+# csl: "nature-reviews-molecular-cell-biology.csl"
+#resources: 
+#  - Omnia_focus_I.pdf
+---
+

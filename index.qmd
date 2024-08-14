@@ -37,7 +37,7 @@ about:
 ::: {.style style="text-align:left;line-height:155%"}
 My name is Mauro, and I am a former PostDoc Researcher at Unibz, Italy. 🇮🇹
 
-My research 🧪 is all about allelopathic phenomena, especially in ancient and modern barley varieties, from a chemical and microbiological perspective. The molecules I'm interested in are the two allelochemicals, gramine and hordenine.👨‍🔬
+My [**Research**](papers.qmd) 🧪 is all about allelopathic phenomena, especially in ancient and modern barley varieties, from a chemical and microbiological perspective. The molecules I'm interested in are the two allelochemicals, gramine and hordenine.👨‍🔬
 
 Furthermore, my background encompasses various aspects of 🌱 plant nutrition and physiology, with a particular focus on nutritional deficiencies.
 
@@ -47,7 +47,7 @@ I also deeply love for traditional Irish music and the Gaelic Irish (alias *Gaei
 
 Additionally, I am one of the authors of the book 📗[**L'irlandese contemporaneo**](https://www.amazon.it/dp/8892958682/?coliid=I34IVBMHTQRJEP&colid=36FABK7A5OZ2Q&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it), which provides a compendium of historical, grammatical, and socio-linguistic identity notions of the Gaelic Irish language. It is available in both digital and print formats.
 
-✍️ Founder and Editor-in-Chief of [**Omnia**](https://www.mauromaver.eu/omnia.html)*,* an independent and multidisciplinary open-access journal.
+✍️ Founder and Editor-in-Chief of [**Omnia**](omnia.qmd), an independent and multidisciplinary open-access journal.
 :::
 
 <!-- Mastodon verification -->
