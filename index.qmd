@@ -7,12 +7,15 @@ about:
   #image-width: 10em 
   #id: hero-heading
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/Stramon1um
+    - icon: mortarboard-fill
+      text: Scholar
+      href: https://scholar.google.it/citations?user=ZUUEM0sAAAAJ&hl
+#    - icon: twitter
+#      text: Twitter
+#      href: https://twitter.com/Stramon1um
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/mauro-maver-phd-633525b6/
+      href: https://www.linkedin.com/in/mauro-maver
     - icon: github
       text: Github
       href: https://github.com/Stramon1um
@@ -37,7 +40,7 @@ about:
 ::: {.style style="text-align:left;line-height:155%"}
 My name is Mauro, and I am a former PostDoc Researcher at Unibz, Italy. 🇮🇹
 
-My [**Research**](papers.qmd) 🧪 is all about allelopathic phenomena, especially in ancient and modern barley varieties, from a chemical and microbiological perspective. The molecules I'm interested in are the two allelochemicals, gramine and hordenine.👨‍🔬
+My [**research**](papers.qmd) 🧪 is all about allelopathic phenomena, especially in ancient and modern barley varieties, from a chemical and microbiological perspective. The molecules I'm interested in are the two allelochemicals, gramine and hordenine.👨‍🔬
 
 Furthermore, my background encompasses various aspects of 🌱 plant nutrition and physiology, with a particular focus on nutritional deficiencies.
 
