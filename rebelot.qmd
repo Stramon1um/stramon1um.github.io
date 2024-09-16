@@ -1,0 +1,52 @@
+---
+title: "Rebelòt"
+subtitle: "**[re.beˈlɔt] from *Bergamasco* -- A jumble of everything and nothing // Complete and utter chaos**"
+#description: "un blog di XXX asdasd asdasd"
+listing:
+  - id: focus
+    contents: posts/rebelot/*/index.qmd
+    sort: "date desc"
+    type: grid
+    categories: true
+    page-size: 100
+    sort-ui: false
+    filter-ui: false
+    feed: true
+    fields: [image, date, title, author, description, categories]
+page-layout: full
+#title-block-style: plain
+#title-block-banner: "#007373"
+title-block-banner: true
+lightbox: true
+---
+
+:::: {.columns}
+
+::: {style="font-size:16pt"}
+
+::: {.column width="40%"}
+*Nessun* filo conduttore. *Nessun* ordine. Ma un vero ammasso di idee e pensieri!
+
+Benvenuti su **Rebelòt**, dove è presente tutto e niente e soprattutto dove il caos è di casa.
+
+Avete presente il flusso di coscienza? *Bene*, qui sarà probabilmente molto molto peggio!
+:::
+
+::: {.column width="8%"}
+:::
+
+::: {.column style="text-align:right"}
+*No* common thread. *No* order. But a true accumulation of ideas and thoughts!
+
+Welcome to **Rebelòt**, where everything and nothing is present, and especially where chaos reigns.
+
+Do you know the stream of consciousness? *Well*, here, it will probably be much, much worse!
+:::
+:::
+
+------------------------------------------------------------------------
+
+
+<!-- Mastodon verification -->
+
+<a rel="me" style="display:none" href="https://sciences.social/@stramon1um">Hidden link used to verify my account on sciences.social</a>

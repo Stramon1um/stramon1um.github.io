@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mauro Maver</title>
+<link>https://www.mauromaver.eu/rebelot.html</link>
+<atom:link href="https://www.mauromaver.eu/rebelot.xml" rel="self" type="application/rss+xml"/>
+<description>Portfolio</description>
+<generator>quarto-1.5.52</generator>
+<lastBuildDate>Sun, 15 Sep 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Il Potere delle Audio Trascrizioni</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Questo post lo sto <em>scrivendo</em> mentre cammino avanti e indietro, parlando ad alta voce e registrando il tutto con un iPad.</p>
+<p>Personalmente trovo molto difficile sedermi e fermarmi davanti una pagina, prendere una penna e scrivere ciò che mi passa per la mente; semplicemente non riesco ad acchiappare quello che voglio dire nel gigantesco turbinio di pensieri. Questo ostacolo non mi ha mai reso facile esprimermi facilmente.</p>
+<p>Forse per altre persone è più semplice, ma io ho sempre avuto difficoltà nel mettere per iscritto le mie idee, pensieri o parole in modo chiaro e coerente, senza perdermi in mille diramazioni o flussi di coscienza, specie quando la libera associazione di idee fa da padrone.</p>
+<p>C’è tuttavia speranza…forse! Viviamo in un’epoca in cui parlare a voce alta, registrare e trascrivere le proprie parole è ora sempre più alla portata di tutti e sempre più affidabile, una cosa quasi inimmaginabile fino a pochi anni fa.</p>
+<p>Riflettendo su questo, mi rendo conto di quanto questi strumenti possano essere potenti se utilizzati a modo. Offrono infatti la possibilità di esprimere concetti, riflettere, discutere con se stessi ed eventualmente arrivare a conclusioni. Per persone come <em>me</em>, che trovano difficile organizzare i propri pensieri per iscritto, parlare ad alta voce è una soluzione efficace. Non poche volte, il semplice esternare a voce il progredire di un ragionamento mi ha condotto più rapidamente ad una conclusione, sebbene il tutto rimanesse volatile ed etereo.</p>
+<p>Il semplice trascrivere dunque ci permette di dare concretezza a ciò che diciamo, trasformando le parole in qualcosa di tangibile e duraturo, e come direbbe qualcuno, non a caso, <em>Verbo volant, scripta manent</em> !</p>
+<p>Il mio più grande blocco nel pubblicare pensieri o idee nasceva dal fatto che, nonostante avessi un’idea chiara in testa, nel momento di scriverla incontravo un ostacolo difficile da superare, inibendomi completamente. Ora, grazie a questi strumenti, non <em>sento</em> più di avere questo enorme limite. Posso parlare liberamente e trascrivere ciò che dico, ottenendo così un testo di partenza, una bozza, cui posso ritoccare e scolpire a mio piacimento.</p>
+<p>Questo post è una prima dimostrazione del fatto che l’intero processo di creazione è possibile e conto di approfondire meglio come adattarlo alle mie esigenze.</p>
+<p>A presto!</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Torna in cima</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Diritto d'autore</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citazione</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{maver2024,
+  author = {Maver, Mauro},
+  title = {**Il Potere delle Audio Trascrizioni**},
+  date = {2024-09-16},
+  url = {https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/},
+  langid = {it}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Per favore citare questo lavoro come:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+Maver, Mauro. 2024. <span>“**Il Potere delle Audio
+Trascrizioni**.”</span> September 16, 2024. <a href="https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/">https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/</a>.
+</div></div></section></div> ]]></description>
+  <category>audio-trascrizioni</category>
+  <category>flusso di coscienza</category>
+  <category>IT</category>
+  <guid>https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/</guid>
+  <pubDate>Sun, 15 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/rebelot/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

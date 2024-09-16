@@ -1,0 +1,27 @@
+# options specified here will apply to all posts in this folder
+
+# Freeze computed outputs
+freeze: true
+
+# Enable banner style title blocks
+#title-block-banner: "#eeeeee"
+
+# blog image
+
+image: "image.jpg"
+
+# Enable CC licence appendix
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+  
+# Default for table of contents
+toc: true
+toc-title: Table of contents
+toc-location: left
+
+# Default fields for citation
+citation: true
+author:
+  - name: Mauro Maver
+    url: https://www.mauromaver.eu
+    orcid: 0000-0002-8162-3618

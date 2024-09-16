@@ -46,11 +46,15 @@ Furthermore, my background encompasses various aspects of 🌱 plant nutrition a
 
 I’m a big fan of R and its possibilities, 🧑‍💻 from data analysis and visualisation to publication and bioinformatics. 📉
 
-I also deeply love for traditional Irish music and the Gaelic Irish (alias *Gaeilge*) language 🇮🇪, and I enjoy tinkering with electronic components and computers in my free time. 🖥️
+I also deeply love traditional Irish music and the Gaelic Irish (alias *Gaeilge*) language 🇮🇪, and I enjoy tinkering with electronic components and computers in my free time. 🖥️
 
 Additionally, I am one of the authors of the book 📗[**L'irlandese contemporaneo**](https://www.amazon.it/dp/8892958682/?coliid=I34IVBMHTQRJEP&colid=36FABK7A5OZ2Q&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it), which provides a compendium of historical, grammatical, and socio-linguistic identity notions of the Gaelic Irish language. It is available in both digital and print formats.
 
 ✍️ Founder and Editor-in-Chief of [**Omnia**](omnia.qmd), an independent and multidisciplinary open-access journal.
+
+Here's my random blog for random stuff > [**Rebelòt**](rebelot.qmd)
+
+
 :::
 
 <!-- Mastodon verification -->

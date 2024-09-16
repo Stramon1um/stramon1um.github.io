@@ -11,7 +11,7 @@ website:
   description: "Portfolio"
   favicon: foto.png
   twitter-card: true
-  cookie-consent: true
+  #cookie-consent: true
   google-analytics: "G-GEXKYETG1W"
   open-graph: true
   search: false
@@ -27,6 +27,8 @@ website:
         href: papers.html
       - text: Omnia
         href: omnia.qmd
+      - text: Rebelòt
+        href: rebelot.qmd
       - text: Blog 🇮🇪
         href: blog_ga.qmd
       #   menu:

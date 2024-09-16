@@ -17,6 +17,12 @@
     ]
   },
   {
+    "listing": "/rebelot.html",
+    "items": [
+      "/posts/rebelot/potere_audio_trascrizioni/index.html"
+    ]
+  },
+  {
     "listing": "/omnia.html",
     "items": [
       "/posts/posts_omnia/omnia_focus_XII/index.html",
@@ -31,12 +37,6 @@
       "/posts/posts_omnia/omnia_focus_III/index.html",
       "/posts/posts_omnia/omnia_focus_II/index.html",
       "/posts/posts_omnia/omnia_focus_I/index.html"
-    ]
-  },
-  {
-    "listing": "/blogness.html",
-    "items": [
-      "/posts/blogness/post_test/index.html"
     ]
   }
 ]
