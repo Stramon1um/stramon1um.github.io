@@ -5,6 +5,25 @@ main{
 }
 
 /*
+h5{
+  font-weight: bold;
+}
+*/
+
+.card-title {
+    margin-bottom: var(--bs-card-title-spacer-y);
+    color:var(--bs-card-title-color);
+    font-weight: bold
+}
+
+.card-subtitle {
+    margin-top: calc(-0.5 * var(--bs-card-title-spacer-y));
+    margin-bottom: 0;
+    color:var(--bs-card-subtitle-color);
+    font-size: 15px
+}
+
+/*
 footer{
   font-size: 20px;
 }

@@ -1,12 +1,12 @@
 ---
-title: "**Il Potere delle Audio Trascrizioni**"
+title: "Il Potere delle Audio Trascrizioni"
 #subtitle: "o le loro potenzialità"
 description: "Brevissima intro su quanto possano essere versatili e utili le audio trascrizioni nell'era dell'intelligenza artificiale"
 google-scholar: true
 date: "2024-09-16"
 lang: it
 #image: "image.jpg"
-categories: [audio-trascrizioni, flusso di coscienza, IT]
+categories: [audio-trascrizioni, flusso di coscienza, IT 🇮🇹]
 ---
 
 Questo post lo sto *scrivendo* mentre cammino avanti e indietro, parlando ad alta voce e registrando il tutto con un iPad.

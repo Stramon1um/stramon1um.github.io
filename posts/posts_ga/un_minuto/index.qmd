@@ -1,5 +1,5 @@
 ---
-title: "**Avete un minuto?**"
+title: "Avete un minuto?"
 subtitle: "Brevissima intro sul Gaelico"
 date: "2024-01-22"
 categories: [gaelico, irlandese, irlanda]

@@ -1,5 +1,5 @@
 ---
-title: "**Mutazioni III: altre mutazioni**"
+title: "Mutazioni III: altre mutazioni"
 subtitle: "Terza parte riguardante altre tipologie ti mutazioni"
 date: "2024-03-25"
 categories: [gaelico, irlandese, mutazioni]

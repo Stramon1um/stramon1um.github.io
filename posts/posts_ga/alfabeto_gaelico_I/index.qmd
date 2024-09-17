@@ -1,5 +1,5 @@
 ---
-title: "**Alfabeto gaelico**"
+title: "Alfabeto gaelico"
 subtitle: "Prima parte riguardante l'alfabeto"
 date: "2024-02-07"
 categories: [gaelico, irlandese, alfabeto]

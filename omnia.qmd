@@ -6,7 +6,8 @@ listing:
   - id: focus
     contents: posts/posts_omnia/*/index.qmd
     sort: "date desc"
-    type: default
+    type: grid
+    image-height: 300px
     categories: false
     sort-ui: false
     filter-ui: false
@@ -16,6 +17,7 @@ page-layout: full
 #title-block-style: plain
 title-block-banner: "#007373"
 lightbox: true
+#css: test.css
 ---
 
 ## Omnia *Focus*

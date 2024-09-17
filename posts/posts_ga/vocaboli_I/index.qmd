@@ -1,5 +1,5 @@
 ---
-title: "**Vocaboli I**"
+title: "Vocaboli I"
 subtitle: "Piccolo elenco di utili vocaboli"
 date: "2024-04-09"
 categories: [gaelico, irlandese, vocaboli]

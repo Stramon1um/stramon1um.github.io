@@ -1,5 +1,5 @@
 ---
-title: "**Mutazioni I: la Lenizione**"
+title: "Mutazioni I: la Lenizione"
 subtitle: "Prima parte riguardante una delle principali mutazioni"
 date: "2024-03-13"
 categories: [gaelico, irlandese, mutazioni]

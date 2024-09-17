@@ -8,7 +8,7 @@
 <title>Mauro Maver</title>
 <link>https://www.mauromaver.eu/rebelot.html</link>
 <atom:link href="https://www.mauromaver.eu/rebelot.xml" rel="self" type="application/rss+xml"/>
-<description>Portfolio</description>
+<description>A jumble of everything and nothing // Complete and utter chaos</description>
 <generator>quarto-1.5.52</generator>
 <lastBuildDate>Sun, 15 Sep 2024 22:00:00 GMT</lastBuildDate>
 <item>
@@ -35,18 +35,18 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Torna in cima</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Diritto d'autore</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citazione</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{maver2024,
   author = {Maver, Mauro},
-  title = {**Il Potere delle Audio Trascrizioni**},
+  title = {Il Potere delle Audio Trascrizioni},
   date = {2024-09-16},
   url = {https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/},
   langid = {it}
 }
 </code></pre><div class="quarto-appendix-secondary-label">Per favore citare questo lavoro come:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
-Maver, Mauro. 2024. <span>“**Il Potere delle Audio
-Trascrizioni**.”</span> September 16, 2024. <a href="https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/">https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/</a>.
+Maver, Mauro. 2024. <span>“Il Potere delle Audio Trascrizioni.”</span>
+September 16, 2024. <a href="https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/">https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/</a>.
 </div></div></section></div> ]]></description>
   <category>audio-trascrizioni</category>
   <category>flusso di coscienza</category>
-  <category>IT</category>
+  <category>IT 🇮🇹</category>
   <guid>https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/</guid>
   <pubDate>Sun, 15 Sep 2024 22:00:00 GMT</pubDate>
   <media:content url="https://www.mauromaver.eu/posts/rebelot/image.jpg" medium="image" type="image/jpeg"/>

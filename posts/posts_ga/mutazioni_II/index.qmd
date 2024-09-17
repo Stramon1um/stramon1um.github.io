@@ -1,5 +1,5 @@
 ---
-title: "**Mutazioni II: l'Eclissi**"
+title: "Mutazioni II: l'Eclissi"
 subtitle: "Seconda parte riguardante una delle principali mutazioni"
 date: "2024-03-19"
 categories: [gaelico, irlandese, mutazioni]

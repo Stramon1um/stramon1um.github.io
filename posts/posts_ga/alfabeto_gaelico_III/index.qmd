@@ -1,5 +1,5 @@
 ---
-title: "**Alfabeto gaelico III**"
+title: "Alfabeto gaelico III"
 subtitle: "Terza parte riguardante l'alfabeto"
 date: "2024-04-02"
 categories: [gaelico, irlandese, alfabeto]
