@@ -1,0 +1,143 @@
+---
+title: "Sempre sulla cresta dello stato dell'arte"
+#subtitle: "o le loro potenzialità"
+description: "Come rimanere constantemente aggiornati sulle nuove pubblicazioni scientitiche, fresche di stampa"
+google-scholar: true
+date: "2024-09-20"
+lang: it
+#image: "image.jpg"
+categories: [pubblicazioni, scienza, RSS, IT 🇮🇹]
+css: style_rss.css
+---
+
+## Introduzione
+
+Rimanere aggiornati sulle ultime pubblicazioni scientifiche è fondamentale, soprattutto quando si lavora in ambiti di ricerca specifici. Tuttavia, il problema principale è l’enorme vastità di articoli e giornali scientifici disponibili, rendendo difficile tenere sempre traccia delle novità. Spesso, non si ha il tempo materiale di consultare manualmente ogni rivista per verificare le più recenti pubblicazioni. Se si aggiunge che tale processo dovrà essere ripetuto per ogni rivista di interesse, beh, di conseguenza il tempo necessario dovrà essere moltiplicato.
+
+Per ovviare a questi problemi, una soluzione pratica e accessibile, da me convalidata da ormai 3 anni, è l’uso dei **Feed RSS**, che permettono di monitorare in modo semplice e automatico le pubblicazioni di interesse. I Feed RSS[^1] sono file che contengono aggiornamenti continui su nuovi contenuti pubblicati, come articoli o notizie. Per utilizzarli, basta cercare il Feed RSS sul sito delle riviste scientifiche e inserirlo in un programma dedicato che li aggiorna automaticamente, un Feed RSS Reader per l’appunto. E cosa non poco trascurabile al giorno d’oggi, questo processo è privo di algoritmi, profilazione, pubblicità, tracciamento, ecc. Saremo noi al 100% a decidere cosa voler monitorare e cosa leggere.
+
+[^1]: [Wikipedia - RSS Feed](https://it.wikipedia.org/wiki/RSS?wprov=sfti1)
+
+Questi programmi consentono di organizzare i feed per argomenti o riviste, lavorando in background per controllare periodicamente se ci sono nuove pubblicazioni, proprio come un classico client di posta elettronica. Il grande vantaggio che ne deriva è che le pubblicazioni non lette rimarranno disponibili fino a quando non verranno consultate, anche a distanza di giorni, evitando che si perdano articoli importanti o che semplicemente non si abbia il tempo di consultarli in quel preciso momento. I feed offrono anche metadati utili, come il titolo dell’articolo, gli autori e l’abstract. Inoltre, cliccando direttamente sul titolo, è possibile accedere alla pagina originale della pubblicazione presente sul sito web del giornale. Comodo no?
+
+Questo metodo è estremamente vantaggioso rispetto alla gestione manuale dei segnalibri nei browser, risparmiando tempo e rendendo il processo di consultazione delle riviste molto più rapido ed efficiente, oltre che svincolato da motori di ricerca e database. La ricerca bibliografica è di conseguenza velocizzata, e si evita la confusione tipica del dover ricordare manualmente quali articoli siano già stati letti o meno. In breve, i Feed RSS offrono un metodo automatizzato, rapido e discreto per gestire le proprie fonti scientifiche, mantenendo un archivio storico delle pubblicazioni e consentendo di accedere ai contenuti con pochisimi clic.
+
+Ovviamente i Feed RSS non sono limitati alle sole riviste scientifiche, ma possono essere utilizzati anche per tenere traccia di notizie, video o contenuti di altre piattaforme come YouTube o Reddit, rendendoli uno strumento versatile per rimanere sempre aggiornati su qualsiasi tipo di informazione.
+
+::: {.callout-note appearance="minimal"}
+A questo punto la domanda sorge spontanea: *come fare ad utilizzare questi fantastici Feed RSS?*
+:::
+
+## Come iniziare a utilizzare i Feed RSS
+
+1.  **Identifica le riviste di interesse**
+
+    Il primo passo è sapere quali riviste scientifiche si desidera monitorare. Se hai già in mente delle riviste specifiche, vai direttamente sui loro siti web ufficiali. Se non conosci molte riviste nel tuo campo o semplicemente vuoi ampliare la tua lista, puoi utilizzare dei siti che forniscono elenchi di giornali scientifici, ordinati per categoria, rank o h-index. Questi strumenti possono aiutarti a scoprire nuove riviste di interesse, e di conseguenza ottenere nuovi Feed RSS. Tra i miei suggerimenti vi è la piattaforma [Scimago Journal & Country Rank](https://www.scimagojr.com)[^2], completamente gratuita e ricca di ogni info e metriche. Trovate altre fonti in [questa](https://mauromaver.eu/posts/rebelot/feed_rss/index.html#alcuni-dei-principali-feed-rss-che-utilizzo) sezione.
+
+2.  **Trova il feed RSS**
+
+    Una volta sul sito della rivista, cerca l'icona tipica del Feed RSS: un quadrato con tre onde che si irradiano da un angolo (vedi logo). Se non la trovi subito, cerca una sezione chiamata "Last Issues" o "Feed RSS". In alcuni casi, il Feed RSS potrebbe non essere facilmente accessibile (se non volontariamente nascosto dal publisher), ma è comunque consigliabile controllare nelle pagine di supporto o nel piè pagina del sito.
+
+[^2]: Lo SCImago Journal Rank o SJR indicator è un indicatore che misura la presunta influenza scientifica delle riviste accademiche; esso utilizza il numero di citazioni ricevute da una rivista e l'importanza o il prestigio delle riviste da cui tali citazioni provengono. Utilizza un algoritmo simile a PageRank e fornisce un'alternativa all'impact factor (IF), che si basa sui dati del Science Citation Index.
+
+::: {.column-margin style="text-align:center"}
+![Tipico logo per i Feed RSS](Feed-icon.png)
+:::
+
+3.  **Aggiungi il feed RSS al tuo programma**
+
+    Dopo aver trovato l'icona o il link RSS, cliccaci sopra. Se hai già installato un programma o un'app che gestisce i Feed RSS sul tuo dispositivo (sia esso un computer, smartphone o tablet), il link verrà automaticamente aggiunto al programma; in alternativa, è anche possibile inserirlo manualmente. Da quel momento in poi, il programma inizierà a raccogliere tutte (generalmente le ultime 50) le nuove pubblicazioni relative a quella rivista. Nel caso foste in possesso di un dispositivo Apple, consiglio il programma gratuito [NetNewsWire](#0); io lo utilizzo praticamente su ogni mio dispositivo, grazie anche alla sincronizzazione dei feed via iCloud…funziona a meraviglia! Esistono tuttavia decine e decine di applicazioni alternative, e per tutti i sistemi operativi e dispositivi possibili.
+
+4.  **Configura il programma**
+
+    Una volta aggiunto il feed, il programma controllerà periodicamente se ci sono nuove pubblicazioni, a seconda della frequenza di aggiornamento che hai impostato. Puoi scegliere, ad esempio, di aggiornare i feed ogni 10 minuti, ogni ora o anche una volta al giorno, oppure manualmente.
+
+5.  **Ripeti il processo per altre riviste**
+
+    Dovrai ripetere questo semplice processo per ogni rivista che vuoi monitorare. Anche se inizialmente richiede un piccolo sforzo per cercare manualmente i feed e aggiungerli, questo lavoro sarà utililissimo nel lungo periodo, perché automatizzerà completamente il monitoraggio delle pubblicazioni. Puoi inoltre organizzare i Feed in cartelle per gestire meglio le tue ricerche (ad esempio, per area tematica o per publisher). Uno dei piccoli vantaggi è che, al contrario di un client di posta, i Feed saranno automaticamente organizzati per fonte e non ammucchiati in un unico flusso di informazioni.
+
+6.  **Gestione dei feed**
+
+    Dopo aver configurato il tutto, il programma lavorerà in background per aggiornare costantemente i Feed. A fine giornata o in qualsiasi altro momento, potrai vedere le notifiche delle nuove pubblicazioni e decidere se leggere subito un articolo o segnarlo come già letto. Come per le e-mail, i nuovi articoli appariranno finché non li segni come letti. Questo ti permetterà di avere uno storico delle pubblicazioni, evitando di perdere articoli importanti e interessanti.
+
+7.  **Quando il feed RSS non è *visibile***
+
+    Alcuni giornali, e relativi publisher, potrebbero non pubblicizzare apertamente il loro Feed RSS. Sì, è alquanto paradossale ma esiste questa possibilità. In tal caso, bisognerà applicare degli eleganti stratagemmi, quasi in modalità hacker informatico, per poterli scovare o generare. Purtroppo per noi, per ogni publisher *furbetto* esiste uno specifico stratagemma e quindi l’elenco che mostrerò qui sarà conseguentemente limitato a quelli che consulto quotidianamente.
+
+    Qui l’elenco dei principali (in data 09-2024):
+
+    -   [Springer](https://link.springer.com) (il più contorto):
+
+        -   andare su home page del giornale di interesse
+        -   trovare "Explore Articles"
+        -   cercare con "Search all Plant and Soil” articles
+        -   nell’url generato, impostare `new-search=false`
+        -   ordinare con "Sort by Newest first"
+        -   click su icona RSS per generare il feed
+        -   **OPPURE**, copiare questo link
+
+        ``` markdown
+        https://link.springer.com/search.rss?query=11104&sortOrder=newestFirst&showAll=true
+        ```
+
+        -   cambiare ID giornale in `query=11104` con quello di vostro interesse. L’ID di un giornale si trova nell’url della homepage del giornale.
+
+    -   [Frontiers](https://www.frontiersin.org):
+
+        -   semplice aggiunta di `/rss` all’url della home del giornale d’interesse
+
+    -   [APS Publications](https://apsjournals.apsnet.org):
+
+        -   creare ricerca selezionando uno specifico giornale e selezionando “Last”.
+        -   i risultati della ricerca generati, offriranno anche la possibilità di avere il feed RSS (icona RSS presente)
+
+8.  **Conclusione**
+
+    Una volta impostati i Feed RSS, non dovrai più aprire manualmente i segnalibri del browser per verificare le nuove pubblicazioni. Il programma farà tutto in automatico, lasciandoti solo il compito di decidere quali articoli approfondire e quali archiviare. In caso di articoli di tuo interesse, potrai cliccare direttamente sul titolo per accedere al contenuto completo.
+
+## Alcuni dei principali Feed RSS che utilizzo
+
+A puro scopo esemplificativo, riporto un elenco generato a partire dai risultati ottenuti per la categoria **Plant Science**, e ordinati per *h*-index. Qui ho selezionato i primi 30 giornali, con relativo Feed RSS (click sull'icona) relativi all'anno 2023. Fonte: [SCImago Journal Rank](https://www.scimagojr.com/journalrank.php?category=1110&type=j&order=h&ord=desc "Link diretto ai risultati della ricerca sotto la categoria Plant Science").
+
+Altri Feed RSS che utilizzo (meno specifici per Plant Science) possono essere trovati su un mio *vecchio* GitHub repository: [GitHub Feed RSS](https://github.com/Stramon1um/academic_journals_rss_feed/blob/main/README.md).
+
+Se invece vi interessano esclusivamente giornali **open-access** (OA Journal), questa piattaforma in pieno spirito open-access diventerà il vostro principale punto di riferimento: [Directory of Open Access Journals (DOAJ)](https://doaj.org).
+
+|        | Giornale                              | Feed RSS                                                                                                                                                                                                                                   | SJR    | *h*-index |
+|---------------|---------------|---------------|---------------|---------------|
+| *#1*   | The Plant Cell                        | [![](Feed-icon.png){width="20"}](https://academic.oup.com/rss/site_6317/4077.xml)                                                                                                                                                          | 3.616  | 397       |
+| *#2*   | Plant Physiology                      | [![](Feed-icon.png){width="20"}](https://academic.oup.com/rss/site_6323/4080.xml)                                                                                                                                                          | 2.101  | 362       |
+| *#3*   | The Plant Journal                     | [![](Feed-icon.png){width="20"}](https://onlinelibrary.wiley.com/action/showFeed?jc=1365313x&type=etoc&feed=rss)                                                                                                                           | 2.176  | 314       |
+| *#4*   | Trends in Plant Science               | [![](Feed-icon.png){width="20"}](https://www.cell.com/trends/plant-science/inpress.rss)                                                                                                                                                    | 3.201  | 310       |
+| *#5*   | New Phytologist                       | [![](Feed-icon.png){width="20"}](https://nph.onlinelibrary.wiley.com/feed/14698137/most-recent)                                                                                                                                            | 3.007  | 305       |
+| *#6*   | Annual Review of Plant Biology        | [![](Feed-icon.png){width="20"}](https://www.annualreviews.org/rss/content/journals/arplant/latestarticles?fmt=rss)                                                                                                                        | 7.555  | 298       |
+| *#7*   | Journal of Experimental Botany        | [![](Feed-icon.png){width="20"}](https://academic.oup.com/rss/site_5304/3170.xml)                                                                                                                                                          | 1.739  | 293       |
+| *#8*   | Plant, Cell and Environment           | [![](Feed-icon.png){width="20"}](https://onlinelibrary.wiley.com/feed/13653040/most-recent)                                                                                                                                                | 2.03   | 237       |
+| *#9*   | Current Opinion in Plant Biology      | [![](Feed-icon.png){width="20"}](https://rss.sciencedirect.com/publication/science/13695266)                                                                                                                                               | 3.044  | 234       |
+| *#10*  | Plant and Soil                        | [![](Feed-icon.png){width="20"}](https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=11104&query=)                                                                                                                 | 1.135  | 225       |
+| *#11*  | Frontiers in Plant Science            | [![](Feed-icon.png){width="20"}](https://www.frontiersin.org/journals/plant-science/rss)                                                                                                                                                   | 1.023  | 216       |
+| *#12*  | Journal of Ecology                    | [![](Feed-icon.png){width="20"}](https://besjournals.onlinelibrary.wiley.com/feed/13652745/most-recent)                                                                                                                                    | 2.144  | 212       |
+| *#13*  | Annals of Botany                      | [![](Feed-icon.png){width="20"}](https://academic.oup.com/rss/site_5260/3126.xml)                                                                                                                                                          | 1.078  | 205       |
+| *#14*  | Phytochemistry                        | [![](Feed-icon.png){width="20"}](https://rss.sciencedirect.com/publication/science/00319422)                                                                                                                                               | 0.667  | 205       |
+| *#15*  | Plant Molecular Biology               | [![](Feed-icon.png){width="20"}](https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=11103&query=)                                                                                                                 | 1.151  | 197       |
+| *#16*  | Planta                                | [![](Feed-icon.png){width="20"}](https://link.springer.com/search.rss?search-within=Journal&sortOrder=newestFirst&query=*&facet-journal-id=425)                                                                                            | 0.944  | 197       |
+| *#17*  | Annual Review of Phytopathology       | [![](Feed-icon.png){width="20"}](https://www.annualreviews.org/rss/content/journals/phyto/latestarticles?fmt=rss)                                                                                                                          | 2.76   | 184       |
+| *#18*  | Plant Science                         | [![](Feed-icon.png){width="20"}](https://rss.sciencedirect.com/publication/science/01689452)                                                                                                                                               | 1.133  | 183       |
+| *#19*  | Plant and Cell Physiology             | [![](Feed-icon.png){width="20"}](https://academic.oup.com/rss/site_5339/3205.xml)                                                                                                                                                          | 1.375  | 181       |
+| \#*20* | American Journal of Botany            | [![](Feed-icon.png){width="20"}](https://bsapubs.onlinelibrary.wiley.com/feed/15372197/most-recent)                                                                                                                                        | 0.841  | 172       |
+| *#21*  | Physiologia Plantarum                 | [![](Feed-icon.png){width="20"}](https://onlinelibrary.wiley.com/action/showFeed?jc=13993054&type=etoc&feed=rss)                                                                                                                           | 1.27   | 170       |
+| *#22*  | Environmental and Experimental Botany | [![](Feed-icon.png){width="20"}](https://rss.sciencedirect.com/publication/science/00988472)                                                                                                                                               | 1.066  | 167       |
+| *#23*  | Molecular Plant                       | [![](Feed-icon.png){width="20"}](https://www.cell.com/molecular-plant/inpress.rss)                                                                                                                                                         | 5.967  | 162       |
+| *#24*  | Journal of Plant Physiology           | [![](Feed-icon.png){width="20"}](https://rss.sciencedirect.com/publication/science/01761617)                                                                                                                                               | 0.947  | 159       |
+| *#25*  | Plant Physiology and Biochemistry     | [![](Feed-icon.png){width="20"}](https://rss.sciencedirect.com/publication/science/09819428)                                                                                                                                               | 1.252  | 159       |
+| *#26*  | Plant Biotechnology Journal           | [![](Feed-icon.png){width="20"}](https://onlinelibrary.wiley.com/feed/14677652/most-recent)                                                                                                                                                | 2.998  | 152       |
+| *#27*  | BMC Plant Biology                     | [![](Feed-icon.png){width="20"}](https://bmcplantbiol.biomedcentral.com/articles/most-recent/rss.xml)                                                                                                                                      | 1.103  | 150       |
+| *#28*  | Phytopathology                        | [![](Feed-icon.png){width="20"}](https://apsjournals.apsnet.org/action/showFeed?ui=0&mi=7nl6c5&type=search&feed=rss&query=%2526SeriesKey%253Dphyto%2526field1%253DAllField%2526sortBy%253DEarliest%2526target%253Ddefault%2526text1%253D*) | 0.783  | 150       |
+| *#29*  | Annual Review of Pathology            | [![](Feed-icon.png){width="20"}](https://www.annualreviews.org/rss/content/journals/pathmechdis/latestarticles?fmt=rss)                                                                                                                    | 11.748 | 147       |
+| *#30*  | Tree Physiology                       | [![](Feed-icon.png){width="20"}](https://academic.oup.com/rss/site_5247/3115.xml)                                                                                                                                                          | 0.992  | 147       |
+
+: I primi 30 giornali per *h*-index su SCImago sotto la categoria Plant Science in 2023
+
+------------------------------------------------------------------------
+
+![Vista del mio attuale setup con NetNewsWire](screenshot.png){.lightbox fig-align="center"}

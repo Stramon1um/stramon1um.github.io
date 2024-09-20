@@ -19,6 +19,7 @@
   {
     "listing": "/rebelot.html",
     "items": [
+      "/posts/rebelot/feed_rss/index.html",
       "/posts/rebelot/potere_audio_trascrizioni/index.html"
     ]
   },

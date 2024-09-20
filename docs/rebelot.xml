@@ -10,7 +10,362 @@
 <atom:link href="https://www.mauromaver.eu/rebelot.xml" rel="self" type="application/rss+xml"/>
 <description>A jumble of everything and nothing // Complete and utter chaos</description>
 <generator>quarto-1.5.52</generator>
-<lastBuildDate>Sun, 15 Sep 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Sep 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Sempre sulla cresta dello stato dell’arte</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/rebelot/feed_rss/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="introduzione" class="level2">
+<h2 class="anchored" data-anchor-id="introduzione">Introduzione</h2>
+<p>Rimanere aggiornati sulle ultime pubblicazioni scientifiche è fondamentale, soprattutto quando si lavora in ambiti di ricerca specifici. Tuttavia, il problema principale è l’enorme vastità di articoli e giornali scientifici disponibili, rendendo difficile tenere sempre traccia delle novità. Spesso, non si ha il tempo materiale di consultare manualmente ogni rivista per verificare le più recenti pubblicazioni. Se si aggiunge che tale processo dovrà essere ripetuto per ogni rivista di interesse, beh, di conseguenza il tempo necessario dovrà essere moltiplicato.</p>
+<p>Per ovviare a questi problemi, una soluzione pratica e accessibile, da me convalidata da ormai 3 anni, è l’uso dei <strong>Feed RSS</strong>, che permettono di monitorare in modo semplice e automatico le pubblicazioni di interesse. I Feed RSS<sup>1</sup> sono file che contengono aggiornamenti continui su nuovi contenuti pubblicati, come articoli o notizie. Per utilizzarli, basta cercare il Feed RSS sul sito delle riviste scientifiche e inserirlo in un programma dedicato che li aggiorna automaticamente, un Feed RSS Reader per l’appunto. E cosa non poco trascurabile al giorno d’oggi, questo processo è privo di algoritmi, profilazione, pubblicità, tracciamento, ecc. Saremo noi al 100% a decidere cosa voler monitorare e cosa leggere.</p>
+<p>Questi programmi consentono di organizzare i feed per argomenti o riviste, lavorando in background per controllare periodicamente se ci sono nuove pubblicazioni, proprio come un classico client di posta elettronica. Il grande vantaggio che ne deriva è che le pubblicazioni non lette rimarranno disponibili fino a quando non verranno consultate, anche a distanza di giorni, evitando che si perdano articoli importanti o che semplicemente non si abbia il tempo di consultarli in quel preciso momento. I feed offrono anche metadati utili, come il titolo dell’articolo, gli autori e l’abstract. Inoltre, cliccando direttamente sul titolo, è possibile accedere alla pagina originale della pubblicazione presente sul sito web del giornale. Comodo no?</p>
+<p>Questo metodo è estremamente vantaggioso rispetto alla gestione manuale dei segnalibri nei browser, risparmiando tempo e rendendo il processo di consultazione delle riviste molto più rapido ed efficiente, oltre che svincolato da motori di ricerca e database. La ricerca bibliografica è di conseguenza velocizzata, e si evita la confusione tipica del dover ricordare manualmente quali articoli siano già stati letti o meno. In breve, i Feed RSS offrono un metodo automatizzato, rapido e discreto per gestire le proprie fonti scientifiche, mantenendo un archivio storico delle pubblicazioni e consentendo di accedere ai contenuti con pochisimi clic.</p>
+<p>Ovviamente i Feed RSS non sono limitati alle sole riviste scientifiche, ma possono essere utilizzati anche per tenere traccia di notizie, video o contenuti di altre piattaforme come YouTube o Reddit, rendendoli uno strumento versatile per rimanere sempre aggiornati su qualsiasi tipo di informazione.</p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>A questo punto la domanda sorge spontanea: <em>come fare ad utilizzare questi fantastici Feed RSS?</em></p>
+</div>
+</div>
+</div>
+</section>
+<section id="come-iniziare-a-utilizzare-i-feed-rss" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="come-iniziare-a-utilizzare-i-feed-rss">Come iniziare a utilizzare i Feed RSS</h2>
+<ol type="1">
+<li><p><strong>Identifica le riviste di interesse</strong></p>
+<p>Il primo passo è sapere quali riviste scientifiche si desidera monitorare. Se hai già in mente delle riviste specifiche, vai direttamente sui loro siti web ufficiali. Se non conosci molte riviste nel tuo campo o semplicemente vuoi ampliare la tua lista, puoi utilizzare dei siti che forniscono elenchi di giornali scientifici, ordinati per categoria, rank o h-index. Questi strumenti possono aiutarti a scoprire nuove riviste di interesse, e di conseguenza ottenere nuovi Feed RSS. Tra i miei suggerimenti vi è la piattaforma <a href="https://www.scimagojr.com">Scimago Journal &amp; Country Rank</a><sup>2</sup>, completamente gratuita e ricca di ogni info e metriche. Trovate altre fonti in <a href="https://mauromaver.eu/posts/rebelot/feed_rss/index.html#alcuni-dei-principali-feed-rss-che-utilizzo">questa</a> sezione.</p></li>
+<li><p><strong>Trova il feed RSS</strong></p>
+<p>Una volta sul sito della rivista, cerca l’icona tipica del Feed RSS: un quadrato con tre onde che si irradiano da un angolo (vedi logo). Se non la trovi subito, cerca una sezione chiamata “Last Issues” o “Feed RSS”. In alcuni casi, il Feed RSS potrebbe non essere facilmente accessibile (se non volontariamente nascosto dal publisher), ma è comunque consigliabile controllare nelle pagine di supporto o nel piè pagina del sito.</p></li>
+</ol>
+
+<div class="no-row-height column-margin column-container"><div class="" style="text-align:center">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid figure-img"></p>
+<figcaption>Tipico logo per i Feed RSS</figcaption>
+</figure>
+</div>
+</div></div><ol start="3" type="1">
+<li><p><strong>Aggiungi il feed RSS al tuo programma</strong></p>
+<p>Dopo aver trovato l’icona o il link RSS, cliccaci sopra. Se hai già installato un programma o un’app che gestisce i Feed RSS sul tuo dispositivo (sia esso un computer, smartphone o tablet), il link verrà automaticamente aggiunto al programma; in alternativa, è anche possibile inserirlo manualmente. Da quel momento in poi, il programma inizierà a raccogliere tutte (generalmente le ultime 50) le nuove pubblicazioni relative a quella rivista. Nel caso foste in possesso di un dispositivo Apple, consiglio il programma gratuito NetNewsWire; io lo utilizzo praticamente su ogni mio dispositivo, grazie anche alla sincronizzazione dei feed via iCloud…funziona a meraviglia! Esistono tuttavia decine e decine di applicazioni alternative, e per tutti i sistemi operativi e dispositivi possibili.</p></li>
+<li><p><strong>Configura il programma</strong></p>
+<p>Una volta aggiunto il feed, il programma controllerà periodicamente se ci sono nuove pubblicazioni, a seconda della frequenza di aggiornamento che hai impostato. Puoi scegliere, ad esempio, di aggiornare i feed ogni 10 minuti, ogni ora o anche una volta al giorno, oppure manualmente.</p></li>
+<li><p><strong>Ripeti il processo per altre riviste</strong></p>
+<p>Dovrai ripetere questo semplice processo per ogni rivista che vuoi monitorare. Anche se inizialmente richiede un piccolo sforzo per cercare manualmente i feed e aggiungerli, questo lavoro sarà utililissimo nel lungo periodo, perché automatizzerà completamente il monitoraggio delle pubblicazioni. Puoi inoltre organizzare i Feed in cartelle per gestire meglio le tue ricerche (ad esempio, per area tematica o per publisher). Uno dei piccoli vantaggi è che, al contrario di un client di posta, i Feed saranno automaticamente organizzati per fonte e non ammucchiati in un unico flusso di informazioni.</p></li>
+<li><p><strong>Gestione dei feed</strong></p>
+<p>Dopo aver configurato il tutto, il programma lavorerà in background per aggiornare costantemente i Feed. A fine giornata o in qualsiasi altro momento, potrai vedere le notifiche delle nuove pubblicazioni e decidere se leggere subito un articolo o segnarlo come già letto. Come per le e-mail, i nuovi articoli appariranno finché non li segni come letti. Questo ti permetterà di avere uno storico delle pubblicazioni, evitando di perdere articoli importanti e interessanti.</p></li>
+<li><p><strong>Quando il feed RSS non è <em>visibile</em></strong></p>
+<p>Alcuni giornali, e relativi publisher, potrebbero non pubblicizzare apertamente il loro Feed RSS. Sì, è alquanto paradossale ma esiste questa possibilità. In tal caso, bisognerà applicare degli eleganti stratagemmi, quasi in modalità hacker informatico, per poterli scovare o generare. Purtroppo per noi, per ogni publisher <em>furbetto</em> esiste uno specifico stratagemma e quindi l’elenco che mostrerò qui sarà conseguentemente limitato a quelli che consulto quotidianamente.</p>
+<p>Qui l’elenco dei principali (in data 09-2024):</p>
+<ul>
+<li><p><a href="https://link.springer.com">Springer</a> (il più contorto):</p>
+<ul>
+<li>andare su home page del giornale di interesse</li>
+<li>trovare “Explore Articles”</li>
+<li>cercare con “Search all Plant and Soil” articles</li>
+<li>nell’url generato, impostare <code>new-search=false</code></li>
+<li>ordinare con “Sort by Newest first”</li>
+<li>click su icona RSS per generare il feed</li>
+<li><strong>OPPURE</strong>, copiare questo link</li>
+</ul>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">https://link.springer.com/search.rss?query=11104&amp;sortOrder=newestFirst&amp;showAll=true</span></code></pre></div>
+<ul>
+<li>cambiare ID giornale in <code>query=11104</code> con quello di vostro interesse. L’ID di un giornale si trova nell’url della homepage del giornale.</li>
+</ul></li>
+<li><p><a href="https://www.frontiersin.org">Frontiers</a>:</p>
+<ul>
+<li>semplice aggiunta di <code>/rss</code> all’url della home del giornale d’interesse</li>
+</ul></li>
+<li><p><a href="https://apsjournals.apsnet.org">APS Publications</a>:</p>
+<ul>
+<li>creare ricerca selezionando uno specifico giornale e selezionando “Last”.</li>
+<li>i risultati della ricerca generati, offriranno anche la possibilità di avere il feed RSS (icona RSS presente)</li>
+</ul></li>
+</ul></li>
+<li><p><strong>Conclusione</strong></p>
+<p>Una volta impostati i Feed RSS, non dovrai più aprire manualmente i segnalibri del browser per verificare le nuove pubblicazioni. Il programma farà tutto in automatico, lasciandoti solo il compito di decidere quali articoli approfondire e quali archiviare. In caso di articoli di tuo interesse, potrai cliccare direttamente sul titolo per accedere al contenuto completo.</p></li>
+</ol>
+</section>
+<section id="alcuni-dei-principali-feed-rss-che-utilizzo" class="level2">
+<h2 class="anchored" data-anchor-id="alcuni-dei-principali-feed-rss-che-utilizzo">Alcuni dei principali Feed RSS che utilizzo</h2>
+<p>A puro scopo esemplificativo, riporto un elenco generato a partire dai risultati ottenuti per la categoria <strong>Plant Science</strong>, e ordinati per <em>h</em>-index. Qui ho selezionato i primi 30 giornali, con relativo Feed RSS (click sull’icona) relativi all’anno 2023. Fonte: <a href="https://www.scimagojr.com/journalrank.php?category=1110&amp;type=j&amp;order=h&amp;ord=desc" title="Link diretto ai risultati della ricerca sotto la categoria Plant Science">SCImago Journal Rank</a>.</p>
+<p>Altri Feed RSS che utilizzo (meno specifici per Plant Science) possono essere trovati su un mio <em>vecchio</em> GitHub repository: <a href="https://github.com/Stramon1um/academic_journals_rss_feed/blob/main/README.md">GitHub Feed RSS</a>.</p>
+<p>Se invece vi interessano esclusivamente giornali <strong>open-access</strong> (OA Journal), questa piattaforma in pieno spirito open-access diventerà il vostro principale punto di riferimento: <a href="https://doaj.org">Directory of Open Access Journals (DOAJ)</a>.</p>
+<table class="caption-top table">
+<caption>I primi 30 giornali per <em>h</em>-index su SCImago sotto la categoria Plant Science in 2023</caption>
+<thead>
+<tr class="header">
+<th></th>
+<th>Giornale</th>
+<th>Feed RSS</th>
+<th>SJR</th>
+<th><em>h</em>-index</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><em>#1</em></td>
+<td>The Plant Cell</td>
+<td><a href="https://academic.oup.com/rss/site_6317/4077.xml"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>3.616</td>
+<td>397</td>
+</tr>
+<tr class="even">
+<td><em>#2</em></td>
+<td>Plant Physiology</td>
+<td><a href="https://academic.oup.com/rss/site_6323/4080.xml"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>2.101</td>
+<td>362</td>
+</tr>
+<tr class="odd">
+<td><em>#3</em></td>
+<td>The Plant Journal</td>
+<td><a href="https://onlinelibrary.wiley.com/action/showFeed?jc=1365313x&amp;type=etoc&amp;feed=rss"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>2.176</td>
+<td>314</td>
+</tr>
+<tr class="even">
+<td><em>#4</em></td>
+<td>Trends in Plant Science</td>
+<td><a href="https://www.cell.com/trends/plant-science/inpress.rss"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>3.201</td>
+<td>310</td>
+</tr>
+<tr class="odd">
+<td><em>#5</em></td>
+<td>New Phytologist</td>
+<td><a href="https://nph.onlinelibrary.wiley.com/feed/14698137/most-recent"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>3.007</td>
+<td>305</td>
+</tr>
+<tr class="even">
+<td><em>#6</em></td>
+<td>Annual Review of Plant Biology</td>
+<td><a href="https://www.annualreviews.org/rss/content/journals/arplant/latestarticles?fmt=rss"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>7.555</td>
+<td>298</td>
+</tr>
+<tr class="odd">
+<td><em>#7</em></td>
+<td>Journal of Experimental Botany</td>
+<td><a href="https://academic.oup.com/rss/site_5304/3170.xml"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.739</td>
+<td>293</td>
+</tr>
+<tr class="even">
+<td><em>#8</em></td>
+<td>Plant, Cell and Environment</td>
+<td><a href="https://onlinelibrary.wiley.com/feed/13653040/most-recent"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>2.03</td>
+<td>237</td>
+</tr>
+<tr class="odd">
+<td><em>#9</em></td>
+<td>Current Opinion in Plant Biology</td>
+<td><a href="https://rss.sciencedirect.com/publication/science/13695266"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>3.044</td>
+<td>234</td>
+</tr>
+<tr class="even">
+<td><em>#10</em></td>
+<td>Plant and Soil</td>
+<td><a href="https://link.springer.com/search.rss?search-within=Journal&amp;facet-journal-id=11104&amp;query="><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.135</td>
+<td>225</td>
+</tr>
+<tr class="odd">
+<td><em>#11</em></td>
+<td>Frontiers in Plant Science</td>
+<td><a href="https://www.frontiersin.org/journals/plant-science/rss"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.023</td>
+<td>216</td>
+</tr>
+<tr class="even">
+<td><em>#12</em></td>
+<td>Journal of Ecology</td>
+<td><a href="https://besjournals.onlinelibrary.wiley.com/feed/13652745/most-recent"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>2.144</td>
+<td>212</td>
+</tr>
+<tr class="odd">
+<td><em>#13</em></td>
+<td>Annals of Botany</td>
+<td><a href="https://academic.oup.com/rss/site_5260/3126.xml"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.078</td>
+<td>205</td>
+</tr>
+<tr class="even">
+<td><em>#14</em></td>
+<td>Phytochemistry</td>
+<td><a href="https://rss.sciencedirect.com/publication/science/00319422"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>0.667</td>
+<td>205</td>
+</tr>
+<tr class="odd">
+<td><em>#15</em></td>
+<td>Plant Molecular Biology</td>
+<td><a href="https://link.springer.com/search.rss?search-within=Journal&amp;facet-journal-id=11103&amp;query="><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.151</td>
+<td>197</td>
+</tr>
+<tr class="even">
+<td><em>#16</em></td>
+<td>Planta</td>
+<td><a href="https://link.springer.com/search.rss?search-within=Journal&amp;sortOrder=newestFirst&amp;query=*&amp;facet-journal-id=425"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>0.944</td>
+<td>197</td>
+</tr>
+<tr class="odd">
+<td><em>#17</em></td>
+<td>Annual Review of Phytopathology</td>
+<td><a href="https://www.annualreviews.org/rss/content/journals/phyto/latestarticles?fmt=rss"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>2.76</td>
+<td>184</td>
+</tr>
+<tr class="even">
+<td><em>#18</em></td>
+<td>Plant Science</td>
+<td><a href="https://rss.sciencedirect.com/publication/science/01689452"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.133</td>
+<td>183</td>
+</tr>
+<tr class="odd">
+<td><em>#19</em></td>
+<td>Plant and Cell Physiology</td>
+<td><a href="https://academic.oup.com/rss/site_5339/3205.xml"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.375</td>
+<td>181</td>
+</tr>
+<tr class="even">
+<td>#<em>20</em></td>
+<td>American Journal of Botany</td>
+<td><a href="https://bsapubs.onlinelibrary.wiley.com/feed/15372197/most-recent"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>0.841</td>
+<td>172</td>
+</tr>
+<tr class="odd">
+<td><em>#21</em></td>
+<td>Physiologia Plantarum</td>
+<td><a href="https://onlinelibrary.wiley.com/action/showFeed?jc=13993054&amp;type=etoc&amp;feed=rss"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.27</td>
+<td>170</td>
+</tr>
+<tr class="even">
+<td><em>#22</em></td>
+<td>Environmental and Experimental Botany</td>
+<td><a href="https://rss.sciencedirect.com/publication/science/00988472"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.066</td>
+<td>167</td>
+</tr>
+<tr class="odd">
+<td><em>#23</em></td>
+<td>Molecular Plant</td>
+<td><a href="https://www.cell.com/molecular-plant/inpress.rss"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>5.967</td>
+<td>162</td>
+</tr>
+<tr class="even">
+<td><em>#24</em></td>
+<td>Journal of Plant Physiology</td>
+<td><a href="https://rss.sciencedirect.com/publication/science/01761617"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>0.947</td>
+<td>159</td>
+</tr>
+<tr class="odd">
+<td><em>#25</em></td>
+<td>Plant Physiology and Biochemistry</td>
+<td><a href="https://rss.sciencedirect.com/publication/science/09819428"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.252</td>
+<td>159</td>
+</tr>
+<tr class="even">
+<td><em>#26</em></td>
+<td>Plant Biotechnology Journal</td>
+<td><a href="https://onlinelibrary.wiley.com/feed/14677652/most-recent"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>2.998</td>
+<td>152</td>
+</tr>
+<tr class="odd">
+<td><em>#27</em></td>
+<td>BMC Plant Biology</td>
+<td><a href="https://bmcplantbiol.biomedcentral.com/articles/most-recent/rss.xml"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>1.103</td>
+<td>150</td>
+</tr>
+<tr class="even">
+<td><em>#28</em></td>
+<td>Phytopathology</td>
+<td><a href="https://apsjournals.apsnet.org/action/showFeed?ui=0&amp;mi=7nl6c5&amp;type=search&amp;feed=rss&amp;query=%2526SeriesKey%253Dphyto%2526field1%253DAllField%2526sortBy%253DEarliest%2526target%253Ddefault%2526text1%253D*"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>0.783</td>
+<td>150</td>
+</tr>
+<tr class="odd">
+<td><em>#29</em></td>
+<td>Annual Review of Pathology</td>
+<td><a href="https://www.annualreviews.org/rss/content/journals/pathmechdis/latestarticles?fmt=rss"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>11.748</td>
+<td>147</td>
+</tr>
+<tr class="even">
+<td><em>#30</em></td>
+<td>Tree Physiology</td>
+<td><a href="https://academic.oup.com/rss/site_5247/3115.xml"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/Feed-icon.png" class="img-fluid" width="20"></a></td>
+<td>0.992</td>
+<td>147</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="screenshot.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Vista del mio attuale setup con NetNewsWire"><img src="https://www.mauromaver.eu/posts/rebelot/feed_rss/screenshot.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Vista del mio attuale setup con NetNewsWire"></a></p>
+</figure>
+</div>
+<figcaption>Vista del mio attuale setup con NetNewsWire</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Torna in cima</a><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Note</h2>
+
+<ol>
+<li id="fn1"><p><a href="https://it.wikipedia.org/wiki/RSS?wprov=sfti1">Wikipedia - RSS Feed</a>↩︎</p></li>
+<li id="fn2"><p>Lo SCImago Journal Rank o SJR indicator è un indicatore che misura la presunta influenza scientifica delle riviste accademiche; esso utilizza il numero di citazioni ricevute da una rivista e l’importanza o il prestigio delle riviste da cui tali citazioni provengono. Utilizza un algoritmo simile a PageRank e fornisce un’alternativa all’impact factor (IF), che si basa sui dati del Science Citation Index.↩︎</p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Diritto d'autore</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citazione</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{maver2024,
+  author = {Maver, Mauro},
+  title = {Sempre sulla cresta dello stato dell’arte},
+  date = {2024-09-20},
+  url = {https://www.mauromaver.eu/posts/rebelot/feed_rss/},
+  langid = {it}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Per favore citare questo lavoro come:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+Maver, Mauro. 2024. <span>“Sempre sulla cresta dello stato
+dell’arte.”</span> September 20, 2024. <a href="https://www.mauromaver.eu/posts/rebelot/feed_rss/">https://www.mauromaver.eu/posts/rebelot/feed_rss/</a>.
+</div></div></section></div> ]]></description>
+  <category>pubblicazioni</category>
+  <category>scienza</category>
+  <category>RSS</category>
+  <category>IT 🇮🇹</category>
+  <guid>https://www.mauromaver.eu/posts/rebelot/feed_rss/</guid>
+  <pubDate>Thu, 19 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/rebelot/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Il Potere delle Audio Trascrizioni</title>
   <dc:creator>Mauro Maver</dc:creator>
