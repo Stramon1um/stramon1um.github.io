@@ -32,7 +32,7 @@ A questo punto la domanda sorge spontanea: *come fare ad utilizzare questi fanta
 
 1.  **Identifica le riviste di interesse**
 
-    Il primo passo è sapere quali riviste scientifiche si desidera monitorare. Se hai già in mente delle riviste specifiche, vai direttamente sui loro siti web ufficiali. Se non conosci molte riviste nel tuo campo o semplicemente vuoi ampliare la tua lista, puoi utilizzare dei siti che forniscono elenchi di giornali scientifici, ordinati per categoria, rank o h-index. Questi strumenti possono aiutarti a scoprire nuove riviste di interesse, e di conseguenza ottenere nuovi Feed RSS. Tra i miei suggerimenti vi è la piattaforma [Scimago Journal & Country Rank](https://www.scimagojr.com)[^2], completamente gratuita e ricca di ogni info e metriche. Trovate altre fonti in [questa](https://mauromaver.eu/posts/rebelot/feed_rss/index.html#alcuni-dei-principali-feed-rss-che-utilizzo) sezione.
+    Il primo passo è sapere quali riviste scientifiche si desidera monitorare. Se hai già in mente delle riviste specifiche, vai direttamente sui loro siti web ufficiali. Se non conosci molte riviste nel tuo campo o semplicemente vuoi ampliare la tua lista, puoi utilizzare dei siti che forniscono elenchi di giornali scientifici, ordinati per categoria, rank o h-index. Questi strumenti possono aiutarti a scoprire nuove riviste di interesse, e di conseguenza ottenere nuovi Feed RSS. Tra i miei suggerimenti vi è la piattaforma [Scimago Journal & Country Rank](https://www.scimagojr.com)[^2], completamente gratuita e ricca di ogni info e metriche. Trovate altre fonti in [questa](https://www.mauromaver.eu/posts/rebelot/feed_rss/index.html#alcuni-dei-principali-feed-rss-che-utilizzo) sezione.
 
 2.  **Trova il feed RSS**
 
