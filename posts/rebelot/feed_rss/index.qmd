@@ -136,7 +136,7 @@ Se invece vi interessano esclusivamente giornali **open-access** (OA Journal), q
 | *#29*  | Annual Review of Pathology            | [![](Feed-icon.png){width="20"}](https://www.annualreviews.org/rss/content/journals/pathmechdis/latestarticles?fmt=rss)                                                                                                                    | 11.748 | 147       |
 | *#30*  | Tree Physiology                       | [![](Feed-icon.png){width="20"}](https://academic.oup.com/rss/site_5247/3115.xml)                                                                                                                                                          | 0.992  | 147       |
 
-: I primi 30 giornali per *h*-index su SCImago sotto la categoria Plant Science in 2023
+: I primi 30 giornali per *h*-index su SCImago sotto la categoria Plant Science nel 2023
 
 ------------------------------------------------------------------------
 
