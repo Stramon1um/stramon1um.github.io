@@ -7,7 +7,7 @@ listing:
     contents: posts/rebelot/*/index.qmd
     sort: "date desc"
     type: grid
-    image-height: 250px
+    image-height: 300px
     categories: true
     page-size: 100
     sort-ui: false
