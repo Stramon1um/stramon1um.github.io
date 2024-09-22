@@ -23,14 +23,25 @@ website:
     right:
       - text: Home
         href: index.html
+      - text: "/"
       - text: Research
         href: papers.html
+      - text: "/"
       - text: Omnia
         href: omnia.qmd
+      - icon: rss
+        href: omnia.xml
+      - text: "/"
       - text: Rebelòt
         href: rebelot.qmd
+      - icon: rss
+        href: rebelot.xml
+      - text: "/"
       - text: Irlandese
         href: blog_ga.qmd
+      - icon: rss
+        href: blog_ga.xml
+      - text: "|"
       #   menu:
       #     - text: Blog IT 🇮🇹
       #       href: blog_it.qmd
@@ -42,8 +53,8 @@ website:
         url: "mailto:mauromaver@gmail.com"
       - icon: mortarboard-fill
         url: https://scholar.google.it/citations?user=ZUUEM0sAAAAJ&hl=en
-      - icon: rss
-        href: omnia.xml
+      #- icon: rss
+      #  href: omnia.xml
   page-footer:
     background: white
     foreground: black

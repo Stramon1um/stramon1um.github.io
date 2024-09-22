@@ -10,7 +10,7 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
-  #feed: true
+  feed: true
   #fields: [image, date, title, subtitle, author, reading-time, categories]
   fields: [image, date, title, author, subtitle]
 page-layout: full

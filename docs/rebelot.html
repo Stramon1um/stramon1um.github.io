@@ -41,6 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -157,20 +160,60 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">/</span>
+    </span>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./papers.html"> 
 <span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">/</span>
+    </span>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./omnia.html"> 
 <span class="menu-text">Omnia</span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./omnia.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">/</span>
+    </span>
+  </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./rebelot.html" aria-current="page"> 
 <span class="menu-text">Rebelòt</span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./rebelot.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">/</span>
+    </span>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./blog_ga.html"> 
 <span class="menu-text">Irlandese</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./blog_ga.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">|</span>
+    </span>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="mailto:mauromaver@gmail.com"> <i class="bi bi-envelope-fill" role="img">
@@ -179,11 +222,6 @@ window.Quarto = {
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://scholar.google.it/citations?user=ZUUEM0sAAAAJ&amp;hl=en"> <i class="bi bi-mortarboard-fill" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="./omnia.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -223,7 +261,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="IT 🇮🇹">IT 🇮🇹 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RSS">RSS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="audio-trascrizioni">audio-trascrizioni <span class="quarto-category-count">(1)</span></div><div class="category" data-category="flusso di coscienza">flusso di coscienza <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pubblicazioni">pubblicazioni <span class="quarto-category-count">(1)</span></div><div class="category" data-category="scienza">scienza <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="IT 🇮🇹">IT 🇮🇹 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RSS">RSS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="audio-trascrizioni">audio-trascrizioni <span class="quarto-category-count">(1)</span></div><div class="category" data-category="flusso di coscienza">flusso di coscienza <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pubblicazioni">pubblicazioni <span class="quarto-category-count">(1)</span></div><div class="category" data-category="scienza">scienza <span class="quarto-category-count">(1)</span></div><div class="category" data-category="stato arte">stato arte <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -232,16 +270,19 @@ window.Quarto = {
 
 
 <div class="columns">
-<div style="font-size:16pt">
-<div class="column" style="width:40%;">
-<p><em>Nessun</em> filo conduttore. <em>Nessun</em> ordine. Ma un vero ammasso di idee e pensieri!</p>
-<p>Benvenuti su <strong>Rebelòt</strong>, dove è presente tutto e niente e soprattutto dove il caos è di casa.</p>
-<p>Avete presente il flusso di coscienza? <em>Bene</em>, qui sarà probabilmente molto molto peggio!</p>
+<div style="font-size:15pt">
+<div class="column" style="width:45%;">
+<p><br></p>
+<p><a href="posts/rebelot/image.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="posts/rebelot/image.jpg" class="img-fluid" width="400"></a></p>
 </div>
-<div class="column" style="width:8%;">
+<div class="column" style="width:3%;">
 
 </div>
 <div class="column" style="text-align:right">
+<p><em>Nessun</em> filo conduttore. <em>Nessun</em> ordine. Ma un vero ammasso di idee e pensieri!</p>
+<p>Benvenuti su <strong>Rebelòt</strong>, dove è presente tutto e niente e soprattutto dove il caos è di casa.</p>
+<p>Avete presente il flusso di coscienza? <em>Bene</em>, qui sarà probabilmente molto molto peggio!</p>
+<hr>
 <p><em>No</em> common thread. <em>No</em> order. But a true accumulation of ideas and thoughts!</p>
 <p>Welcome to <strong>Rebelòt</strong>, where everything and nothing is present, and especially where chaos reigns.</p>
 <p>Do you know the stream of consciousness? <em>Well</em>, here, it will probably be much, much worse!</p>
@@ -251,15 +292,15 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-focus">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="pubblicazioni,scienza,RSS,IT 🇮🇹" data-listing-date-sort="1726783200000" data-listing-file-modified-sort="1726818110110" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="35" data-listing-word-count-sort="6912">
+<div class="g-col-1" data-index="0" data-categories="pubblicazioni,scienza,RSS,stato arte,IT 🇮🇹" data-listing-date-sort="1726783200000" data-listing-file-modified-sort="1727039992055" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="35" data-listing-word-count-sort="6912">
 <a href="./posts/rebelot/feed_rss/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./posts/rebelot/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./posts/rebelot/feed_rss/screenshot.png" class="thumbnail-image card-img" style="height: 250px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Sempre sulla cresta dello stato dell’arte
+Oltrepassare lo Stato dell’Arte: tra letteratura scientifica e Feed RSS
 </h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('pubblicazioni'); return false;">
@@ -271,12 +312,15 @@ scienza
 <div class="listing-category" onclick="window.quartoListingCategory('RSS'); return false;">
 RSS
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('stato arte'); return false;">
+stato arte
+</div>
 <div class="listing-category" onclick="window.quartoListingCategory('IT 🇮🇹'); return false;">
 IT 🇮🇹
 </div>
 </div>
 <div class="card-text listing-description">
-Come rimanere constantemente aggiornati sulle nuove pubblicazioni scientitiche, fresche di stampa
+Guida per come rimanere constantemente aggiornati sulle nuove pubblicazioni scientitiche, anche fresche fresche di stampa
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -290,11 +334,11 @@ Sep 20, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="audio-trascrizioni,flusso di coscienza,IT 🇮🇹" data-listing-date-sort="1726437600000" data-listing-file-modified-sort="1726562044978" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="358">
+<div class="g-col-1" data-index="1" data-categories="audio-trascrizioni,flusso di coscienza,IT 🇮🇹" data-listing-date-sort="1726437600000" data-listing-file-modified-sort="1727039362274" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="358">
 <a href="./posts/rebelot/potere_audio_trascrizioni/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./posts/rebelot/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./posts/rebelot/potere_audio_trascrizioni/image.jpg" class="thumbnail-image card-img" style="height: 250px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -909,6 +953,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","descPosition":"bottom","openEffect":"zoom","loop":false});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

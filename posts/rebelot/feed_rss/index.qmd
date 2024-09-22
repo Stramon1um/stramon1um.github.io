@@ -1,13 +1,14 @@
 ---
-title: "Sempre sulla cresta dello stato dell'arte"
+title: "Oltrepassare lo Stato dell'Arte: tra letteratura scientifica e Feed RSS" 
 #subtitle: "o le loro potenzialità"
-description: "Come rimanere constantemente aggiornati sulle nuove pubblicazioni scientitiche, fresche di stampa"
+description: "Guida per come rimanere constantemente aggiornati sulle nuove pubblicazioni scientitiche, anche fresche fresche di stampa"
 google-scholar: true
 date: "2024-09-20"
 lang: it
 #image: "image.jpg"
-categories: [pubblicazioni, scienza, RSS, IT 🇮🇹]
+categories: [pubblicazioni, scienza, RSS, stato arte, IT 🇮🇹]
 css: style_rss.css
+image: "screenshot.png"
 ---
 
 ## Introduzione

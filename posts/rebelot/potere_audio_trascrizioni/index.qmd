@@ -5,7 +5,7 @@ description: "Brevissima intro su quanto possano essere versatili e utili le aud
 google-scholar: true
 date: "2024-09-16"
 lang: it
-#image: "image.jpg"
+image: "image.jpg"
 categories: [audio-trascrizioni, flusso di coscienza, IT 🇮🇹]
 ---
 

@@ -12,7 +12,7 @@
 <generator>quarto-1.5.52</generator>
 <lastBuildDate>Thu, 19 Sep 2024 22:00:00 GMT</lastBuildDate>
 <item>
-  <title>Sempre sulla cresta dello stato dell’arte</title>
+  <title>Oltrepassare lo Stato dell’Arte: tra letteratura scientifica e Feed RSS</title>
   <dc:creator>Mauro Maver</dc:creator>
   <link>https://www.mauromaver.eu/posts/rebelot/feed_rss/</link>
   <description><![CDATA[ 
@@ -349,22 +349,24 @@
 </ol>
 </section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Diritto d'autore</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citazione</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{maver2024,
   author = {Maver, Mauro},
-  title = {Sempre sulla cresta dello stato dell’arte},
+  title = {Oltrepassare lo Stato dell’Arte: tra letteratura scientifica
+    e Feed RSS},
   date = {2024-09-20},
   url = {https://www.mauromaver.eu/posts/rebelot/feed_rss/},
   langid = {it}
 }
 </code></pre><div class="quarto-appendix-secondary-label">Per favore citare questo lavoro come:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
-Maver, Mauro. 2024. <span>“Sempre sulla cresta dello stato
-dell’arte.”</span> September 20, 2024. <a href="https://www.mauromaver.eu/posts/rebelot/feed_rss/">https://www.mauromaver.eu/posts/rebelot/feed_rss/</a>.
+Maver, Mauro. 2024. <span>“Oltrepassare lo Stato dell’Arte: tra
+letteratura scientifica e Feed RSS.”</span> September 20, 2024. <a href="https://www.mauromaver.eu/posts/rebelot/feed_rss/">https://www.mauromaver.eu/posts/rebelot/feed_rss/</a>.
 </div></div></section></div> ]]></description>
   <category>pubblicazioni</category>
   <category>scienza</category>
   <category>RSS</category>
+  <category>stato arte</category>
   <category>IT 🇮🇹</category>
   <guid>https://www.mauromaver.eu/posts/rebelot/feed_rss/</guid>
   <pubDate>Thu, 19 Sep 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://www.mauromaver.eu/posts/rebelot/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.mauromaver.eu/posts/rebelot/feed_rss/screenshot.png" medium="image" type="image/png" height="92" width="144"/>
 </item>
 <item>
   <title>Il Potere delle Audio Trascrizioni</title>
@@ -404,7 +406,7 @@ September 16, 2024. <a href="https://www.mauromaver.eu/posts/rebelot/potere_audi
   <category>IT 🇮🇹</category>
   <guid>https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/</guid>
   <pubDate>Sun, 15 Sep 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://www.mauromaver.eu/posts/rebelot/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

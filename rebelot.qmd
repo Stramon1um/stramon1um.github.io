@@ -7,6 +7,7 @@ listing:
     contents: posts/rebelot/*/index.qmd
     sort: "date desc"
     type: grid
+    image-height: 250px
     categories: true
     page-size: 100
     sort-ui: false
@@ -23,20 +24,25 @@ css: styles_rebelot.css
 
 :::: {.columns}
 
-::: {style="font-size:16pt"}
+::: {style="font-size:15pt"}
+::: {.column width="45%"}
+<br />
 
-::: {.column width="40%"}
+![](posts/rebelot/image.jpg){width="400"}
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.column style="text-align:right"}
 *Nessun* filo conduttore. *Nessun* ordine. Ma un vero ammasso di idee e pensieri!
 
 Benvenuti su **Rebelòt**, dove è presente tutto e niente e soprattutto dove il caos è di casa.
 
 Avete presente il flusso di coscienza? *Bene*, qui sarà probabilmente molto molto peggio!
-:::
 
-::: {.column width="8%"}
-:::
+---
 
-::: {.column style="text-align:right"}
 *No* common thread. *No* order. But a true accumulation of ideas and thoughts!
 
 Welcome to **Rebelòt**, where everything and nothing is present, and especially where chaos reigns.
@@ -46,7 +52,6 @@ Do you know the stream of consciousness? *Well*, here, it will probably be much,
 :::
 
 ------------------------------------------------------------------------
-
 
 <!-- Mastodon verification -->
 
