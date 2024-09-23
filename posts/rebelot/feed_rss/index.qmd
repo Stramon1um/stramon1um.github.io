@@ -98,7 +98,7 @@ A questo punto la domanda sorge spontanea: *come fare ad utilizzare questi fanta
 
 ## Alcuni dei principali Feed RSS che utilizzo
 
-A puro scopo esemplificativo, riporto un elenco generato a partire dai risultati ottenuti per la categoria **Plant Science**, e ordinati per *h*-index. Qui ho selezionato i primi 30 giornali, con relativo Feed RSS (click sull'icona) relativi all'anno 2023. Fonte: [SCImago Journal Rank](https://www.scimagojr.com/journalrank.php?category=1110&type=j&order=h&ord=desc "Link diretto ai risultati della ricerca sotto la categoria Plant Science").
+A puro scopo esemplificativo, riporto un elenco generato a partire dai risultati ottenuti per la categoria **Plant Science** (il mio background), e ordinati per *h*-index. Qui ho selezionato i primi 30 giornali, con relativo Feed RSS (click sull'icona) relativi all'anno 2023. Fonte: [SCImago Journal Rank](https://www.scimagojr.com/journalrank.php?category=1110&type=j&order=h&ord=desc "Link diretto ai risultati della ricerca sotto la categoria Plant Science").
 
 Altri Feed RSS che utilizzo (meno specifici per Plant Science) possono essere trovati su un mio *vecchio* GitHub repository: [GitHub Feed RSS](https://github.com/Stramon1um/academic_journals_rss_feed/blob/main/README.md).
 
