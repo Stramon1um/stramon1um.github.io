@@ -15,8 +15,9 @@ website:
   google-analytics: "G-GEXKYETG1W"
   open-graph: true
   search: false
+  page-navigation: true
   back-to-top-navigation: true
-  #bread-crumbs: true
+  bread-crumbs: false
   #reader-mode: true
   navbar:
     background: primary
@@ -38,7 +39,7 @@ website:
         href: rebelot.xml
       - text: "/"
       - text: Irlandese
-        href: blog_ga.qmd
+        href: gaelico.qmd
       - icon: rss
         href: blog_ga.xml
       - text: "|"
@@ -55,6 +56,31 @@ website:
         url: https://scholar.google.it/citations?user=ZUUEM0sAAAAJ&hl=en
       #- icon: rss
       #  href: omnia.xml
+  sidebar:
+    - id: omnia
+      title: "Omnia"
+      #subtitle: "Focus I"
+      style: floating
+      border: true
+      contents: 
+        #- omnia.qmd
+        - section: "Omnia Focus I"
+          contents: posts/posts_omnia/*/index.qmd
+
+    - id: rebelot
+      title: "Rebelot"
+      #subtitle: "Focus I"
+      contents: 
+        - section: "Rebelòt"
+          contents: posts/rebelot/*/index.qmd
+      
+    - id: irlandese
+      title: "Irlandese"
+      #subtitle: "Focus I"
+      contents: 
+        - section: "Gaelico Irlandese"
+          contents: posts/gaelico/*/index.qmd
+      
   page-footer:
     background: white
     foreground: black

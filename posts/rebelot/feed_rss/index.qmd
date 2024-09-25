@@ -5,10 +5,10 @@ description: "Guida per come rimanere constantemente aggiornati sulle nuove pubb
 google-scholar: true
 date: "2024-09-20"
 lang: it
-#image: "image.jpg"
 categories: [pubblicazioni, scienza, RSS, stato arte, IT 🇮🇹]
 css: style_rss.css
 image: "screenshot.png"
+order: 2
 ---
 
 ## Introduzione

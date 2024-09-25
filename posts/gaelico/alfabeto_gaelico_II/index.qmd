@@ -1,0 +1,96 @@
+---
+title: "Alfabeto gaelico II"
+subtitle: "Seconda parte riguardante l'alfabeto"
+date: "2024-02-26"
+categories: [gaelico, irlandese, alfabeto]
+image: "image.jpg"
+order: 5
+---
+
+## Aspetti generali
+
+Benvenuti di nuovo! Come anticipato nel nostro ultimo post, approfondiremo ora il tema delle vocali e della loro pronuncia nella lingua gaelica. Per iniziare, facciamo un breve ripasso:
+
+**Vocali**
+
+In gaelico, le vocali possono essere lunghe o corte, con l'accento acuto che indica una vocale lunga (ad esempio, á). È importante notare che, simile alle consonanti, la scelta tra una forma lunga e una breve di vocale può alterare il significato di una parola. Ad esempio, **páiste** significa bambino, mentre **paiste** significa "patch". Le vocali possono essere distinte come segue:
+
+-   Vocali corte: **a**, **e**, **i**, **o**, **u**
+-   Vocali lunghe: **á**, **é**, **í**, **ó**, **ú**
+
+Poiché molte vocali in gaelico sono silenziose e servono solo a indicare la qualità delle consonanti (*slender* o *broad*), molte parole contengono sequenze di due o tre vocali che rappresentano un unico suono.
+
+Ora, passiamo a una breve descrizione della pronuncia!
+
+**Pronuncia delle vocali**
+
+È importante notare che la pronuncia che seguirà sarà solo approssimativa e verranno utilizzate parole inglesi per aiutare a comprendere il suono.
+
+-   "a" in **dath** suona come in "father"
+-   "á" in **tá** è simile a "law"
+-   "e" in **te** si pronuncia come in "bed"
+-   "é" in **mé** ha un suono simile a "day"
+-   "i" in **file** suona come in "fish"
+-   "í" in **fírinne** è simile a "fear"
+-   "o" in **doras** si pronuncia come in "tough"
+-   "ó" in **pósta** ha un suono simile a "boat"
+-   "u" in **fusa** suona come in "put"
+-   "ú" in **cúr** è simile a "do"
+
+Le vocali marcate con l'accento acuto, chiamate **síneadh fada** o semplicemente **fada**, sono lunghe. Ogni vocale seguita da una fada viene pronunciata lunga, influenzando anche la consonante successiva. Ad esempio:
+
+-   come "á":
+
+    -   "eá" in **Seán**
+    -   "ái" in **áit**
+    -   "eái" in **Sheáin**
+
+-   come "é":
+
+    -   "éa" in **Shéamas**
+    -   "éi" in **céim**
+
+-   come "í":
+
+    -   "uí" in **suí**
+    -   "oí" in **croí**
+    -   "aí" in **scéalaí**
+    -   "uí" in **buí**
+    -   "uío" in **buíochas**
+
+-   come "ó":
+
+    -   "ói" in **bróige**
+
+-   come "ú":
+
+    -   "úi" in **cúis**
+    -   "iú" in **siúl**
+    -   "iúi" in **ciúin**
+
+Inoltre, alcune sequenze di vocali non accentate rappresentano automaticamente vocali lunghe. Ad esempio:
+
+-   Le vocali seguite da "n", "nn", "ll", "rr", "rd", e "m" sono pronunciate lunghe, come in **crann**, **ard**, **tinn**, ecc.
+-   "ae(i)" è pronunciato come "é", ad esempio **traein**
+-   "Ao" e "aoi" sono pronunciati come "í", come in **naoi**
+-   "eo(i)" è pronunciato come "ó", ad esempio **ceo**
+
+Alcune sequenze di vocali sono invece pronunciate come vocali corte. Per esempio:
+
+-   "ea", "eai" e "ai" all'inizio di una parola sono solitamente pronunciati come "a", come in **bean**, **fear**, **seaicéad**, **aisteach**
+
+Infine, alcune regole extra:
+
+-   "ai" dopo una consonante si pronuncia come "a", come in **bainis**, **cailín**
+-   "io" si pronuncia come "i", come in **fios**
+-   "oi" si pronuncia come "e(i)", come in **toil**, **oiread**
+-   "ui" si pronuncia come "i", come in **uisce**, **fuil**
+-   "iu" si pronuncia come "u", come in **fliuch**
+
+Queste sono solo alcune delle regole di pronuncia delle vocali in gaelico. Tuttavia, è importante tenere presente che ci sono molte altre regole, alcune delle quali più complesse, che possono variare da dialetto a dialetto. Le regole qui descritte sono solo una guida generale e la tua comprensione della pronuncia migliorerà sicuramente con la pratica e l'ascolto di risorse audio. Inoltre, parlare con madrelingua irlandesi o con chi conosce bene la lingua può migliorare notevolmente la tua pronuncia.
+
+Come sempre, la pronuncia può essere una delle sfide più difficili, ma una volta padroneggiata, il resto del tuo viaggio nell'apprendimento del gaelico sarà più agevole!
+
+*Alla prossima!*
+
+*Slán go fóill!*

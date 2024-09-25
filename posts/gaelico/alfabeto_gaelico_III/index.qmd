@@ -1,0 +1,28 @@
+---
+title: "Alfabeto gaelico III"
+subtitle: "Terza parte riguardante l'alfabeto"
+date: "2024-04-02"
+categories: [gaelico, irlandese, alfabeto]
+image: "image.jpg"
+order: 9
+---
+
+## Esplorando l'Alfabeto Gaelico: Cló Gaelach
+
+In questo breve articolo esploreremo l'alfabeto gaelico e i caratteri utilizzati nella scrittura gaelica, conosciuta come **Cló Gaelach**. Questi caratteri, appartenenti alla famiglia della scrittura insulare, sono stati utilizzati per scrivere l'irlandese tra il XVI e il XX secolo.
+
+Ecco alcune rappresentazioni dell'alfabeto.
+
+![Vocali](https://upload.wikimedia.org/wikipedia/commons/b/b6/Vocali_Clo_gaelach.png){style="text-align: center" fig-align="center"}
+
+![Consonanti](https://upload.wikimedia.org/wikipedia/commons/1/11/Consonanti_Clo_gaelach.png){style="text-align: center" fig-align="center"}
+
+![Consonanti con lenizione](https://upload.wikimedia.org/wikipedia/commons/8/87/Consonanti_con_lenizione_Clo_gaelach.png){style="text-align: center" fig-align="center"}
+
+La scrittura gaelica, o **Cló Gaelach**, rappresenta un importante patrimonio culturale. Vediamo insieme l'alfabeto completo scritto in questa forma!
+
+Sebbene la stampa in scrittura gaelica fosse comune fino alla prima metà del XX secolo, oggi viene utilizzata principalmente per scopi decorativi, come insegne dei pub, cartoline, segnaletica e testate giornalistiche. L'irlandese moderno è invece scritto utilizzando l'alfabeto latino, noto come **Cló Rómhánach**.
+
+*Alla prossima!*
+
+*Slán go fóill!*

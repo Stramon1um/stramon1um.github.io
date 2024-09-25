@@ -48,6 +48,7 @@ bibliography: reference.bib
 csl: "nature-reviews-molecular-cell-biology.csl"
 resources: 
   - Omnia_focus_I.pdf
+order: 1
 ---
 
 <!-- This study by Huang et al. explores the intricate relationship between vernalisation, leaf-specific responses, and flowering synchrony in Arabidopsis thaliana. They uncover how leaf development during vernalisation impacts the expression of key flowering genes, suggesting a complex interplay between leaf-based processes and meristem regulation in determining flowering timing. -->

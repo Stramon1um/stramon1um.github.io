@@ -1,30 +1,5 @@
 [
   {
-    "listing": "/blog_ga.html",
-    "items": [
-      "/posts/posts_ga/compleanno/index.html",
-      "/posts/posts_ga/aggettivi_I/index.html",
-      "/posts/posts_ga/vocaboli_I/index.html",
-      "/posts/posts_ga/alfabeto_gaelico_III/index.html",
-      "/posts/posts_ga/mutazioni_III/index.html",
-      "/posts/posts_ga/mutazioni_II/index.html",
-      "/posts/posts_ga/mutazioni_I/index.html",
-      "/posts/posts_ga/alfabeto_gaelico_II/index.html",
-      "/posts/posts_ga/alfabeto_gaelico_I/index.html",
-      "/posts/posts_ga/un_minuto/index.html",
-      "/posts/posts_ga/il_gaelico/index.html",
-      "/posts/posts_ga/primissimo_post/index.html"
-    ]
-  },
-  {
-    "listing": "/rebelot.html",
-    "items": [
-      "/posts/rebelot/feed_rss_eng/index.html",
-      "/posts/rebelot/feed_rss/index.html",
-      "/posts/rebelot/potere_audio_trascrizioni/index.html"
-    ]
-  },
-  {
     "listing": "/omnia.html",
     "items": [
       "/posts/posts_omnia/omnia_focus_XII/index.html",
@@ -39,6 +14,31 @@
       "/posts/posts_omnia/omnia_focus_III/index.html",
       "/posts/posts_omnia/omnia_focus_II/index.html",
       "/posts/posts_omnia/omnia_focus_I/index.html"
+    ]
+  },
+  {
+    "listing": "/rebelot.html",
+    "items": [
+      "/posts/rebelot/feed_rss_eng/index.html",
+      "/posts/rebelot/feed_rss/index.html",
+      "/posts/rebelot/potere_audio_trascrizioni/index.html"
+    ]
+  },
+  {
+    "listing": "/gaelico.html",
+    "items": [
+      "/posts/gaelico/compleanno/index.html",
+      "/posts/gaelico/aggettivi_I/index.html",
+      "/posts/gaelico/vocaboli_I/index.html",
+      "/posts/gaelico/alfabeto_gaelico_III/index.html",
+      "/posts/gaelico/mutazioni_III/index.html",
+      "/posts/gaelico/mutazioni_II/index.html",
+      "/posts/gaelico/mutazioni_I/index.html",
+      "/posts/gaelico/alfabeto_gaelico_II/index.html",
+      "/posts/gaelico/alfabeto_gaelico_I/index.html",
+      "/posts/gaelico/un_minuto/index.html",
+      "/posts/gaelico/il_gaelico/index.html",
+      "/posts/gaelico/primissimo_post/index.html"
     ]
   }
 ]

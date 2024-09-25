@@ -7,6 +7,7 @@ date: "2024-09-16"
 lang: it
 image: "image.jpg"
 categories: [audio-trascrizioni, flusso di coscienza, IT 🇮🇹]
+order: 1
 ---
 
 Questo post lo sto *scrivendo* mentre cammino avanti e indietro, parlando ad alta voce e registrando il tutto con un iPad.

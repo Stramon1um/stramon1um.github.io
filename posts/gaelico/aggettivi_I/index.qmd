@@ -1,0 +1,80 @@
+---
+title: "Aggettivi I"
+subtitle: "Piccolo elenco di utili aggettivi"
+date: "2024-04-18"
+categories: [gaelico, irlandese, aggettivi]
+image: "image.jpg"
+editor: 
+  markdown: 
+    wrap: 72
+order: 11
+---
+
+Nel mio precedente articolo ho condiviso un elenco di sostantivi sia maschili che femminili in lingua irlandese. Questa volta, invece, voglio concentrarmi sugli aggettivi. 
+
+Gli aggettivi irlandesi subiscono delle variazioni a seconda del contesto in cui vengono utilizzati, quindi l'elenco che sto per presentare include la forma base degli aggettivi, proprio come la trovereste in un dizionario. Ecco alcuni esempi:
+
+-   **bacach** = zoppo
+-   **breoite** = malato
+-   **briste** = rotto
+-   **brónach** = triste
+-   **buartha** = agitato
+-   **caillte** = perso
+-   **caite** = consumato
+-   **cam** = storto
+-   **deisithe** = riparato/aggiustato
+-   **díreach** = dritto/giusto
+-   **díolta** = venduto
+-   **dorcha** = scuro/buio
+-   **dúnta** = chiuso
+-   **fliuch** = bagnato
+-   **folamh** = vuoto
+-   **fuar** = freddo
+-   **garbh** = ventoso/ruvido
+-   **gear** = rancido
+-   **géar** = affilato
+-   **láidir** = forte
+-   **lán** = pieno
+-   **milis** = dolce
+-   **mór** = grande
+-   **óg** = giovane
+-   **ramhar** = grasso
+-   **salach** = sporco
+-   **te** = caldo
+-   **tinn** = irritato
+-   **tirim** = asciutto
+-   **tuirseach** = stanco
+-   **ullamh** = pronto
+-   **úr** = fresco
+
+Ora, per rendere più chiari questi aggettivi, ecco alcuni esempi pratici che li associano a sostantivi menzionati nel mio precedente post [Vocaboli I](https://www.mauromaver.eu/posts/posts_ga/vocaboli_I/):
+
+-   **capall bacach** = cavallo zoppo
+-   **garsún breoite** = ragazzo malato
+-   **fuinneog bhriste** = finestra rotta
+-   **bróg chaite** = scarpa consumata
+-   **sráid dhíreach** = strada dritta
+-   **seomra dhorcha** = camera buia
+-   **casóg fliuch** = mantello bagnato
+-   **bosca folamh** = scatola vuota
+-   **oíche fhuar** = notte fredda
+-   **bainne gear** = latte rancido
+-   **scian ghéar** = coltello affilato
+-   **lámh láidir** = mano forte
+-   **deoch mhilis** = bevanda dolce
+-   **bord mór** = tavolo grande
+-   **cailín óg** = ragazza giovane
+-   **muc ramhar** = maiale grasso
+-   **urlár salach** = pavimento sporco
+-   **grian the** = sole caldo
+-   **súil thinn** = occhio irritato
+-   **bád tirim** = barca asciutta
+-   **fear tuirseach** = uomo stanco
+-   **dinnéar ullamh** = cena pronta
+-   **iasc úr** = pesce fresco
+
+Spero che questi esempi chiariscano meglio il significato di questi aggettivi e come vengano utilizzati nella lingua irlandese.
+
+*Alla prossima!*
+
+*Slán go fóill!*

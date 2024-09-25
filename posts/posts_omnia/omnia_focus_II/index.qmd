@@ -47,6 +47,7 @@ bibliography: reference.bib
 csl: "nature-reviews-molecular-cell-biology.csl"
 resources: 
   - Omnia_focus_II.pdf
+order: 2
 ---
 
 ::: drop-cap
