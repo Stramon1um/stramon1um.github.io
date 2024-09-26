@@ -24,20 +24,20 @@ website:
     right:
       - text: Home
         href: index.html
-      - text: "/"
+      - text: "·"
       - text: Research
         href: papers.html
-      - text: "/"
+      - text: "·"
       - text: Omnia
         href: omnia.qmd
       - icon: rss
         href: omnia.xml
-      - text: "/"
+      - text: "·"
       - text: Rebelòt
         href: rebelot.qmd
       - icon: rss
         href: rebelot.xml
-      - text: "/"
+      - text: "·"
       - text: Irlandese
         href: gaelico.qmd
       - icon: rss
@@ -58,27 +58,32 @@ website:
       #  href: omnia.xml
   sidebar:
     - id: omnia
-      title: "Omnia"
+      #title: "Omnia"
       #subtitle: "Focus I"
       style: floating
       border: true
-      contents: 
-        #- omnia.qmd
-        - section: "Omnia Focus I"
-          contents: posts/posts_omnia/*/index.qmd
+      contents:
+        - section: "Omnia"
+          href: omnia.qmd
+          contents:
+            - section: "Omnia *Focus* I"
+              contents: posts/posts_omnia/*/index.qmd
 
     - id: rebelot
-      title: "Rebelot"
+      #title: "Rebelot"
       #subtitle: "Focus I"
       contents: 
         - section: "Rebelòt"
+          href: rebelot.qmd
           contents: posts/rebelot/*/index.qmd
       
     - id: irlandese
-      title: "Irlandese"
+      #title: "Irlandese"
       #subtitle: "Focus I"
-      contents: 
+      contents:
+        #- gaelico.qmd
         - section: "Gaelico Irlandese"
+          href: gaelico.qmd
           contents: posts/gaelico/*/index.qmd
       
   page-footer:

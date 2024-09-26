@@ -17,6 +17,7 @@ page-layout: full
 #title-block-style: plain
 title-block-banner: "#007373"
 lightbox: true
+sidebar: false
 #css: test.css
 ---
 

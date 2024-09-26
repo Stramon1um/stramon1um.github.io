@@ -8,6 +8,7 @@ lang: it
 categories: [pubblicazioni, scienza, RSS, stato arte, IT 🇮🇹]
 css: style_rss.css
 image: "screenshot.png"
+toc-title: Su questa pagina
 order: 2
 ---
 

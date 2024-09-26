@@ -19,6 +19,7 @@ page-layout: full
 #title-block-banner: "#007373"
 title-block-banner: true
 lightbox: true
+sidebar: false
 css: styles_rebelot.css
 ---
 

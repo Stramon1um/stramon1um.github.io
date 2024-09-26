@@ -28,6 +28,15 @@ h5{
     font-size: 15px
 }
 
+.text-start {
+    text-align: left !important;
+    font-weight: bold;
+}
+
+.sidebar .toc-actions h2, .sidebar .toc-actions .h2, .sidebar .quarto-code-links h2, .sidebar .quarto-code-links .h2, .sidebar .quarto-other-links h2, .sidebar .quarto-other-links .h2, .sidebar .quarto-alternate-notebooks h2, .sidebar .quarto-alternate-notebooks .h2, .sidebar .quarto-alternate-formats h2, .sidebar .quarto-alternate-formats .h2, .sidebar nav[role=doc-toc] > h2, .sidebar nav[role=doc-toc] > .h2 {
+  font-weight: bold;
+}
+
 /*
 footer{
   font-size: 20px;
