@@ -10,7 +10,92 @@
 <atom:link href="https://www.mauromaver.eu/omnia.xml" rel="self" type="application/rss+xml"/>
 <description>Portfolio</description>
 <generator>quarto-1.5.52</generator>
-<lastBuildDate>Sun, 14 Jul 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Oct 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Identification of HvPIN1a as a key regulator of root development and vascular patterning in barley</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="drop-cap">
+<p>One of the primary goals in plant breeding is to link specific genes to agronomically important traits in agriculture. Among the most significant agronomic traits of interest are those related to root architecture and growth. Roots not only serve as an anchoring system for the plant but also function as a complex and dynamic network that regulates the uptake of essential resources.</p>
+</div>
+<p>Understanding the genes that control these processes could help in developing crop varieties with more efficient root systems. These improved roots would be better at absorbing water and minerals from the soil, which is important in agriculture, especially in areas affected by climate stress like drought.</p>
+<p>Barley (<em>Hordeum vulgare</em> L.), the fourth most widely cultivated cereal crop globally, is not only a vital resource for agriculture but also serves as a model for genetic studies. Its diploid nature, small number of chromosomes, and ease of crossing make it an ideal tool for exploring the molecular mechanisms underpinning plant development.<span class="citation" data-cites="schreiber2019highly"><sup>1</sup></span> However, despite progress, barley’s genes governing root architecture and anatomy remain unclear.</p>
+<p>In their study, <em>Fusi et al.</em><span class="citation" data-cites="fusi2024auxin"><sup>2</sup></span> focused on a specific barley mutant line with a distinctive short-root phenotype. They investigated the potential causes of this phenotype from anatomical, functional, and genetic perspectives. The authors found that the mutant had significantly reduced root growth compared to the wild type (WT), with compromised meristems and elongation zones. Morphological analyses revealed a drastic reduction in the number of cells in these areas, confirming a substantial alteration in root development. Additionally, longitudinal sections of the mutant roots showed significant anomalies in the vasculature, with vessel cells exhibiting increased diameter and more lignified cell walls compared to the WT.</p>
+<p>An initial study of the inheritance pattern was conducted to identify the gene or genes responsible for this short-root phenotype. The study revealed a Mendelian ratio of 3:1, suggesting that a single locus controls the short-root phenotype.</p>
+<p>Using SNP-based Bulk Segregant Analysis (BSA), the researchers were able to map this specific genetic location to chromosome 7. They identified a mutation in the gene <em>PIN1a</em>, which is responsible for encoding an auxin efflux carrier pump. This pump is located asymmetrically on cell membranes and responsible for the hormone auxin’s polarized flow.<span class="citation" data-cites="adamowski2015pin"><sup>3</sup></span> In brief, the mutation in <em>HvPIN1a</em> disrupts the proper distribution of auxin, affecting not only root length but also the organisation of vascular tissues.</p>
+<p>To further verify the importance of PIN1a-mediated auxin transport, the researchers applied NPA, an inhibitor of polar auxin transport, to WT plants. The application of NPA induced the same effects observed in the PIN1a mutants, replicating the short-root phenotype and related structural issues, thus confirming the crucial role of PIN1a in root development and vascular patterning.</p>
+<p>The experiment also explored whether these defects are conserved in other cereal species. Studies on Brachypodium, a model for cereals and related to barley, revealed an orthologous function of <em>PIN1a</em> in controlling root development and vascular patterning<span class="citation" data-cites="o2014division o2017cross"><sup>4,5</sup></span>. However, the roots of Brachypodium mutants were not as severely affected as those of barley, indicating functional variability between species while maintaining an evolutionarily similar role in cereals.</p>
+<p>In conclusion, the study by <em>Fusi et al.</em> represents a significant step forward in plant breeding. It highlights the importance of the <em>HvPIN1a</em> gene in root development and vascular patterning in barley and other cereals. Demonstrating the pivotal role of PIN1a in regulating these processes opens up new possibilities for selecting varieties that are more drought-resistant and capable of optimising water resources, making them more resilient to abiotic stress.<span class="citation" data-cites="comas2013root"><sup>6</sup></span></p>
+<hr>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Fusi, R., Milner, S.G., Rosignoli, S., Bovina, R., De Jesus Vieira Teixeira, C., Lou, H., Atkinson, B.S., Borkar, A.N., York, L.M., Jones, D.H., Sturrock, C.J., Stein, N., Mascher, M., Tuberosa, R., O’Connor, D., Bennett, M.J., Bishopp, A., Salvi, S. &amp; Bhosale, R. (2024). The auxin efflux carrier PIN1a regulates vascular patterning in cereal roots. <em>New Phytologist</em>, <strong>244</strong>: 104-115. <a href="https://doi.org/10.1111/nph.19777">doi.org/10.1111/nph.197771</a></p>
+<p><strong>List of abbreviations</strong></p>
+<p><strong>NPA</strong>, N-1-naphthylphthalamic acid <strong>•</strong> <strong>WT</strong>, wild-type <strong>•</strong> <strong>SNP</strong>, single-nucleotide polymorphism <strong>•</strong> <strong>BSA</strong>, bulk segregant analysis</p>
+</div>
+</div>
+</div>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-schreiber2019highly" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Schreiber, M. <em>et al.</em> A highly mutagenised barley (cv. Golden promise) TILLING population coupled with strategies for screening-by-sequencing. <em>Plant Methods</em> <strong>15</strong>, 1–14 (2019).</div>
+</div>
+<div id="ref-fusi2024auxin" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Fusi, R. <em>et al.</em> The auxin efflux carrier PIN1a regulates vascular patterning in cereal roots. <em>New Phytologist</em> (2024).</div>
+</div>
+<div id="ref-adamowski2015pin" class="csl-entry">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Adamowski, M. &amp; Friml, J. PIN-dependent auxin transport: Action, regulation, and evolution. <em>The Plant Cell</em> <strong>27</strong>, 20–32 (2015).</div>
+</div>
+<div id="ref-o2014division" class="csl-entry">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">O’Connor, D. L. <em>et al.</em> A division in PIN-mediated auxin patterning during organ initiation in grasses. <em>PLoS Computational Biology</em> <strong>10</strong>, e1003447 (2014).</div>
+</div>
+<div id="ref-o2017cross" class="csl-entry">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">O’Connor, D. L. <em>et al.</em> Cross-species functional diversity within the PIN auxin efflux protein family. <em>Elife</em> <strong>6</strong>, e31804 (2017).</div>
+</div>
+<div id="ref-comas2013root" class="csl-entry">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Comas, L. H., Becker, S. R., Cruz, V. M. V., Byrne, P. F. &amp; Dierig, D. A. Root traits contributing to plant productivity under drought. <em>Frontiers in plant science</em> <strong>4</strong>, 442 (2013).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {Independent Effects of Drought and Cultivation Systems on
+    Wheat: Insights from the Trait Space Concept},
+  volume = {2},
+  number = {1},
+  date = {2024-10-12},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/},
+  langid = {en},
+  abstract = {In their study, *Fusi et al.* explored the role of the
+    *HvPIN1a* gene in regulating root development and vascular
+    patterning in barley, linking its mutation to impaired auxin
+    transport and reduced root growth. The findings offer insights into
+    breeding drought-resistant cereal varieties with more efficient
+    water and nutrient uptake.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+<div class="">Maver, M. Independent effects of drought and
+cultivation systems on wheat: insights from the trait space concept.
+<em>Omnia Focus</em> vol. 2 Preprint at <a href="https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/">https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/</a>
+(2024).</div>
+</div></div></section></div> ]]></description>
+  <guid>https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/</guid>
+  <pubDate>Fri, 11 Oct 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Independent effects of drought and cultivation systems on wheat: insights from the trait space concept</title>
   <dc:creator>Mauro Maver</dc:creator>

@@ -66,6 +66,8 @@ website:
         - section: "Omnia"
           href: omnia.qmd
           contents:
+            - section: "Omnia *Focus* II"
+              contents: posts/posts_omnia/focus_II/*/index.qmd
             - section: "Omnia *Focus* I"
               contents: posts/posts_omnia/*/index.qmd
 

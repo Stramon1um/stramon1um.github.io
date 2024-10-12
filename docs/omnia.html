@@ -25,7 +25,7 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
-<link href="./posts/posts_omnia/omnia_focus_I/index.html" rel="next">
+<link href="./posts/posts_omnia/focus_II/1/index.html" rel="next">
 <link href="./foto.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
@@ -62,7 +62,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-focus .list');
+    const listingTargetEl = window.document.querySelector('#listing-focus1 .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -75,7 +75,35 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-focus'] = new List('listing-focus', options);
+    window['quarto-listings']['listing-focus1'] = new List('listing-focus1', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-focus2 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle','listing-author','listing-reading-time','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-focus2'] = new List('listing-focus2', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -275,6 +303,48 @@ window.Quarto = {
 
 <section id="omnia-focus" class="level2">
 <h2 class="anchored" data-anchor-id="omnia-focus">Omnia <em>Focus</em></h2>
+<section id="volume-ii" class="level3">
+<h3 class="anchored" data-anchor-id="volume-ii">Volume II</h3>
+<div id="listing-focus2" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1728684000000" data-listing-file-modified-sort="1728726430555" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="652">
+<div class="thumbnail">
+<p><a href="./posts/posts_omnia/focus_II/1/index.html" class="no-external"></a></p><a href="./posts/posts_omnia/focus_II/1/index.html" class="no-external">
+<p><img loading="lazy" src="./posts/posts_omnia/focus_II/1/image.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/posts_omnia/focus_II/1/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/posts_omnia/focus_II/1/index.html" class="no-external">Identification of <em>HvPIN1a</em> as a key regulator of root development and vascular patterning in barley</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/posts_omnia/focus_II/1/index.html" class="no-external">Omnia <em>Focus</em> - Volume 2-1</a>
+</div>
+<div class="listing-description">
+<a href="./posts/posts_omnia/focus_II/1/index.html" class="no-external">In their study, <em>Fusi et al.</em> explored the role of the <em>HvPIN1a</em> gene in regulating root development and vascular patterning in barley, linking its mutation to impaired auxin transport and reduced root growth. The findings offer insights into breeding drought-resistant cereal varieties with more efficient water and nutrient uptake. </a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/posts_omnia/focus_II/1/index.html" class="no-external">
+<div class="listing-date">
+Oct 12, 2024
+</div>
+<div class="listing-author">
+Mauro Maver
+</div>
+<div class="listing-reading-time">
+4 min
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<hr>
+</section>
 <section id="volume-i-22-july-2024" class="level3">
 <h3 class="anchored" data-anchor-id="volume-i-22-july-2024">Volume I – 22 July 2024</h3>
 <div class="columns">
@@ -295,7 +365,7 @@ window.Quarto = {
 <p><a href="posts/posts_omnia/omnia_cover_vol_I.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="posts/posts_omnia/omnia_cover_vol_I.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:83.0%"></a></p>
 </figure>
 </div>
-</div><hr><div id="listing-focus" class="quarto-listing quarto-listing-container-grid">
+</div><!-- ------------------------------------------------------------------------ --><div id="listing-focus1" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-date-sort="1720994400000" data-listing-file-modified-sort="1727254476997" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="718">
 <a href="./posts/posts_omnia/omnia_focus_XII/index.html" class="quarto-grid-link">
@@ -1247,8 +1317,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   <div class="nav-page nav-page-previous">
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./posts/posts_omnia/omnia_focus_I/index.html" class="pagination-link" aria-label="Floral synchrony: the role of *FLOWERING LOCUS T* in the leaf-specific vernalisation response in Arabidopsis">
-        <span class="nav-page-text">Floral synchrony: the role of <em>FLOWERING LOCUS T</em> in the leaf-specific vernalisation response in Arabidopsis</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./posts/posts_omnia/focus_II/1/index.html" class="pagination-link" aria-label="Identification of *HvPIN1a* as a key regulator of root development and vascular patterning in barley">
+        <span class="nav-page-text">Identification of <em>HvPIN1a</em> as a key regulator of root development and vascular patterning in barley</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1266,7 +1336,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","openEffect":"zoom","loop":false,"descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":false,"closeEffect":"zoom","descPosition":"bottom","selector":".lightbox"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {

@@ -3,11 +3,21 @@ title: "Omnia"
 subtitle: "An independent and multidisciplinary open-access journal, created by [**Mauro Maver**](https://www.mauromaver.eu)"
 #description: ""
 listing:
-  - id: focus
+  - id: focus1
     contents: posts/posts_omnia/*/index.qmd
     sort: "date desc"
     type: grid
     image-height: 300px
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    feed: true
+    fields: [image, date, title, subtitle, author, reading-time, description]
+  - id: focus2
+    contents: posts/posts_omnia/focus_II/*/index.qmd
+    sort: "date desc"
+    type: default
+    #image-height: 300px
     categories: false
     sort-ui: false
     filter-ui: false
@@ -22,6 +32,13 @@ sidebar: false
 ---
 
 ## Omnia *Focus*
+
+### Volume II
+
+::: {#focus2}
+:::
+
+---
 
 ### Volume I -- 22 July 2024
 
@@ -53,9 +70,9 @@ In this first Volume (July 2024), a collection of research highlights primarily 
 ![](posts/posts_omnia/omnia_cover_vol_I.png){.lightbox width="83%" fig-align="center"}
 :::
 
-------------------------------------------------------------------------
+<!-- ------------------------------------------------------------------------ -->
 
-::: {#focus}
+::: {#focus1}
 :::
 
 <!-- Mastodon verification -->

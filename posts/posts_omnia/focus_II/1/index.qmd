@@ -1,0 +1,84 @@
+---
+title: "Identification of *HvPIN1a* as a key regulator of root development and vascular patterning in barley"
+subtitle: "Omnia *Focus* - Volume 2-1"
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Independent effects of drought and cultivation systems on wheat: insights from the trait space concept"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 2
+  issue: 1
+  issued: 2024-10-12
+  #doi: "10.5281/zenodo.12732498"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-10-12"
+#doi: "10.5281/zenodo.12732498"
+keywords:
+  - Auxin efflux carrier
+  - Barley
+  - PIN1
+  - Root
+  - Vascular development
+abstract: |
+  In their study, *Fusi et al.* explored the role of the *HvPIN1a* gene in regulating root development and vascular patterning in barley, linking its mutation to impaired auxin transport and reduced root growth. The findings offer insights into breeding drought-resistant cereal varieties with more efficient water and nutrient uptake.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+#resources: 
+#  - Omnia_focus_XII.pdf
+order: 1
+---
+
+::: drop-cap
+One of the primary goals in plant breeding is to link specific genes to agronomically important traits in agriculture. Among the most significant agronomic traits of interest are those related to root architecture and growth. Roots not only serve as an anchoring system for the plant but also function as a complex and dynamic network that regulates the uptake of essential resources.
+:::
+
+Understanding the genes that control these processes could help in developing crop varieties with more efficient root systems. These improved roots would be better at absorbing water and minerals from the soil, which is important in agriculture, especially in areas affected by climate stress like drought.
+
+Barley (*Hordeum vulgare* L.), the fourth most widely cultivated cereal crop globally, is not only a vital resource for agriculture but also serves as a model for genetic studies. Its diploid nature, small number of chromosomes, and ease of crossing make it an ideal tool for exploring the molecular mechanisms underpinning plant development.[@schreiber2019highly] However, despite progress, barley's genes governing root architecture and anatomy remain unclear.
+
+In their study, *Fusi et al.*[@fusi2024auxin] focused on a specific barley mutant line with a distinctive short-root phenotype. They investigated the potential causes of this phenotype from anatomical, functional, and genetic perspectives. The authors found that the mutant had significantly reduced root growth compared to the wild type (WT), with compromised meristems and elongation zones. Morphological analyses revealed a drastic reduction in the number of cells in these areas, confirming a substantial alteration in root development. Additionally, longitudinal sections of the mutant roots showed significant anomalies in the vasculature, with vessel cells exhibiting increased diameter and more lignified cell walls compared to the WT.
+
+An initial study of the inheritance pattern was conducted to identify the gene or genes responsible for this short-root phenotype. The study revealed a Mendelian ratio of 3:1, suggesting that a single locus controls the short-root phenotype.
+
+Using SNP-based Bulk Segregant Analysis (BSA), the researchers were able to map this specific genetic location to chromosome 7. They identified a mutation in the gene *PIN1a*, which is responsible for encoding an auxin efflux carrier pump. This pump is located asymmetrically on cell membranes and responsible for the hormone auxin's polarized flow.[@adamowski2015pin] In brief, the mutation in *HvPIN1a* disrupts the proper distribution of auxin, affecting not only root length but also the organisation of vascular tissues.
+
+To further verify the importance of PIN1a-mediated auxin transport, the researchers applied NPA, an inhibitor of polar auxin transport, to WT plants. The application of NPA induced the same effects observed in the PIN1a mutants, replicating the short-root phenotype and related structural issues, thus confirming the crucial role of PIN1a in root development and vascular patterning.
+
+The experiment also explored whether these defects are conserved in other cereal species. Studies on Brachypodium, a model for cereals and related to barley, revealed an orthologous function of *PIN1a* in controlling root development and vascular patterning[@o2014division; @o2017cross]. However, the roots of Brachypodium mutants were not as severely affected as those of barley, indicating functional variability between species while maintaining an evolutionarily similar role in cereals.
+
+In conclusion, the study by *Fusi et al.* represents a significant step forward in plant breeding. It highlights the importance of the *HvPIN1a* gene in root development and vascular patterning in barley and other cereals. Demonstrating the pivotal role of PIN1a in regulating these processes opens up new possibilities for selecting varieties that are more drought-resistant and capable of optimising water resources, making them more resilient to abiotic stress.[@comas2013root]
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Fusi, R., Milner, S.G., Rosignoli, S., Bovina, R., De Jesus Vieira Teixeira, C., Lou, H., Atkinson, B.S., Borkar, A.N., York, L.M., Jones, D.H., Sturrock, C.J., Stein, N., Mascher, M., Tuberosa, R., O'Connor, D., Bennett, M.J., Bishopp, A., Salvi, S. & Bhosale, R. (2024). The auxin efflux carrier PIN1a regulates vascular patterning in cereal roots. *New Phytologist*, **244**: 104-115. [doi.org/10.1111/nph.197771](https://doi.org/10.1111/nph.19777)
+
+**List of abbreviations**
+
+**NPA**, N-1-naphthylphthalamic acid **•** **WT**, wild-type **•** **SNP**, single-nucleotide polymorphism **•** **BSA**, bulk segregant analysis
+:::
