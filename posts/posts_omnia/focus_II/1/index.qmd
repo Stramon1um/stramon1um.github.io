@@ -25,12 +25,12 @@ citation:
   volume: 2
   issue: 1
   issued: 2024-10-12
-  #doi: "10.5281/zenodo.12732498"
+  doi: "10.5281/zenodo.14007903"
   #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
 #appendix-cite-as: display
 google-scholar: true
 date: "2024-10-12"
-#doi: "10.5281/zenodo.12732498"
+doi: "10.5281/zenodo.14007903"
 keywords:
   - Auxin efflux carrier
   - Barley
@@ -46,8 +46,8 @@ copyright:
 image: "image.jpg"
 bibliography: reference.bib
 csl: "nature-reviews-molecular-cell-biology.csl"
-#resources: 
-#  - Omnia_focus_XII.pdf
+resources: 
+  - Omnia_focus_2_I.pdf
 order: 1
 ---
 
@@ -67,11 +67,21 @@ Using SNP-based Bulk Segregant Analysis (BSA), the researchers were able to map 
 
 To further verify the importance of PIN1a-mediated auxin transport, the researchers applied NPA, an inhibitor of polar auxin transport, to WT plants. The application of NPA induced the same effects observed in the PIN1a mutants, replicating the short-root phenotype and related structural issues, thus confirming the crucial role of PIN1a in root development and vascular patterning.
 
-The experiment also explored whether these defects are conserved in other cereal species. Studies on Brachypodium, a model for cereals and related to barley, revealed an orthologous function of *PIN1a* in controlling root development and vascular patterning[@o2014division; @o2017cross]. However, the roots of Brachypodium mutants were not as severely affected as those of barley, indicating functional variability between species while maintaining an evolutionarily similar role in cereals.
+The experiment also explored whether these defects are conserved in other cereal species. Studies on *Brachypodium*, a model for cereals and related to barley, revealed an orthologous function of *PIN1a* in controlling root development and vascular patterning[@o2014division; @o2017cross]. However, the roots of *Brachypodium* mutants were not as severely affected as those of barley, indicating functional variability between species while maintaining an evolutionarily similar role in cereals.
 
 In conclusion, the study by *Fusi et al.* represents a significant step forward in plant breeding. It highlights the importance of the *HvPIN1a* gene in root development and vascular patterning in barley and other cereals. Demonstrating the pivotal role of PIN1a in regulating these processes opens up new possibilities for selecting varieties that are more drought-resistant and capable of optimising water resources, making them more resilient to abiotic stress.[@comas2013root]
 
 ------------------------------------------------------------------------
+
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_2_I.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_2_I.pdf "Here you can download the PDF version") 👈
+:::
 
 ::: {.callout-note appearance="minimal"}
 **Original article**

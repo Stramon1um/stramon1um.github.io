@@ -30,9 +30,16 @@
 <p>An initial study of the inheritance pattern was conducted to identify the gene or genes responsible for this short-root phenotype. The study revealed a Mendelian ratio of 3:1, suggesting that a single locus controls the short-root phenotype.</p>
 <p>Using SNP-based Bulk Segregant Analysis (BSA), the researchers were able to map this specific genetic location to chromosome 7. They identified a mutation in the gene <em>PIN1a</em>, which is responsible for encoding an auxin efflux carrier pump. This pump is located asymmetrically on cell membranes and responsible for the hormone auxin’s polarized flow.<span class="citation" data-cites="adamowski2015pin"><sup>3</sup></span> In brief, the mutation in <em>HvPIN1a</em> disrupts the proper distribution of auxin, affecting not only root length but also the organisation of vascular tissues.</p>
 <p>To further verify the importance of PIN1a-mediated auxin transport, the researchers applied NPA, an inhibitor of polar auxin transport, to WT plants. The application of NPA induced the same effects observed in the PIN1a mutants, replicating the short-root phenotype and related structural issues, thus confirming the crucial role of PIN1a in root development and vascular patterning.</p>
-<p>The experiment also explored whether these defects are conserved in other cereal species. Studies on Brachypodium, a model for cereals and related to barley, revealed an orthologous function of <em>PIN1a</em> in controlling root development and vascular patterning<span class="citation" data-cites="o2014division o2017cross"><sup>4,5</sup></span>. However, the roots of Brachypodium mutants were not as severely affected as those of barley, indicating functional variability between species while maintaining an evolutionarily similar role in cereals.</p>
+<p>The experiment also explored whether these defects are conserved in other cereal species. Studies on <em>Brachypodium</em>, a model for cereals and related to barley, revealed an orthologous function of <em>PIN1a</em> in controlling root development and vascular patterning<span class="citation" data-cites="o2014division o2017cross"><sup>4,5</sup></span>. However, the roots of <em>Brachypodium</em> mutants were not as severely affected as those of barley, indicating functional variability between species while maintaining an evolutionarily similar role in cereals.</p>
 <p>In conclusion, the study by <em>Fusi et al.</em> represents a significant step forward in plant breeding. It highlights the importance of the <em>HvPIN1a</em> gene in root development and vascular patterning in barley and other cereals. Demonstrating the pivotal role of PIN1a in regulating these processes opens up new possibilities for selecting varieties that are more drought-resistant and capable of optimising water resources, making them more resilient to abiotic stress.<span class="citation" data-cites="comas2013root"><sup>6</sup></span></p>
 <hr>
+<div style="text-align: center">
+<iframe width="600" height="450" src="Omnia_focus_2_I.pdf">
+</iframe>
+</div>
+<div class="PDF">
+<p>👉 <a href="Omnia_focus_2_I.pdf" title="Here you can download the PDF version">Click here for the PDF</a> 👈</p>
+</div>
 <div class="callout callout-style-simple callout-note no-icon">
 <div class="callout-body d-flex">
 <div class="callout-icon-container">
@@ -78,6 +85,7 @@
   number = {1},
   date = {2024-10-12},
   url = {https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/},
+  doi = {10.5281/zenodo.14007903},
   langid = {en},
   abstract = {In their study, *Fusi et al.* explored the role of the
     *HvPIN1a* gene in regulating root development and vascular
@@ -89,7 +97,7 @@
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
 <div class="">Maver, M. Independent effects of drought and
 cultivation systems on wheat: insights from the trait space concept.
-<em>Omnia Focus</em> vol. 2 Preprint at <a href="https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/">https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/</a>
+<em>Omnia Focus</em> vol. 2 Preprint at <a href="https://doi.org/10.5281/zenodo.14007903">https://doi.org/10.5281/zenodo.14007903</a>
 (2024).</div>
 </div></div></section></div> ]]></description>
   <guid>https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/</guid>
