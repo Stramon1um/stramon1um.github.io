@@ -1,0 +1,90 @@
+---
+title: "Unveiling the ethylene-inhibiting mechanism of the allelochemical Myrigalone A"
+subtitle: "Omnia *Focus* - Volume 2-2"
+title-block-banner: "#007373"
+author:
+  - name: Mauro Maver
+    id: mm
+    orcid: 0000-0002-8162-3618
+    email: mauromaver@gmail.com
+    url: https://www.mauromaver.eu
+    corresponding: true
+    degrees: PhD
+    roles: [writing, editing]
+    # affiliation: 
+    #    - name: Brown University
+    #      city: Providence
+    #      state: RI
+    #      url: www.brown.edu
+citation:
+  type: article
+  title: "Unveiling the ethylene-inhibiting mechanism of the allelochemical Myrigalone A"
+  container-title: "Omnia Focus"
+  publisher: "Omnia"
+  publisher-location: "Italy"
+  volume: 2
+  issue: 2
+  issued: 2024-10-12
+  doi: "10.5281/zenodo.14010143"
+  #url: https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/
+#appendix-cite-as: display
+google-scholar: true
+date: "2024-10-30"
+doi: "10.5281/zenodo.14010143"
+keywords:
+  - Myrigalone A
+  - ACC oxidase
+  - Allelochemical
+  - Ethylene synthesis inhibitors
+  - Dictyostelium discoideum
+abstract: |
+  This study by *Heslop-Harrison et al.* investigates the allelochemical Myrigalone A and its potential as an ACC oxidase inhibitor, which disrupts ethylene biosynthesis and affects seed germination and plant development. The findings highlight MyA's promise for agricultural applications, including weed control and stress resilience, with broader implications for sustainable farming practices.
+copyright:
+  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+# license: "CC BY-NC-SA 4.0"
+#categories: [xxx, yyy, zzz]
+image: "image.jpg"
+bibliography: reference.bib
+csl: "nature-reviews-molecular-cell-biology.csl"
+resources: 
+  - Omnia_focus_2_II.pdf
+order: 2
+---
+
+::: drop-cap
+New tools to control plant growth and development could become one of the most important priorities in agricultural and horticultural innovation. Among the most promising solutions are allelochemicals, secondary metabolites derived from plants that can exert phytotoxic effects on neighbouring plants. Although these compounds have long been known for their wide range of effects, roles, and phenotypes on target plants, pinpointing their specific mechanisms of action has always been challenging.[@dayan2020discovery] Gaining a deeper insight into these mechanisms could unveil significant opportunities for agriculture, such as utilizing them as new, safer, and eco-friendly bioherbicides or as plant growth and development regulators.
+:::
+
+One notable allelochemical is Myrigalone A (MyA), a C-methylated flavonoid present in the exudates of the leaves and fruits of *Myrica gale*, a shrub indigenous to Europe and North America.[@skene2000biological] Research has demonstrated that MyA inhibits seed germination and shoot growth in various plant species.[@popovici2011allelochemical; @oracz2012myrigalone] However, the specific mechanism by which MyA exerts its phytotoxic effects remains largely unclear. To address this, *Heslop-Harrison et al.*[@heslop2024functional] utilized an unbiased genome-wide chemical genetic screen with the model organism *Dictyostelium discoideum* to identify and examine the molecular mechanism of MyA.
+
+*D.discoideum* is a unicellular amoeba that shares orthologous proteins and metabolic pathways with both plants and animals, serving as a key model for investigating the molecular mechanisms of bioactive compounds in plants.[@eichinger2005genome] Essentially, researchers can screen mutant libraries of *D.discoideum* to identify the specific protein affected by a bioactive compound or allelochemical. This identification is done by observing partial resistance to the compound's inhibitory effects on cellular proliferation.
+
+Through this approach, the team identified a potential target of MyA: the enzyme ACC oxidase (ACO), which catalyses the final step in the biosynthesis of ethylene, a crucial hormone involved in regulating seed germination, plant growth, and senescence. MyA’s inhibition of ACO slows cellular proliferation and development in *D.discoideum*, an effect further validated by the application of known ACO inhibitors such as 2-aminoisobutyric acid (AIB) and pyrazine-2-carboxylic acid (POA).[@sun2017pyrazinamide] Interestingly, the application of exogenous ethylene only partially reversed these inhibitory effects, and Aco- mutant lines exhibited the same phenotype as wild-type (WT) lines treated with MyA. These findings strengthen the hypothesis that MyA inhibits ethylene production, disrupting the delicate balance governing seed germination and development processes. In *Arabidopsis thaliana*, MyA's inhibitory effect on seed germination, root growth, and hypocotyl elongation was mirrored by the application of the ethylene biosynthesis inhibitors AIB and POA, further confirming MyA’s role as an ACO inhibitor in plants.
+
+A key highlight of this study was the observation, through docking analysis, of a direct binding interaction between MyA and ACO in both *D.discoideum* and plants. This subsequently led to the *in silico* identification and characterisation of new compounds capable of inhibiting ACO more effectively than traditional inhibitors, paving the way for developing novel molecules to regulate ethylene-based processes.
+
+Despite the compelling evidence presented in this study, *Heslop-Harrison et al.* do not rule out the possibility that MyA may also act through additional, as yet unidentified, mechanisms. Specifically, MyA’s secondary effects on other metabolic pathways or plant functions cannot be excluded.
+
+In summary, this novel class of ACO inhibitors shows great promise for agricultural uses, not only in weed management but also in enhancing plant resilience to abiotic stresses like drought and heat. Additionally, they might help increase the shelf life of fruits and vegetables, expand the applications of MyA and its derivatives, and offer new tools for developing more sustainable and innovative agronomic approaches.
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center"}
+<iframe width="600" height="450" src="Omnia_focus_2_II.pdf">
+
+</iframe>
+:::
+
+::: PDF
+👉 [Click here for the PDF](Omnia_focus_2_II.pdf "Here you can download the PDF version") 👈
+:::
+
+::: {.callout-note appearance="minimal"}
+**Original article**
+
+Heslop-Harrison G., Nakabayashi K., Espinosa-Ruiz A., Robertson F., Baines R., Thompson C.R.L., Hermann K., Alabadì D., Leubner-Metzger G. & Williams R.S.B. (2024). Functional mechanism study of the allelochemical myrigalone a identifies a group of ultrapotent inhibitors of ethylene biosynthesis in plants. *Plant Communications*, **5**: 100846. [10.1016/j.xplc.2024.100846](https://doi.org/10.1016/j.xplc.2024.100846)
+
+**List of abbreviations**
+
+**MyA**, Myrigalone A **•** **ACO**, enzyme ACC oxidase **•** **AIB**, 2-aminoisobutyric acid **•** **POA**, pyrazine-2-carboxylic acid **•** **WT**, wild-type
+:::

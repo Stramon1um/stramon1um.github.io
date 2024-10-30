@@ -18,7 +18,7 @@ author:
     #      url: www.brown.edu
 citation:
   type: article
-  title: "Independent effects of drought and cultivation systems on wheat: insights from the trait space concept"
+  title: "Identification of *HvPIN1a* as a key regulator of root development and vascular patterning in barley"
   container-title: "Omnia Focus"
   publisher: "Omnia"
   publisher-location: "Italy"

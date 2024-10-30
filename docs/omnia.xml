@@ -10,7 +10,102 @@
 <atom:link href="https://www.mauromaver.eu/omnia.xml" rel="self" type="application/rss+xml"/>
 <description>Portfolio</description>
 <generator>quarto-1.5.52</generator>
-<lastBuildDate>Fri, 11 Oct 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Oct 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Unveiling the ethylene-inhibiting mechanism of the allelochemical Myrigalone A</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/posts_omnia/focus_II/2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="drop-cap">
+<p>New tools to control plant growth and development could become one of the most important priorities in agricultural and horticultural innovation. Among the most promising solutions are allelochemicals, secondary metabolites derived from plants that can exert phytotoxic effects on neighbouring plants. Although these compounds have long been known for their wide range of effects, roles, and phenotypes on target plants, pinpointing their specific mechanisms of action has always been challenging.<span class="citation" data-cites="dayan2020discovery"><sup>1</sup></span> Gaining a deeper insight into these mechanisms could unveil significant opportunities for agriculture, such as utilizing them as new, safer, and eco-friendly bioherbicides or as plant growth and development regulators.</p>
+</div>
+<p>One notable allelochemical is Myrigalone A (MyA), a C-methylated flavonoid present in the exudates of the leaves and fruits of <em>Myrica gale</em>, a shrub indigenous to Europe and North America.<span class="citation" data-cites="skene2000biological"><sup>2</sup></span> Research has demonstrated that MyA inhibits seed germination and shoot growth in various plant species.<span class="citation" data-cites="popovici2011allelochemical oracz2012myrigalone"><sup>3,4</sup></span> However, the specific mechanism by which MyA exerts its phytotoxic effects remains largely unclear. To address this, <em>Heslop-Harrison et al.</em><span class="citation" data-cites="heslop2024functional"><sup>5</sup></span> utilized an unbiased genome-wide chemical genetic screen with the model organism <em>Dictyostelium discoideum</em> to identify and examine the molecular mechanism of MyA.</p>
+<p><em>D.discoideum</em> is a unicellular amoeba that shares orthologous proteins and metabolic pathways with both plants and animals, serving as a key model for investigating the molecular mechanisms of bioactive compounds in plants.<span class="citation" data-cites="eichinger2005genome"><sup>6</sup></span> Essentially, researchers can screen mutant libraries of <em>D.discoideum</em> to identify the specific protein affected by a bioactive compound or allelochemical. This identification is done by observing partial resistance to the compound’s inhibitory effects on cellular proliferation.</p>
+<p>Through this approach, the team identified a potential target of MyA: the enzyme ACC oxidase (ACO), which catalyses the final step in the biosynthesis of ethylene, a crucial hormone involved in regulating seed germination, plant growth, and senescence. MyA’s inhibition of ACO slows cellular proliferation and development in <em>D.discoideum</em>, an effect further validated by the application of known ACO inhibitors such as 2-aminoisobutyric acid (AIB) and pyrazine-2-carboxylic acid (POA).<span class="citation" data-cites="sun2017pyrazinamide"><sup>7</sup></span> Interestingly, the application of exogenous ethylene only partially reversed these inhibitory effects, and Aco- mutant lines exhibited the same phenotype as wild-type (WT) lines treated with MyA. These findings strengthen the hypothesis that MyA inhibits ethylene production, disrupting the delicate balance governing seed germination and development processes. In <em>Arabidopsis thaliana</em>, MyA’s inhibitory effect on seed germination, root growth, and hypocotyl elongation was mirrored by the application of the ethylene biosynthesis inhibitors AIB and POA, further confirming MyA’s role as an ACO inhibitor in plants.</p>
+<p>A key highlight of this study was the observation, through docking analysis, of a direct binding interaction between MyA and ACO in both <em>D.discoideum</em> and plants. This subsequently led to the <em>in silico</em> identification and characterisation of new compounds capable of inhibiting ACO more effectively than traditional inhibitors, paving the way for developing novel molecules to regulate ethylene-based processes.</p>
+<p>Despite the compelling evidence presented in this study, <em>Heslop-Harrison et al.</em> do not rule out the possibility that MyA may also act through additional, as yet unidentified, mechanisms. Specifically, MyA’s secondary effects on other metabolic pathways or plant functions cannot be excluded.</p>
+<p>In summary, this novel class of ACO inhibitors shows great promise for agricultural uses, not only in weed management but also in enhancing plant resilience to abiotic stresses like drought and heat. Additionally, they might help increase the shelf life of fruits and vegetables, expand the applications of MyA and its derivatives, and offer new tools for developing more sustainable and innovative agronomic approaches.</p>
+<hr>
+<div style="text-align: center">
+<iframe width="600" height="450" src="Omnia_focus_2_II.pdf">
+</iframe>
+</div>
+<div class="PDF">
+<p>👉 <a href="Omnia_focus_2_II.pdf" title="Here you can download the PDF version">Click here for the PDF</a> 👈</p>
+</div>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Heslop-Harrison G., Nakabayashi K., Espinosa-Ruiz A., Robertson F., Baines R., Thompson C.R.L., Hermann K., Alabadì D., Leubner-Metzger G. &amp; Williams R.S.B. (2024). Functional mechanism study of the allelochemical myrigalone a identifies a group of ultrapotent inhibitors of ethylene biosynthesis in plants. <em>Plant Communications</em>, <strong>5</strong>: 100846. <a href="https://doi.org/10.1016/j.xplc.2024.100846">10.1016/j.xplc.2024.100846</a></p>
+<p><strong>List of abbreviations</strong></p>
+<p><strong>MyA</strong>, Myrigalone A <strong>•</strong> <strong>ACO</strong>, enzyme ACC oxidase <strong>•</strong> <strong>AIB</strong>, 2-aminoisobutyric acid <strong>•</strong> <strong>POA</strong>, pyrazine-2-carboxylic acid <strong>•</strong> <strong>WT</strong>, wild-type</p>
+</div>
+</div>
+</div>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-dayan2020discovery" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Dayan, F. E. &amp; Duke, S. O. Discovery for new herbicide sites of action by quantification of plant primary metabolite and enzyme pools. <em>Engineering</em> <strong>6</strong>, 509–514 (2020).</div>
+</div>
+<div id="ref-skene2000biological" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Skene, K. R., Sprent, J. I., Raven, J. A. &amp; Herdman, L. BIOLOGICAL FLORA OF THE BRITISH ISLES* NO. 215List br. Vasc. Pl.(1958) 333.1 myrica gale l. <em>Journal of Ecology</em> <strong>88</strong>, (2000).</div>
+</div>
+<div id="ref-popovici2011allelochemical" class="csl-entry">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Popovici, J. <em>et al.</em> An allelochemical from myrica gale with strong phytotoxic activity against highly invasive fallopia x bohemica taxa. <em>Molecules</em> <strong>16</strong>, 2323–2333 (2011).</div>
+</div>
+<div id="ref-oracz2012myrigalone" class="csl-entry">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Oracz, K. <em>et al.</em> Myrigalone a inhibits lepidium sativum seed germination by interference with gibberellin metabolism and apoplastic superoxide production required for embryo extension growth and endosperm rupture. <em>Plant and Cell Physiology</em> <strong>53</strong>, 81–95 (2012).</div>
+</div>
+<div id="ref-heslop2024functional" class="csl-entry">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Heslop-Harrison, G. <em>et al.</em> Functional mechanism study of the allelochemical myrigalone a identifies a group of ultrapotent inhibitors of ethylene biosynthesis in plants. <em>Plant Communications</em> <strong>5</strong>, 100846 (2024).</div>
+</div>
+<div id="ref-eichinger2005genome" class="csl-entry">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Eichinger, L. <em>et al.</em> The genome of the social amoeba dictyostelium discoideum. <em>Nature</em> <strong>435</strong>, 43–57 (2005).</div>
+</div>
+<div id="ref-sun2017pyrazinamide" class="csl-entry">
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Sun, X. <em>et al.</em> Pyrazinamide and derivatives block ethylene biosynthesis by inhibiting ACC oxidase. <em>Nature communications</em> <strong>8</strong>, 15758 (2017).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {Unveiling the Ethylene-Inhibiting Mechanism of the
+    Allelochemical {Myrigalone} {A}},
+  volume = {2},
+  number = {2},
+  date = {2024-10-12},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/focus_II/2/},
+  doi = {10.5281/zenodo.14010143},
+  langid = {en},
+  abstract = {This study by *Heslop-Harrison et al.* investigates the
+    allelochemical Myrigalone A and its potential as an ACC oxidase
+    inhibitor, which disrupts ethylene biosynthesis and affects seed
+    germination and plant development. The findings highlight MyA’s
+    promise for agricultural applications, including weed control and
+    stress resilience, with broader implications for sustainable farming
+    practices.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+<div class="">Maver, M. Unveiling the ethylene-inhibiting
+mechanism of the allelochemical Myrigalone A. <em>Omnia Focus</em> vol.
+2 Preprint at <a href="https://doi.org/10.5281/zenodo.14010143">https://doi.org/10.5281/zenodo.14010143</a>
+(2024).</div>
+</div></div></section></div> ]]></description>
+  <guid>https://www.mauromaver.eu/posts/posts_omnia/focus_II/2/</guid>
+  <pubDate>Tue, 29 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/posts_omnia/focus_II/2/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Identification of HvPIN1a as a key regulator of root development and vascular patterning in barley</title>
   <dc:creator>Mauro Maver</dc:creator>
@@ -79,8 +174,8 @@
 </div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
   author = {Maver, Mauro},
   publisher = {Omnia},
-  title = {Independent Effects of Drought and Cultivation Systems on
-    Wheat: Insights from the Trait Space Concept},
+  title = {Identification of {*HvPIN1a*} as a Key Regulator of Root
+    Development and Vascular Patterning in Barley},
   volume = {2},
   number = {1},
   date = {2024-10-12},
@@ -95,8 +190,8 @@
     water and nutrient uptake.}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
-<div class="">Maver, M. Independent effects of drought and
-cultivation systems on wheat: insights from the trait space concept.
+<div class="">Maver, M. Identification of *HvPIN1a* as a key
+regulator of root development and vascular patterning in barley.
 <em>Omnia Focus</em> vol. 2 Preprint at <a href="https://doi.org/10.5281/zenodo.14007903">https://doi.org/10.5281/zenodo.14007903</a>
 (2024).</div>
 </div></div></section></div> ]]></description>
