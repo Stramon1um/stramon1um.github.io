@@ -10,7 +10,103 @@
 <atom:link href="https://www.mauromaver.eu/omnia.xml" rel="self" type="application/rss+xml"/>
 <description>Portfolio</description>
 <generator>quarto-1.5.52</generator>
-<lastBuildDate>Tue, 29 Oct 2024 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 13 Nov 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Auxin-mediated xylem modifications in tomato mutant dgt improve drought resistance and hydraulic recovery</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/posts_omnia/focus_II/3/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="drop-cap">
+<p>Water transport from roots to leaves is essential for plant survival and function, especially in terrestrial environments where water is scarce. In drought or extreme water stress, a plant’s hydraulic system experiences high negative pressures from intense leaf transpiration, resulting in embolisms forming within xylem vessels. Thus, the plant’s capacity to withstand this process is crucial, as the formation of embolisms significantly disrupts water transport and can be fatal for the plant.</p>
+</div>
+<p>Embolism resistance in species is often evaluated through the P<sub>50</sub> parameter, which indicates the water potential at which 50% of xylem conduits become obstructed by embolisms. Research has demonstrated that a lower P<sub>50</sub>, indicating greater resistance to embolism formation, is usually associated with particular structural and anatomical traits in plants, such as smaller or narrower xylem conduits.<span class="citation" data-cites="hacke2006scaling"><sup>1</sup></span> However, most studies have focused on trees and shrubs due to the organs’ fragility. Advancements in non-destructive imaging techniques now make it possible to investigate herbaceous species, revealing that, for instance, tomato plants tend to be more vulnerable to embolism formation during drought conditions.</p>
+<p>In this context, <em>Andrade et al.</em><span class="citation" data-cites="andrade2024enhanced"><sup>2</sup></span> explored how specific mutations, like that in the tomato (<em>Solanum lycopersicum</em> L.) mutant <em>diageotropica</em> (<em>dgt</em>), affect xylem structure and drought resistance. This mutant is characterized by a loss of function in the CYCLOPHILIN 1, which is crucial for the proteasomal degradation of auxin response transcriptional repressors (AUX/IAA family) and perception.<span class="citation" data-cites="oh2006diageotropica jing2015peptidyl"><sup>3,4</sup></span> Additionally, recent research shows that the <em>dgt</em> mutant features narrower xylem vessels compared to its wild-type (WT) equivalent.<span class="citation" data-cites="andrade2022impaired"><sup>5</sup></span> This characteristic allows for investigating whether auxin-induced structural alterations in the xylem could improve resistance to embolism formation.</p>
+<p>The analysis of the xylem structure in the <em>dgt</em> mutant revealed a marked decrease in xylem vessel diameter in both leaves and stems. This reduction is likely attributed to a disruption in auxin’s regulatory role in cellular growth during the initial stages of xylem development. In addition, the (<em>t / b</em>)² parameter was notably higher in dgt than in WT. This structural parameter, which combines cell wall thickness (<em>t</em>) with the conduit lumen (<em>b</em>) of water-transporting xylem cells, is often linked to increased embolism resistance across different plant species and environmental conditions.<span class="citation" data-cites="hacke2001trends blackman2010leaf cardoso2018coordinated"><sup>6–8</sup></span> These findings reinforce the hypothesis, affirmed by research in other species, that auxin-mediated xylem anatomy closely relates to improved hydraulic resistance during extreme water stress.</p>
+<p>Furthermore, <em>dgt</em> showed a remarkable ability to recover from hydraulic dysfunction caused by water stress, exhibiting significantly shorter recovery times compared to WT. This can be explained by <em>dgt</em>’s efficiency in restoring normal xylem water flow, which requires lower pressure due to its narrower xylem vessels. In addition, dgt effectively delays dehydration and the onset of critical hydraulic conditions, supported by morpho-physiological traits like reduced leaf area and lower stomatal conductance.</p>
+<p>In summary, the research conducted by <em>Andrade et al.</em> indicates that the <em>diageotropica</em> tomato mutant represents a promising model for exploring the effects of hormonal variations on vascular structure and responses to drought adaptation. Its characteristics, including narrower xylem vessels, enhanced embolism resistance, and decreased water loss, make <em>dgt</em> a valuable candidate for further studies targeting the development of crops that can better withstand water stress.</p>
+<hr>
+<div style="text-align: center">
+<iframe width="600" height="450" src="Omnia_focus_2_III.pdf">
+</iframe>
+</div>
+<div class="PDF">
+<p>👉 <a href="Omnia_focus_2_III.pdf" title="Here you can download the PDF version">Click here for the PDF</a> 👈</p>
+</div>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Original article</strong></p>
+<p>Andrade, M.T., Cardoso, A.A., Oliveira, L.A., Pereira, T.S., Haverroth, E.J., Souza, G.A., DaMatta F.M, Zsögön A. &amp; Martins S.C.V. (2024) Enhanced drought resistance in tomato via reduced auxin sensitivity: delayed dehydration and improved leaf resistance to embolism. <em>Physiologia Plantarum</em>, <strong>176</strong>: e14408. <a href="https://doi.org/10.1111/ppl.14408">10.1111/ppl.14408</a></p>
+<p><strong>List of abbreviations</strong></p>
+<p><strong><em>dgt</em></strong>, <em>diageotropica</em> <strong>•</strong> <strong>WT</strong>, wild-type</p>
+</div>
+</div>
+</div>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-hacke2006scaling" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Hacke, U. G., Sperry, J. S., Wheeler, J. K. &amp; Castro, L. Scaling of angiosperm xylem structure with safety and efficiency. <em>Tree physiology</em> <strong>26</strong>, 689–701 (2006).</div>
+</div>
+<div id="ref-andrade2024enhanced" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Andrade, M. T. <em>et al.</em> Enhanced drought resistance in tomato via reduced auxin sensitivity: Delayed dehydration and improved leaf resistance to embolism. <em>Physiologia Plantarum</em> <strong>176</strong>, e14408 (2024).</div>
+</div>
+<div id="ref-oh2006diageotropica" class="csl-entry">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Oh, K., Ivanchenko, M. G., White, T. &amp; Lomax, T. L. The diageotropica gene of tomato encodes a cyclophilin: A novel player in auxin signaling. <em>Planta</em> <strong>224</strong>, 133–144 (2006).</div>
+</div>
+<div id="ref-jing2015peptidyl" class="csl-entry">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Jing, H. <em>et al.</em> Peptidyl-prolyl isomerization targets rice aux/IAAs for proteasomal degradation during auxin signalling. <em>Nature Communications</em> <strong>6</strong>, 7395 (2015).</div>
+</div>
+<div id="ref-andrade2022impaired" class="csl-entry">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Andrade, M. T. <em>et al.</em> Impaired auxin signaling increases vein and stomatal density but reduces hydraulic efficiency and ultimately net photosynthesis. <em>Journal of Experimental Botany</em> <strong>73</strong>, 4147–4156 (2022).</div>
+</div>
+<div id="ref-hacke2001trends" class="csl-entry">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Hacke, U. G., Sperry, J. S., Pockman, W. T., Davis, S. D. &amp; McCulloh, K. A. Trends in wood density and structure are linked to prevention of xylem implosion by negative pressure. <em>Oecologia</em> <strong>126</strong>, 457–461 (2001).</div>
+</div>
+<div id="ref-blackman2010leaf" class="csl-entry">
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Blackman, C. J., Brodribb, T. J. &amp; Jordan, G. J. Leaf hydraulic vulnerability is related to conduit dimensions and drought resistance across a diverse range of woody angiosperms. <em>New Phytologist</em> <strong>188</strong>, 1113–1123 (2010).</div>
+</div>
+<div id="ref-cardoso2018coordinated" class="csl-entry">
+<div class="csl-left-margin">8. </div><div class="csl-right-inline">Cardoso, A. A., Brodribb, T. J., Lucani, C. J., DaMatta, F. M. &amp; McAdam, S. A. Coordinated plasticity maintains hydraulic safety in sunflower leaves. <em>Plant, Cell &amp; Environment</em> <strong>41</strong>, 2567–2576 (2018).</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
+  author = {Maver, Mauro},
+  publisher = {Omnia},
+  title = {Auxin-Mediated Xylem Modifications in Tomato Mutant *Dgt*
+    Improve Drought Resistance and Hydraulic Recovery},
+  volume = {2},
+  number = {3},
+  date = {2024-11-14},
+  url = {https://www.mauromaver.eu/posts/posts_omnia/focus_II/3/},
+  doi = {10.5281/zenodo.14131878},
+  langid = {en},
+  abstract = {This research by *Andrade et al.* examines the tomato
+    mutant *diageotropica* (*dgt*) and uncovers how auxin-induced
+    structural alterations in its xylem boost resistance to embolism and
+    enhance recovery from water stress. These results emphasize *dgt*’s
+    promise as a model for cultivating crops with improved drought
+    resilience.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2024" class="csl-entry quarto-appendix-citeas">
+<div class="">Maver, M. Auxin-mediated xylem modifications in
+tomato mutant *dgt* improve drought resistance and hydraulic recovery.
+<em>Omnia Focus</em> vol. 2 Preprint at <a href="https://doi.org/10.5281/zenodo.14131878">https://doi.org/10.5281/zenodo.14131878</a>
+(2024).</div>
+</div></div></section></div> ]]></description>
+  <guid>https://www.mauromaver.eu/posts/posts_omnia/focus_II/3/</guid>
+  <pubDate>Wed, 13 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/posts_omnia/focus_II/3/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Unveiling the ethylene-inhibiting mechanism of the allelochemical Myrigalone A</title>
   <dc:creator>Mauro Maver</dc:creator>
