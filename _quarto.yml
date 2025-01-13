@@ -91,7 +91,7 @@ website:
   page-footer:
     background: white
     foreground: black
-    left: "© 2024 Mauro Maver. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+    left: "© 2025 Mauro Maver. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
     
 format:
   html:
