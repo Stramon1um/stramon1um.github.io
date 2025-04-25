@@ -9,6 +9,10 @@ page-layout: full
 ::: {.column width=45%}
 
 ::: {.style style="font-size:16px;text-align:justify"}
+## 2025
+
+-   **Electronic Nanomaterials for Plants: A Review on Current Advances and Future Prospects.** Allarà C, Ciccone G, Ciocca M, Vasquez S, Ibba P, *Maver M*, Mimmo T, Lugli P & Petti L. 2025. *Advanced Electronic Materials*. [DOI](https://doi.org/10.1002/aelm.202500080)
+
 
 ## 2024
 
