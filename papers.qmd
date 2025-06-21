@@ -23,7 +23,7 @@ Lugli P, Petti L, Athanassiou A & Merino D. 2025. *Advanced Electronic Materials
 
 ## 2023
 
--   **A novel automatic method for primary roots length measurements in Arabidopsis thaliana.** Allarà C, Ciocca M, *Maver M*, Mimmo T & Petti L. 2023. *IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)*. [DOI](https://doi.org/10.1109/MetroAgriFor58484.2023.10424201)
+-   **A novel automatic method for primary roots length measurements in *Arabidopsis thaliana*.** Allarà C, Ciocca M, *Maver M*, Mimmo T & Petti L. 2023. *IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)*. [DOI](https://doi.org/10.1109/MetroAgriFor58484.2023.10424201)
 
 ## 2022
 
