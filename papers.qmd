@@ -11,7 +11,10 @@ page-layout: full
 ::: {.style style="font-size:16px;text-align:justify"}
 ## 2025
 
--   **Electronic Nanomaterials for Plants: A Review on Current Advances and Future Prospects.** Allarà C, Ciccone G, Ciocca M, Vasquez S, Ibba P, *Maver M*, Mimmo T, Lugli P & Petti L. 2025. *Advanced Electronic Materials*. [DOI](https://doi.org/10.1002/aelm.202500080)
+-   **Harnessing algal biomass: superabsorbent and biostimulant hydrogels for seed germination in soilless cultivation** Febo C, Ciocca M, *Maver M*, Mimmo T, Bouaicha O, Borruso L,
+Lugli P, Petti L, Athanassiou A & Merino D. 2025. *Advanced Electronic Materials*. [DOI](https://doi.org/10.1021/acsagscitech.4c00723)
+
+-   **Electronic nanomaterials for plants: a review on current advances and future prospects.** Allarà C, Ciccone G, Ciocca M, Vasquez S, Ibba P, *Maver M*, Mimmo T, Lugli P & Petti L. 2025. *Advanced Electronic Materials*. [DOI](https://doi.org/10.1002/aelm.202500080)
 
 
 ## 2024
@@ -20,7 +23,7 @@ page-layout: full
 
 ## 2023
 
--   **A Novel Automatic Method for Primary Roots Length Measurements in Arabidopsis thaliana.** Allarà C, Ciocca M, *Maver M*, Mimmo T & Petti L. 2023. *IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)*. [DOI](https://doi.org/10.1109/MetroAgriFor58484.2023.10424201)
+-   **A novel automatic method for primary roots length measurements in Arabidopsis thaliana.** Allarà C, Ciocca M, *Maver M*, Mimmo T & Petti L. 2023. *IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)*. [DOI](https://doi.org/10.1109/MetroAgriFor58484.2023.10424201)
 
 ## 2022
 
