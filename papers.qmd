@@ -11,8 +11,9 @@ page-layout: full
 ::: {.style style="font-size:16px;text-align:justify"}
 ## 2025
 
--   **Harnessing algal biomass: superabsorbent and biostimulant hydrogels for seed germination in soilless cultivation** Febo C, Ciocca M, *Maver M*, Mimmo T, Bouaicha O, Borruso L,
-Lugli P, Petti L, Athanassiou A & Merino D. 2025. *Advanced Electronic Materials*. [DOI](https://doi.org/10.1021/acsagscitech.4c00723)
+-   **Conjugated polymer nanoparticles boosting growth and photosynthesis in biohybrid plants.** Ciocca M, *Maver M*, Allarà C, Zanotelli D, Krik S, Orlando A, Ruhle T, Walz S, Figueroa Gonzalez T, Gentile G, Lavdas AA, Ibba P, Trevisan F, Milosz Z, Timpel M, Nardi MV, Pedrielli A, Gaiardo A, Lugli P, Cacialli F, Leister D, Mimmo T & Petti L. 2025. *Materials Horizons*. [DOI](https://doi.org/10.1039/D5MH00341E)
+
+-   **Harnessing algal biomass: superabsorbent and biostimulant hydrogels for seed germination in soilless cultivation.** Febo C, Ciocca M, *Maver M*, Mimmo T, Bouaicha O, Borruso L, Lugli P, Petti L, Athanassiou A & Merino D. 2025. *Advanced Electronic Materials*. [DOI](https://doi.org/10.1021/acsagscitech.4c00723)
 
 -   **Electronic nanomaterials for plants: a review on current advances and future prospects.** Allarà C, Ciccone G, Ciocca M, Vasquez S, Ibba P, *Maver M*, Mimmo T, Lugli P & Petti L. 2025. *Advanced Electronic Materials*. [DOI](https://doi.org/10.1002/aelm.202500080)
 
