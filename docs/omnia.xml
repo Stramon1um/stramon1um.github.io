@@ -9,13 +9,14 @@
 <link>https://www.mauromaver.eu/omnia.html</link>
 <atom:link href="https://www.mauromaver.eu/omnia.xml" rel="self" type="application/rss+xml"/>
 <description>Portfolio</description>
-<generator>quarto-1.6.42</generator>
+<generator>quarto-1.8.25</generator>
 <lastBuildDate>Wed, 13 Nov 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Auxin-mediated xylem modifications in tomato mutant dgt improve drought resistance and hydraulic recovery</title>
   <dc:creator>Mauro Maver</dc:creator>
   <link>https://www.mauromaver.eu/posts/posts_omnia/focus_II/3/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -117,6 +118,7 @@ tomato mutant *dgt* improve drought resistance and hydraulic recovery.
 
 
 
+
 <div class="drop-cap">
 <p>New tools to control plant growth and development could become one of the most important priorities in agricultural and horticultural innovation. Among the most promising solutions are allelochemicals, secondary metabolites derived from plants that can exert phytotoxic effects on neighbouring plants. Although these compounds have long been known for their wide range of effects, roles, and phenotypes on target plants, pinpointing their specific mechanisms of action has always been challenging.<span class="citation" data-cites="dayan2020discovery"><sup>1</sup></span> Gaining a deeper insight into these mechanisms could unveil significant opportunities for agriculture, such as utilizing them as new, safer, and eco-friendly bioherbicides or as plant growth and development regulators.</p>
 </div>
@@ -207,6 +209,7 @@ mechanism of the allelochemical Myrigalone A. <em>Omnia Focus</em> vol.
   <dc:creator>Mauro Maver</dc:creator>
   <link>https://www.mauromaver.eu/posts/posts_omnia/focus_II/1/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -305,6 +308,7 @@ regulator of root development and vascular patterning in barley.
 
 
 
+
 <div class="drop-cap">
 <p>The urgent need to understand and explore deeper into plants’ responses to drought is driven by the increasing global warming and the resulting decrease in predicted water availability for crops. Despite the extensive research on the correlation between crops and water<span class="citation" data-cites="sourour2017review"><sup>1</sup></span>, there is still a lack of studies focusing on the soil-plant-atmosphere continuum (SPAC). Such studies are fundamental in understanding the physiological responses of crops to water scarcity, thus protecting their growth and productivity<span class="citation" data-cites="boyer1985water lambers2008plant"><sup>2,3</sup></span>.</p>
 </div>
@@ -396,6 +400,7 @@ cultivation systems on wheat: insights from the trait space concept.
   <dc:creator>Mauro Maver</dc:creator>
   <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_XI/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -503,6 +508,7 @@ chemodiversity on growth and reproduction in Tanacetum vulgare.
 
 
 
+
 <div class="drop-cap">
 <p>Most plants are sensitive to salinity, which negatively impacts root growth and development, making saline stress one of the primary causes of crop yield losses. The primary cause of this stress is sodium chloride (NaCl), which affects the plant in two ways: by causing osmotic stress, thereby inhibiting water uptake by the roots, and by causing high ion accumulation in tissues<span class="citation" data-cites="hasegawa2000plant julkowska2015tuning"><sup>1,2</sup></span>. At the root level, the presence of NaCl leads to alterations in root architecture and cell wall composition and inhibits gravitropism. Plants can modify the direction of root growth to avoid areas of high soil salinity, a process known as halotropism (negative halotropism)<span class="citation" data-cites="deolu2019genetic"><sup>3</sup></span>.</p>
 </div>
@@ -597,6 +603,7 @@ vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.12633958">https://doi
 
 
 
+
 <div class="drop-cap">
 <p>The plant <em>Catharanthus roseus</em> is of significant scientific interest because it is the primary and only source for the biosynthesis of the two terpenoid indole alkaloids (TIAs), vinblastine and vincristine, which are widely used in chemotherapy treatments. A distinctive feature of TIAs and the vindoline pathway (one of the downstream TIA pathways) is their strong accumulation in developing leaves, followed by their decrease as the leaf matures<span class="citation" data-cites="mall2019influence"><sup>1</sup></span>. However, despite the biosynthetic pathway being extensively characterised<span class="citation" data-cites="mizukami1979purification"><sup>2</sup></span>, the exact regulatory mechanisms underlying this developmental pattern remain largely unexplored.</p>
 </div>
@@ -685,6 +692,7 @@ vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.12608361">https://doi
   <dc:creator>Mauro Maver</dc:creator>
   <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VIII/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -786,6 +794,7 @@ plant thermotolerance. <em>Omnia Focus</em> vol. 1 Preprint at <a href="https://
 
 
 
+
 <div class="drop-cap">
 <p>Soil has a significant impact on plants, profoundly influencing their microbiota. Studies have demonstrated that the influence of soil far exceeds that of other factors, such as plant genotype or the presence of insects<span class="citation" data-cites="tkacz2020influence malacrino2021soil"><sup>1,2</sup></span>. Indeed, soil microorganisms can colonise different parts of plants, like roots and leaves, affecting their microbiome or altering their physiological status. Overall, these soil-mediated effects are known as soil-driven effects. Similarly, the presence of herbivores can directly or indirectly influence plant microbiomes, known as herbivore-driven effects. However, few studies have explored the combined impact of soil- and herbivore-driven effects on the structure and diversity of microbial communities within plants.</p>
 </div>
@@ -875,6 +884,7 @@ Preprint at <a href="https://doi.org/10.5281/zenodo.12188671">https://doi.org/10
   <dc:creator>Mauro Maver</dc:creator>
   <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_VI/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -977,6 +987,7 @@ Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11965373">
 
 
 
+
 <div class="drop-cap">
 <p>The evolution of plants has led to the development of complex defensive strategies based on metabolites, specifically secondary metabolites. Plants often co-evolved in biodiversity-rich environments, developing mechanisms to exploit metabolites released by other plants for their own defence. This phenomenon underpins co-cropping, where two crops grow in the same space, allowing chemical interaction between plants through metabolite release<span class="citation" data-cites="bertin2003role"><sup>1</sup></span>. In this context, one plant acts as the donor while the other as the target, with metabolites influencing growth, pathogen defence, and shaping rhizosphere communities.</p>
 </div>
@@ -1063,6 +1074,7 @@ Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11491221">
   <dc:creator>Mauro Maver</dc:creator>
   <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_IV/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1163,6 +1175,7 @@ far-red light supplement: unveiling dual roles beyond shade avoidance.
 
 
 
+
 <div class="drop-cap">
 <p>Global climate change is causing a series of severe weather events like prolonged droughts followed by heavy rainfalls, posing a growing threat to forest ecosystems worldwide. Understanding the crucial link between plants and rhizosphere microbial communities during drought periods is fundamental, as it significantly influences soil community structure and functionalities, with carbon (C) transport and release by plants into the rhizosphere playing a key role.</p>
 </div>
@@ -1249,6 +1262,7 @@ vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11148076">https://doi
   <dc:creator>Sara Gomez-Cabellos</dc:creator>
   <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_II/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1347,6 +1361,7 @@ Focus</em> vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.10955449">
   <dc:creator>Mauro Maver</dc:creator>
   <link>https://www.mauromaver.eu/posts/posts_omnia/omnia_focus_I/</link>
   <description><![CDATA[ 
+
 
 
 

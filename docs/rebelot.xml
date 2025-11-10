@@ -9,13 +9,14 @@
 <link>https://www.mauromaver.eu/rebelot.html</link>
 <atom:link href="https://www.mauromaver.eu/rebelot.xml" rel="self" type="application/rss+xml"/>
 <description>A jumble of everything and nothing // Complete and utter chaos</description>
-<generator>quarto-1.6.42</generator>
+<generator>quarto-1.8.25</generator>
 <lastBuildDate>Mon, 23 Sep 2024 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Going beyond the State of the Art: between scientific literature and RSS Feeds</title>
   <dc:creator>Mauro Maver</dc:creator>
   <link>https://www.mauromaver.eu/posts/rebelot/feed_rss_eng/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -78,7 +79,7 @@
 <li>click on the RSS icon to generate the feed</li>
 <li><strong>OR</strong>, copy this link</li>
 </ul>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">https://link.springer.com/search.rss?query=11104&amp;sortOrder=newestFirst&amp;showAll=true</span></code></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">https://link.springer.com/search.rss?query=11104&amp;sortOrder=newestFirst&amp;showAll=true</span></code></pre></div></div>
 <ul>
 <li>change the journal ID in&nbsp;<code>query=11104</code>&nbsp;to the one of interest. The journal’s ID is found in the URL of its homepage.</li>
 </ul></li>
@@ -378,6 +379,7 @@ Scientific Literature and RSS Feeds.”</span> September 24, 2024. <a href="http
 
 
 
+
 <section id="introduzione" class="level2">
 <h2 class="anchored" data-anchor-id="introduzione">Introduzione</h2>
 <p>Rimanere aggiornati sulle ultime pubblicazioni scientifiche è fondamentale, soprattutto quando si lavora in ambiti di ricerca specifici. Tuttavia, il problema principale è l’enorme vastità di articoli e giornali scientifici disponibili, rendendo difficile tenere sempre traccia delle novità. Spesso, non si ha il tempo materiale di consultare manualmente ogni rivista per verificare le più recenti pubblicazioni. Se si aggiunge che tale processo dovrà essere ripetuto per ogni rivista di interesse, beh, di conseguenza il tempo necessario dovrà essere moltiplicato.</p>
@@ -435,7 +437,7 @@ Scientific Literature and RSS Feeds.”</span> September 24, 2024. <a href="http
 <li>click su icona RSS per generare il feed</li>
 <li><strong>OPPURE</strong>, copiare questo link</li>
 </ul>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">https://link.springer.com/search.rss?query=11104&amp;sortOrder=newestFirst&amp;showAll=true</span></code></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">https://link.springer.com/search.rss?query=11104&amp;sortOrder=newestFirst&amp;showAll=true</span></code></pre></div></div>
 <ul>
 <li>cambiare ID giornale in <code>query=11104</code> con quello di vostro interesse. L’ID di un giornale si trova nell’url della homepage del giornale.</li>
 </ul></li>
@@ -730,6 +732,7 @@ letteratura scientifica e Feed RSS.”</span> September 20, 2024. <a href="https
   <dc:creator>Mauro Maver</dc:creator>
   <link>https://www.mauromaver.eu/posts/rebelot/potere_audio_trascrizioni/</link>
   <description><![CDATA[ 
+
 
 
 
