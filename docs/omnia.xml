@@ -9,7 +9,7 @@
 <link>https://www.mauromaver.eu/omnia.html</link>
 <atom:link href="https://www.mauromaver.eu/omnia.xml" rel="self" type="application/rss+xml"/>
 <description>Portfolio</description>
-<generator>quarto-1.8.25</generator>
+<generator>quarto-1.9.31</generator>
 <lastBuildDate>Wed, 13 Nov 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Auxin-mediated xylem modifications in tomato mutant dgt improve drought resistance and hydraulic recovery</title>
@@ -66,7 +66,7 @@
 <div class="csl-left-margin">3. </div><div class="csl-right-inline">Oh, K., Ivanchenko, M. G., White, T. &amp; Lomax, T. L. The diageotropica gene of tomato encodes a cyclophilin: A novel player in auxin signaling. <em>Planta</em> <strong>224</strong>, 133–144 (2006).</div>
 </div>
 <div id="ref-jing2015peptidyl" class="csl-entry">
-<div class="csl-left-margin">4. </div><div class="csl-right-inline">Jing, H. <em>et al.</em> Peptidyl-prolyl isomerization targets rice aux/IAAs for proteasomal degradation during auxin signalling. <em>Nature Communications</em> <strong>6</strong>, 7395 (2015).</div>
+<div class="csl-left-margin">4. </div><div class="csl-right-inline"><span class="nocase">Jing, H. <em>et al.</em></span> Peptidyl-prolyl isomerization targets rice aux/IAAs for proteasomal degradation during auxin signalling. <em>Nature Communications</em> <strong>6</strong>, 7395 (2015).</div>
 </div>
 <div id="ref-andrade2022impaired" class="csl-entry">
 <div class="csl-left-margin">5. </div><div class="csl-right-inline">Andrade, M. T. <em>et al.</em> Impaired auxin signaling increases vein and stomatal density but reduces hydraulic efficiency and ultimately net photosynthesis. <em>Journal of Experimental Botany</em> <strong>73</strong>, 4147–4156 (2022).</div>
@@ -170,10 +170,10 @@ tomato mutant *dgt* improve drought resistance and hydraulic recovery.
 <div class="csl-left-margin">5. </div><div class="csl-right-inline">Heslop-Harrison, G. <em>et al.</em> Functional mechanism study of the allelochemical myrigalone a identifies a group of ultrapotent inhibitors of ethylene biosynthesis in plants. <em>Plant Communications</em> <strong>5</strong>, 100846 (2024).</div>
 </div>
 <div id="ref-eichinger2005genome" class="csl-entry">
-<div class="csl-left-margin">6. </div><div class="csl-right-inline">Eichinger, L. <em>et al.</em> The genome of the social amoeba dictyostelium discoideum. <em>Nature</em> <strong>435</strong>, 43–57 (2005).</div>
+<div class="csl-left-margin">6. </div><div class="csl-right-inline"><span class="nocase">Eichinger, L. <em>et al.</em></span> The genome of the social amoeba dictyostelium discoideum. <em>Nature</em> <strong>435</strong>, 43–57 (2005).</div>
 </div>
 <div id="ref-sun2017pyrazinamide" class="csl-entry">
-<div class="csl-left-margin">7. </div><div class="csl-right-inline">Sun, X. <em>et al.</em> Pyrazinamide and derivatives block ethylene biosynthesis by inhibiting ACC oxidase. <em>Nature communications</em> <strong>8</strong>, 15758 (2017).</div>
+<div class="csl-left-margin">7. </div><div class="csl-right-inline"><span class="nocase">Sun, X. <em>et al.</em></span> Pyrazinamide and derivatives block ethylene biosynthesis by inhibiting ACC oxidase. <em>Nature communications</em> <strong>8</strong>, 15758 (2017).</div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
   author = {Maver, Mauro},
@@ -256,7 +256,7 @@ mechanism of the allelochemical Myrigalone A. <em>Omnia Focus</em> vol.
 <div class="csl-left-margin">1. </div><div class="csl-right-inline">Schreiber, M. <em>et al.</em> A highly mutagenised barley (cv. Golden promise) TILLING population coupled with strategies for screening-by-sequencing. <em>Plant Methods</em> <strong>15</strong>, 1–14 (2019).</div>
 </div>
 <div id="ref-fusi2024auxin" class="csl-entry">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Fusi, R. <em>et al.</em> The auxin efflux carrier PIN1a regulates vascular patterning in cereal roots. <em>New Phytologist</em> (2024).</div>
+<div class="csl-left-margin">2. </div><div class="csl-right-inline"><span class="nocase">Fusi, R. <em>et al.</em></span> The auxin efflux carrier PIN1a regulates vascular patterning in cereal roots. <em>New Phytologist</em> (2024).</div>
 </div>
 <div id="ref-adamowski2015pin" class="csl-entry">
 <div class="csl-left-margin">3. </div><div class="csl-right-inline">Adamowski, M. &amp; Friml, J. PIN-dependent auxin transport: Action, regulation, and evolution. <em>The Plant Cell</em> <strong>27</strong>, 20–32 (2015).</div>
@@ -352,7 +352,7 @@ regulator of root development and vascular patterning in barley.
 <div class="csl-left-margin">2. </div><div class="csl-right-inline">Boyer, J. S. Water transport. <em>Annual Review of Plant Physiology</em> <strong>36</strong>, 473–516 (1985).</div>
 </div>
 <div id="ref-lambers2008plant" class="csl-entry">
-<div class="csl-left-margin">3. </div><div class="csl-right-inline">Lambers, H., Chapin, F. S., Pons, T. L., <em>et al.</em> <em>Plant Water Relations</em>. <em>Plant Physiological Ecology</em> vol. 2 187–263 (2008).</div>
+<div class="csl-left-margin">3. </div><div class="csl-right-inline"><span class="nocase">Lambers, H., Chapin, F. S., Pons, T. L., <em>et al.</em></span> <em>Plant Water Relations</em>. <em>Plant Physiological Ecology</em> vol. 2 187–263 (2008).</div>
 </div>
 <div id="ref-sun2024drought" class="csl-entry">
 <div class="csl-left-margin">4. </div><div class="csl-right-inline">Sun, Q. <em>et al.</em> Drought effects on trait space of winter wheat are independent of land management. <em>New Phytologist</em> <strong>243</strong>, 591–606 (2024).</div>
@@ -442,7 +442,7 @@ cultivation systems on wheat: insights from the trait space concept.
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
 <div id="ref-isbell2011high" class="csl-entry">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Isbell, F. <em>et al.</em> High plant diversity is needed to maintain ecosystem services. <em>Nature</em> <strong>477</strong>, 199–202 (2011).</div>
+<div class="csl-left-margin">1. </div><div class="csl-right-inline"><span class="nocase">Isbell, F. <em>et al.</em></span> High plant diversity is needed to maintain ecosystem services. <em>Nature</em> <strong>477</strong>, 199–202 (2011).</div>
 </div>
 <div id="ref-wetzel2020many" class="csl-entry">
 <div class="csl-left-margin">2. </div><div class="csl-right-inline">Wetzel, W. C. &amp; Whitehead, S. R. The many dimensions of phytochemical diversity: Linking theory to practice. <em>Ecology letters</em> <strong>23</strong>, 16–32 (2020).</div>
@@ -556,13 +556,13 @@ chemodiversity on growth and reproduction in Tanacetum vulgare.
 <div class="csl-left-margin">4. </div><div class="csl-right-inline">Korver, R. A. <em>et al.</em> Halotropism requires phospholipase d<img src="https://latex.codecogs.com/png.latex?%5Czeta">1-mediated modulation of cellular polarity of auxin transport carriers. <em>Plant, Cell &amp; Environment</em> <strong>43</strong>, 143–158 (2020).</div>
 </div>
 <div id="ref-zou2024arabinosylation" class="csl-entry">
-<div class="csl-left-margin">5. </div><div class="csl-right-inline">Zou, Y. <em>et al.</em> Arabinosylation of cell wall extensin is required for the directional response to salinity in roots. <em>The Plant Cell</em> koae135 (2024).</div>
+<div class="csl-left-margin">5. </div><div class="csl-right-inline"><span class="nocase">Zou, Y. <em>et al.</em></span> Arabinosylation of cell wall extensin is required for the directional response to salinity in roots. <em>The Plant Cell</em> koae135 (2024).</div>
 </div>
 <div id="ref-liu2016bioinformatic" class="csl-entry">
 <div class="csl-left-margin">6. </div><div class="csl-right-inline">Liu, X. <em>et al.</em> Bioinformatic identification and analysis of extensins in the plant kingdom. <em>PloS one</em> <strong>11</strong>, e0150177 (2016).</div>
 </div>
 <div id="ref-moller2017identification" class="csl-entry">
-<div class="csl-left-margin">7. </div><div class="csl-right-inline">Møller, S. R. <em>et al.</em> Identification and evolution of a plant cell wall specific glycoprotein glycosyl transferase, ExAD. <em>Scientific Reports</em> <strong>7</strong>, 45341 (2017).</div>
+<div class="csl-left-margin">7. </div><div class="csl-right-inline"><span class="nocase">Møller, S. R. <em>et al.</em></span> Identification and evolution of a plant cell wall specific glycoprotein glycosyl transferase, ExAD. <em>Scientific Reports</em> <strong>7</strong>, 45341 (2017).</div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
   author = {Maver, Mauro},
@@ -653,7 +653,7 @@ vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.12633958">https://doi
 <div class="csl-left-margin">4. </div><div class="csl-right-inline">Cole-Osborn, L. F. <em>et al.</em> The role of the Golden2-like (GLK) transcription factor in regulating terpenoid indole alkaloid biosynthesis in catharanthus roseus. <em>Plant Cell Reports</em> <strong>43</strong>, 141 (2024).</div>
 </div>
 <div id="ref-wang2013evolution" class="csl-entry">
-<div class="csl-left-margin">5. </div><div class="csl-right-inline">Wang, P. <em>et al.</em> Evolution of GOLDEN2-LIKE gene function in c 3 and c 4 plants. <em>Planta</em> <strong>237</strong>, 481–495 (2013).</div>
+<div class="csl-left-margin">5. </div><div class="csl-right-inline"><span class="nocase">Wang, P. <em>et al.</em></span> Evolution of GOLDEN2-LIKE gene function in c 3 and c 4 plants. <em>Planta</em> <strong>237</strong>, 481–495 (2013).</div>
 </div>
 <div id="ref-waters2009glk" class="csl-entry">
 <div class="csl-left-margin">6. </div><div class="csl-right-inline">Waters, M. T. <em>et al.</em> GLK transcription factors coordinate expression of the photosynthetic apparatus in arabidopsis. <em>The Plant Cell</em> <strong>21</strong>, 1109–1128 (2009).</div>
@@ -752,7 +752,7 @@ vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.12608361">https://doi
 <div class="csl-left-margin">6. </div><div class="csl-right-inline">Song, S. <em>et al.</em> The bHLH subgroup IIId factors negatively regulate jasmonate-mediated plant defense and development. <em>PLoS genetics</em> <strong>9</strong>, e1003653 (2013).</div>
 </div>
 <div id="ref-jung2020prion" class="csl-entry">
-<div class="csl-left-margin">7. </div><div class="csl-right-inline">Jung, J.-H. <em>et al.</em> A prion-like domain in ELF3 functions as a thermosensor in arabidopsis. <em>Nature</em> <strong>585</strong>, 256–260 (2020).</div>
+<div class="csl-left-margin">7. </div><div class="csl-right-inline"><span class="nocase">Jung, J.-H. <em>et al.</em></span> A prion-like domain in ELF3 functions as a thermosensor in arabidopsis. <em>Nature</em> <strong>585</strong>, 256–260 (2020).</div>
 </div>
 <div id="ref-chee2022thermogenetics" class="csl-entry">
 <div class="csl-left-margin">8. </div><div class="csl-right-inline">Chee, W. K. D., Yeoh, J. W., Dao, V. L. &amp; Poh, C. L. Thermogenetics: Applications come of age. <em>Biotechnology Advances</em> <strong>55</strong>, 107907 (2022).</div>
@@ -945,7 +945,7 @@ Preprint at <a href="https://doi.org/10.5281/zenodo.12188671">https://doi.org/10
 <div class="csl-left-margin">6. </div><div class="csl-right-inline">He, M., He, C.-Q. &amp; Ding, N.-Z. Abiotic stresses: General defenses of land plants and chances for engineering multistress tolerance. <em>Frontiers in plant science</em> <strong>9</strong>, 1771 (2018).</div>
 </div>
 <div id="ref-rattan2022involvement" class="csl-entry">
-<div class="csl-left-margin">7. </div><div class="csl-right-inline">Rattan, A. <em>et al.</em> Involvement of brassinosteroids in plant response to salt stress. <em>Brassinosteroids in plant developmental biology and stress tolerance</em> 237–253 (2022).</div>
+<div class="csl-left-margin">7. </div><div class="csl-right-inline"><span class="nocase">Rattan, A. <em>et al.</em></span> Involvement of brassinosteroids in plant response to salt stress. <em>Brassinosteroids in plant developmental biology and stress tolerance</em> 237–253 (2022).</div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
   author = {Maver, Mauro},
@@ -1211,7 +1211,7 @@ far-red light supplement: unveiling dual roles beyond shade avoidance.
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
 <div id="ref-gao2024drought" class="csl-entry">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gao, D. <em>et al.</em> Drought resistance and resilience of rhizosphere communities in forest soils from the cellular to ecosystem scale–insights from 13C pulse labeling. <em>New Phytologist</em> <strong>242</strong>, 960–974 (2024).</div>
+<div class="csl-left-margin">1. </div><div class="csl-right-inline"><span class="nocase">Gao, D. <em>et al.</em></span> Drought resistance and resilience of rhizosphere communities in forest soils from the cellular to ecosystem scale–insights from 13C pulse labeling. <em>New Phytologist</em> <strong>242</strong>, 960–974 (2024).</div>
 </div>
 <div id="ref-fuchslueger2016drought" class="csl-entry">
 <div class="csl-left-margin">2. </div><div class="csl-right-inline">Fuchslueger, L. <em>et al.</em> Drought history affects grassland plant and microbial carbon turnover during and after a subsequent drought event. <em>Journal of Ecology</em> <strong>104</strong>, 1453–1465 (2016).</div>
@@ -1223,10 +1223,10 @@ far-red light supplement: unveiling dual roles beyond shade avoidance.
 <div class="csl-left-margin">4. </div><div class="csl-right-inline">Mason-Jones, K., Breidenbach, A., Dyckmans, J., Banfield, C. C. &amp; Dippold, M. A. Intracellular carbon storage by microorganisms is an overlooked pathway of biomass growth. <em>Nature Communications</em> <strong>14</strong>, 2240 (2023).</div>
 </div>
 <div id="ref-joseph2020rhizosphere" class="csl-entry">
-<div class="csl-left-margin">5. </div><div class="csl-right-inline">Joseph, J. <em>et al.</em> Rhizosphere activity in an old-growth forest reacts rapidly to changes in soil moisture and shapes whole-tree carbon allocation. <em>Proceedings of the National Academy of Sciences</em> <strong>117</strong>, 24885–24892 (2020).</div>
+<div class="csl-left-margin">5. </div><div class="csl-right-inline"><span class="nocase">Joseph, J. <em>et al.</em></span> Rhizosphere activity in an old-growth forest reacts rapidly to changes in soil moisture and shapes whole-tree carbon allocation. <em>Proceedings of the National Academy of Sciences</em> <strong>117</strong>, 24885–24892 (2020).</div>
 </div>
 <div id="ref-gao2021drought" class="csl-entry">
-<div class="csl-left-margin">6. </div><div class="csl-right-inline">Gao, D. <em>et al.</em> Drought alters the carbon footprint of trees in soils—tracking the spatio-temporal fate of 13C-labelled assimilates in the soil of an old-growth pine forest. <em>Global Change Biology</em> <strong>27</strong>, 2491–2506 (2021).</div>
+<div class="csl-left-margin">6. </div><div class="csl-right-inline"><span class="nocase">Gao, D. <em>et al.</em></span> Drought alters the carbon footprint of trees in soils—tracking the spatio-temporal fate of 13C-labelled assimilates in the soil of an old-growth pine forest. <em>Global Change Biology</em> <strong>27</strong>, 2491–2506 (2021).</div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{maver2024,
   author = {Maver, Mauro},
@@ -1301,10 +1301,10 @@ vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11148076">https://doi
 <div class="csl-left-margin">1. </div><div class="csl-right-inline">McFerran, D. J., Stockdale, D., Holme, R., Large, C. H. &amp; Baguley, D. M. Why is there no cure for tinnitus? <em>Frontiers in neuroscience</em> <strong>13</strong>, 466176 (2019).</div>
 </div>
 <div id="ref-trpchevska2020sex" class="csl-entry">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Trpchevska, N. <em>et al.</em> Sex-dependent aggregation of tinnitus in swedish families. <em>Journal of Clinical Medicine</em> <strong>9</strong>, 3812 (2020).</div>
+<div class="csl-left-margin">2. </div><div class="csl-right-inline"><span class="nocase">Trpchevska, N. <em>et al.</em></span> Sex-dependent aggregation of tinnitus in swedish families. <em>Journal of Clinical Medicine</em> <strong>9</strong>, 3812 (2020).</div>
 </div>
 <div id="ref-maas2017genetic" class="csl-entry">
-<div class="csl-left-margin">3. </div><div class="csl-right-inline">Maas, I. L. <em>et al.</em> Genetic susceptibility to bilateral tinnitus in a swedish twin cohort. <em>Genetics in Medicine</em> <strong>19</strong>, 1007–1012 (2017).</div>
+<div class="csl-left-margin">3. </div><div class="csl-right-inline"><span class="nocase">Maas, I. L. <em>et al.</em></span> Genetic susceptibility to bilateral tinnitus in a swedish twin cohort. <em>Genetics in Medicine</em> <strong>19</strong>, 1007–1012 (2017).</div>
 </div>
 <div id="ref-vona2022road" class="csl-entry">
 <div class="csl-left-margin">4. </div><div class="csl-right-inline">Vona, B. The road traveled and journey ahead for the genetics and genomics of tinnitus. <em>Molecular Diagnosis &amp; Therapy</em> <strong>26</strong>, 129–136 (2022).</div>
@@ -1316,7 +1316,7 @@ vol. 1 Preprint at <a href="https://doi.org/10.5281/zenodo.11148076">https://doi
 <div class="csl-left-margin">6. </div><div class="csl-right-inline">Wells, H. R., Abidin, F. N. Z., Freidin, M. B., Williams, F. M. &amp; Dawson, S. J. Genome-wide association study suggests that variation at the RCOR1 locus is associated with tinnitus in UK biobank. <em>Scientific Reports</em> <strong>11</strong>, 6470 (2021).</div>
 </div>
 <div id="ref-amanat2021burden" class="csl-entry">
-<div class="csl-left-margin">7. </div><div class="csl-right-inline">Amanat, S. <em>et al.</em> Burden of rare variants in synaptic genes in patients with severe tinnitus: An exome based extreme phenotype study. <em>EBioMedicine</em> <strong>66</strong>, (2021).</div>
+<div class="csl-left-margin">7. </div><div class="csl-right-inline"><span class="nocase">Amanat, S. <em>et al.</em></span> Burden of rare variants in synaptic genes in patients with severe tinnitus: An exome based extreme phenotype study. <em>EBioMedicine</em> <strong>66</strong>, (2021).</div>
 </div>
 <div id="ref-amanat2020systematic" class="csl-entry">
 <div class="csl-left-margin">8. </div><div class="csl-right-inline">Amanat, S., Requena, T. &amp; Lopez-Escamez, J. A. A systematic review of extreme phenotype strategies to search for rare variants in genetic studies of complex disorders. <em>Genes</em> <strong>11</strong>, 987 (2020).</div>
