@@ -12,7 +12,7 @@ image: "image.jpg"
 
 # Enable CC licence appendix
 copyright:
-  statement: "© 2024 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
+  statement: "© 2026 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0"
   
 # Default for table of contents
 toc: true
@@ -25,3 +25,5 @@ author:
   - name: Mauro Maver
     url: https://www.mauromaver.eu
     orcid: 0000-0002-8162-3618
+    
+author-title: "Autore"

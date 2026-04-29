@@ -9,7 +9,7 @@ title-block-banner: true
 
 # Enable CC licence appendix
 copyright:
-  statement: "© 2024 Mauro Maver | Il contenuto di questo blog è rilasciato sotto licenza CC BY-NC-SA 4.0"
+  statement: "© 2026 Mauro Maver | Il contenuto di questo blog è rilasciato sotto licenza CC BY-NC-SA 4.0"
 
 # # Default for table of contents
 # toc: true
@@ -23,3 +23,5 @@ author:
   - name: Mauro Maver
     url: https://www.mauromaver.eu
     email: mauromaver@gmail.com
+    
+author-title: "Autore"

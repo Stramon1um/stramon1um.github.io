@@ -52,7 +52,7 @@ I also deeply love traditional Irish music and the Gaelic Irish (alias *Gaeilge*
 
 Additionally, I am one of the authors of the book 📗[**L'irlandese contemporaneo**](https://www.amazon.it/dp/8892958682/?coliid=I34IVBMHTQRJEP&colid=36FABK7A5OZ2Q&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it), which provides a compendium of historical, grammatical, and socio-linguistic identity notions of the Gaelic Irish language. It is available in both digital and print formats.
 
-✍️ Founder and Editor-in-Chief of [**Omnia**](omnia.qmd), an independent and multidisciplinary open-access journal.
+<!-- ✍️ Founder and Editor-in-Chief of [**Omnia**](omnia.qmd), an independent and multidisciplinary open-access journal. -->
 
 Here's my random blog for random stuff > [**Rebelòt**](rebelot.qmd)
 

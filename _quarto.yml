@@ -28,11 +28,11 @@ website:
       - text: Research
         href: papers.html
       - text: "·"
-      - text: Omnia
-        href: omnia.qmd
-      - icon: rss
-        href: omnia.xml
-      - text: "·"
+      # - text: Omnia
+      #   href: omnia.qmd
+      # - icon: rss
+      #   href: omnia.xml
+      # - text: "·"
       - text: Rebelòt
         href: rebelot.qmd
       - icon: rss
