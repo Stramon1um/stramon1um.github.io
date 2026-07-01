@@ -9,7 +9,7 @@ website:
   title: "Mauro Maver"
   site-url: "https://www.mauromaver.eu" # da cambiare una volta pubblicato, necessario per creazione FEED
   description: "Portfolio"
-  favicon: foto.png
+  favicon: icon.png
   twitter-card: true
   cookie-consent: true
   google-analytics: "G-GEXKYETG1W"
