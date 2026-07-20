@@ -10,7 +10,85 @@
 <atom:link href="https://www.mauromaver.eu/rebelot.xml" rel="self" type="application/rss+xml"/>
 <description>A jumble of everything and nothing // Complete and utter chaos</description>
 <generator>quarto-1.9.31</generator>
-<lastBuildDate>Wed, 29 Apr 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>CleanRhizo: Cleaning Root Data Without Leaving Your Browser</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/rebelot/cleanrhizo_eng/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Every WinRhizo<sup>1</sup> scan session ends with a raw <code>.txt</code> file: dozens of columns, one row per scanned segment, with no built-in link between that row and a treatment or plant. Before any real analysis can happen, someone has to decode the sample names, assign treatments, and reshape the table — a step I’ve repeated for years, slightly differently each time, in whatever R script or spreadsheet happened to be open that day.</p>
+<p><strong>CleanRhizo</strong> is my attempt to stop repeating it from scratch every time.</p>
+</section>
+<section id="the-need-it-covers" class="level2">
+<h2 class="anchored" data-anchor-id="the-need-it-covers">The Need It Covers</h2>
+<p>Root morphology software like WinRhizo measures roots very well, but it knows nothing about your experimental design. That part is entirely up to the user, decided the moment each sample is named during the analysis: if treatment and replicate are meant to become separate columns later, that information has to be encoded in the sample name itself (something like <code>CTR_1.2</code>), following a consistent format, every time.</p>
+<p>This is exactly what CleanRhizo relies on: it decodes treatment and replicate automatically from the sample name, provided it follows one of a small set of standard naming formats the app offers. In other words, using CleanRhizo effectively starts one step earlier than opening it — at the moment samples are named in WinRhizo.</p>
+<p>None of this requires anything sophisticated. It just requires doing the <em>same</em> careful, slightly boring work correctly, every time. That is exactly the kind of task worth automating once and reusing forever, rather than solving from scratch in every project folder.</p>
+</section>
+<section id="what-cleanrhizo-does" class="level2">
+<h2 class="anchored" data-anchor-id="what-cleanrhizo-does">What CleanRhizo Does</h2>
+<p>CleanRhizo runs entirely in the browser, built with Shiny and deployed as a static site via Quarto and <strong>WebR</strong> — no installation, no account, no server. That last part matters: your data is processed locally and never leaves your device 🔒.</p>
+<p>Once you drop in a raw WinRhizo <code>.txt</code> file, the app:</p>
+<ul>
+<li>lets you pick which columns to keep, instead of dragging dozens of them into a spreadsheet;</li>
+<li>automatically decodes treatment names from sample IDs, including two-level designs (e.g.&nbsp;pot <em>and</em> plant);</li>
+<li>falls back to manual, per-segment treatment assignment when sample names don’t follow one of the supported formats, so no dataset is left unusable;</li>
+<li>flags names that don’t match the expected format, so mismatches surface before they turn into analysis mistakes.</li>
+</ul>
+</section>
+<section id="the-outputs" class="level2">
+<h2 class="anchored" data-anchor-id="the-outputs">The Outputs</h2>
+<p>The point of cleaning data is to <em>use</em> it, so CleanRhizo produces exactly what I need next:</p>
+<ul>
+<li>a tidy dataset, exportable in <strong>wide or long format</strong>, ready to drop into R, Python, or a spreadsheet;</li>
+<li>exploratory <strong>bar charts (mean ± SE)</strong> with individual data points overlaid, so patterns are visible before any formal analysis;</li>
+<li>a <strong>300 dpi PNG</strong> of that chart, downloadable with a click — handy for a quick lab meeting slide;</li>
+<li>the whole interface in <strong>English, Italian, Spanish, and French</strong>, since not everyone in a shared lab reads the same language.</li>
+</ul>
+</section>
+<section id="try-it" class="level2">
+<h2 class="anchored" data-anchor-id="try-it">Try It</h2>
+<p>CleanRhizo is free, open, and lives entirely in your browser -&gt; <a href="https://www.mauromaver.eu/CleanRhizo/CleanRhizo.html">link</a>. The first load can take a few seconds while the browser sets up the R environment behind the scenes — no need to refresh, just wait it out.</p>
+<p>If you work with WinRhizo output and have ever lost twenty minutes to a stray underscore in a sample name, it might save you the trouble.</p>
+
+
+</section>
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>WinRHIZO is a root image analysis system developed by <a href="https://regent.qc.ca/assets/winrhizo_about.html">Regent Instruments Inc.</a> (Québec, Canada).↩︎</p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2026 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{maver2026,
+  author = {Maver, Mauro},
+  title = {CleanRhizo: {Cleaning} {Root} {Data} {Without} {Leaving}
+    {Your} {Browser}},
+  date = {2026-07-21},
+  url = {https://www.mauromaver.eu/posts/rebelot/cleanrhizo_eng/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2026" class="csl-entry quarto-appendix-citeas">
+Maver, Mauro. 2026. <span>“CleanRhizo: Cleaning Root Data Without
+Leaving Your Browser.”</span> July 21. <a href="https://www.mauromaver.eu/posts/rebelot/cleanrhizo_eng/">https://www.mauromaver.eu/posts/rebelot/cleanrhizo_eng/</a>.
+</div></div></section></div> ]]></description>
+  <category>apps</category>
+  <category>root biology</category>
+  <category>lab research</category>
+  <category>phenotyping</category>
+  <category>EN 🇬🇧</category>
+  <guid>https://www.mauromaver.eu/posts/rebelot/cleanrhizo_eng/</guid>
+  <pubDate>Mon, 20 Jul 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/rebelot/cleanrhizo_eng/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Feed RSS · Plant Science</title>
   <dc:creator>Mauro Maver</dc:creator>

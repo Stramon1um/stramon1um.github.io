@@ -1,0 +1,50 @@
+---
+title: "CleanRhizo: Cleaning Root Data Without Leaving Your Browser"
+description: "A free, browser-based tool to clean and explore WinRhizo root morphology data."
+date: 2026-07-21
+categories: [apps, root biology, lab research, phenotyping, "EN 🇬🇧"]
+image: image.jpg
+lang: en
+---
+
+## Introduction
+
+Every WinRhizo[^1] scan session ends with a raw `.txt` file: dozens of columns, one row per scanned segment, with no built-in link between that row and a treatment or plant. Before any real analysis can happen, someone has to decode the sample names, assign treatments, and reshape the table — a step I've repeated for years, slightly differently each time, in whatever R script or spreadsheet happened to be open that day.
+
+**CleanRhizo** is my attempt to stop repeating it from scratch every time.
+
+[^1]: WinRHIZO is a root image analysis system developed by [Regent Instruments Inc.](https://regent.qc.ca/assets/winrhizo_about.html) (Québec, Canada).
+
+## The Need It Covers
+
+Root morphology software like WinRhizo measures roots very well, but it knows nothing about your experimental design. That part is entirely up to the user, decided the moment each sample is named during the analysis: if treatment and replicate are meant to become separate columns later, that information has to be encoded in the sample name itself (something like `CTR_1.2`), following a consistent format, every time.
+
+This is exactly what CleanRhizo relies on: it decodes treatment and replicate automatically from the sample name, provided it follows one of a small set of standard naming formats the app offers. In other words, using CleanRhizo effectively starts one step earlier than opening it — at the moment samples are named in WinRhizo.
+
+None of this requires anything sophisticated. It just requires doing the *same* careful, slightly boring work correctly, every time. That is exactly the kind of task worth automating once and reusing forever, rather than solving from scratch in every project folder.
+
+## What CleanRhizo Does
+
+CleanRhizo runs entirely in the browser, built with Shiny and deployed as a static site via Quarto and **WebR** — no installation, no account, no server. That last part matters: your data is processed locally and never leaves your device 🔒.
+
+Once you drop in a raw WinRhizo `.txt` file, the app:
+
+- lets you pick which columns to keep, instead of dragging dozens of them into a spreadsheet;
+- automatically decodes treatment names from sample IDs, including two-level designs (e.g. pot *and* plant);
+- falls back to manual, per-segment treatment assignment when sample names don't follow one of the supported formats, so no dataset is left unusable;
+- flags names that don't match the expected format, so mismatches surface before they turn into analysis mistakes.
+
+## The Outputs
+
+The point of cleaning data is to *use* it, so CleanRhizo produces exactly what I need next:
+
+- a tidy dataset, exportable in **wide or long format**, ready to drop into R, Python, or a spreadsheet;
+- exploratory **bar charts (mean ± SE)** with individual data points overlaid, so patterns are visible before any formal analysis;
+- a **300 dpi PNG** of that chart, downloadable with a click — handy for a quick lab meeting slide;
+- the whole interface in **English, Italian, Spanish, and French**, since not everyone in a shared lab reads the same language.
+
+## Try It
+
+CleanRhizo is free, open, and lives entirely in your browser -> [link](https://www.mauromaver.eu/CleanRhizo/CleanRhizo.html). The first load can take a few seconds while the browser sets up the R environment behind the scenes — no need to refresh, just wait it out.
+
+If you work with WinRhizo output and have ever lost twenty minutes to a stray underscore in a sample name, it might save you the trouble.
