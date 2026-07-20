@@ -2,9 +2,12 @@
 title: "CleanRhizo: Cleaning Root Data Without Leaving Your Browser"
 description: "A free, browser-based tool to clean and explore WinRhizo root morphology data."
 date: 2026-07-21
+google-scholar: true
 categories: [apps, root biology, lab research, phenotyping, "EN 🇬🇧"]
-image: image.jpg
+image: image.png
 lang: en
+order: 3
+css: style_rss.css
 ---
 
 ## Introduction
