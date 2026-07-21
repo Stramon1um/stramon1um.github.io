@@ -9,6 +9,10 @@ page-layout: full
 ::: {.column width=45%}
 
 ::: {.style style="font-size:16px;text-align:justify"}
+## 2026
+
+-   **Microbial echoes of resistance: PIWI grapevine genotypes shape rhizosphere microbiomes beyond the graft line.** Sangiorgio D, Fattorini R, Nadalini S, Rizzi S, Valentinuzzi F, *Maver M*, Zuluaga MYA, Mimmo T, Borruso L, Bani A, Randall KC, Dumbrell AJ, Signorini M, Astolfi S, Perazzolli M, Giovannini O, Pertot I, Cipriani G, Pii Y & Cesco S. 2026. *Rhizosphere*. [DOI](https://doi.org/10.1016/j.rhisph.2026.101424)
+
 ## 2025
 
 -   **Conjugated polymer nanoparticles boosting growth and photosynthesis in biohybrid plants.** Ciocca M, *Maver M*, Allarà C, Zanotelli D, Krik S, Orlando A, Ruhle T, Walz S, Figueroa Gonzalez T, Gentile G, Lavdas AA, Ibba P, Trevisan F, Milosz Z, Timpel M, Nardi MV, Pedrielli A, Gaiardo A, Lugli P, Cacialli F, Leister D, Mimmo T & Petti L. 2025. *Materials Horizons*. [DOI](https://doi.org/10.1039/D5MH00341E)
