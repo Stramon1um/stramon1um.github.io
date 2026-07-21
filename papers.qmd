@@ -1,14 +1,10 @@
 ---
 title: "Research Activity"
 format: html
-page-layout: full
+page-layout: article
 ---
 
-:::: {.columns}
-
-::: {.column width=45%}
-
-::: {.style style="font-size:16px;text-align:justify"}
+::: {.style style="font-size:20px;text-align:justify"}
 ## 2026
 
 -   **Microbial echoes of resistance: PIWI grapevine genotypes shape rhizosphere microbiomes beyond the graft line.** Sangiorgio D, Fattorini R, Nadalini S, Rizzi S, Valentinuzzi F, *Maver M*, Zuluaga MYA, Mimmo T, Borruso L, Bani A, Randall KC, Dumbrell AJ, Signorini M, Astolfi S, Perazzolli M, Giovannini O, Pertot I, Cipriani G, Pii Y & Cesco S. 2026. *Rhizosphere*. [DOI](https://doi.org/10.1016/j.rhisph.2026.101424)
@@ -20,7 +16,6 @@ page-layout: full
 -   **Harnessing algal biomass: superabsorbent and biostimulant hydrogels for seed germination in soilless cultivation.** Febo C, Ciocca M, *Maver M*, Mimmo T, Bouaicha O, Borruso L, Lugli P, Petti L, Athanassiou A & Merino D. 2025. *Advanced Electronic Materials*. [DOI](https://doi.org/10.1021/acsagscitech.4c00723)
 
 -   **Electronic nanomaterials for plants: a review on current advances and future prospects.** Allarà C, Ciccone G, Ciocca M, Vasquez S, Ibba P, *Maver M*, Mimmo T, Lugli P & Petti L. 2025. *Advanced Electronic Materials*. [DOI](https://doi.org/10.1002/aelm.202500080)
-
 
 ## 2024
 
@@ -65,67 +60,3 @@ page-layout: full
 -   **Three-dimensional reconstruction by TEM tomography of the ultrastructural modifications occurring in *Cucumis sativus* L. mitochondria under Fe deficiency.** Vigani G, Faoro F, Ferretti AM, Cantele F, Maffi D, Marelli M, *Maver M*, Murgia I & Zocchi G. 2015. *PLoS One*. [DOI](https://doi.org/10.1371/journal.pone.0129141)
 
 :::
-
-:::
-
-::: {.column width="3%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="23%"}
-
-::: {.style style="font-size:17px;text-align:left;line-height:175%"}
-
-## 📚 Teaching
-
-#### Teaching Assistant 
-
--   Biochemistry and physiology of agricultural plants
--   Chemistry of fertilizers and mineral nutrition of grapevine 
--   Mineral Nutrition
-
-## 🏆  Awards
-
-- *"Award for the Best Poster"*. 2014
-- *"Award for the Best PhD Thesis"*. 2022
-
-:::
-
-:::
-
-::: {.column width="3%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="23%"}
-
-::: {.style style="font-size:17px;text-align:left;line-height:175%"}
-
-## Skills
-
-#### 🖥️ Computational
-
--   Scientific computing with R and Qiime
--   HTML documents, websites, and reports with Rmarkdown/Quarto
--   Various bioinformatics tools for sequencing and taxonomy
--   Version control with Git
--   Basic programming in Python and LaTeX
-
-#### 🧪 Lab
-
--   Lab managment
--   Lab tecnhical support
--   Organizing & planning experiments
--   Hydroponic systems
--   HPLC-MS
--   DNA/RNA purification
--   PCR & Metabarcoding
--   Electrophoresis
--   Agar plating
--   Barley and Arabidopsis plants
-
-:::
-
-:::
-
-::::
