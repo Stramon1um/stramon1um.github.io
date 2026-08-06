@@ -1,0 +1,58 @@
+---
+title: "CleanEX: A Browser Tool for Dualex Leaf Optical Data"
+description: "Why I built a free, local, no-install tool to clean and explore Dualex leaf optical data, and what it actually produces."
+date: 2026-08-06
+google-scholar: true
+categories: [apps, Dualex, plant physiology, phenotyping, "EN 🇬🇧"]
+image: image.png
+lang: en
+order: 3
+css: style_rss.css
+---
+
+## Introduction
+
+The Dualex[^1] is a handheld optical sensor that measures chlorophyll (Chl), flavonoids (Flav), anthocyanins (Anth), and the nitrogen balance index (NBI) directly on intact leaves, non-destructively and in a matter of seconds. It is exactly the kind of tool that ends up being used a lot in plant physiology and field phenotyping experiments — quick, portable, and producing a lot of data per session.
+
+The problem is what happens *after* the session. The raw `.txt` export from the Dualex organizes measurements into numbered groups, but offers no direct link between those group numbers and the treatment names you had in mind when you were collecting data. You are left with a file that knows *what* was measured but not *why* — and bridging that gap involves several cleaning steps that have to be repeated every single time.
+
+**CleanEX** is the second tool in the Clean\* family, built specifically to handle that step.
+
+## The Need It Covers
+
+The Dualex does not export a clean, ready-to-use table. What you get is a `.txt` file with a non-standard structure: four header metadata lines at the top, a main column header on line five, and data from line six onwards — but interspersed with `#Groupe` comment blocks that appear between measurement groups and break any straightforward `read.csv()` call. On top of that, the file contains null bytes that need stripping before it can even be parsed, and the column names are terse and unexpressive (`groupe`, `mesure`, `jj/mm/aaaa`).
+
+Before any of the four parameters are usable, the file needs: null-byte removal, comment-block filtering, column renaming, and linking to a treatment structure that only exists in your field notebook. None of this is hard, but it adds up — and it has to be repeated from scratch every time, for every session.
+
+That is exactly the kind of friction worth automating once and reusing forever.
+
+## What CleanEX Does
+
+CleanEX runs entirely in the browser via **WebR** — no installation, no account, no server. Your data is processed locally and never leaves your device 🔒.
+
+Drop in a raw Dualex `.txt` file and the app:
+
+- parses the file correctly, stripping null bytes and skipping `#Groupe` comment blocks automatically;
+- renames terse column names to clean English equivalents (`groupe → group`, `mesure → measure`, `jj/mm/aaaa → date`);
+- lets you pick which columns to keep with a single click — the obvious candidates (GPS coordinates, `qual_sat`, `etal`) are excluded by default, but nothing is hidden;
+- displays a group-by-group treatment assignment interface: one text field per group, applied to all measurements within that group, with the group-level `measure` column preserved as the replicate identifier;
+- keeps the individual measure number (`measure`) intact, so the distinction between biological and technical replicates is maintained in the final file.
+
+## The Outputs
+
+Once the file is clean and treatments are assigned, CleanEX produces:
+
+- a tidy dataset in **wide or long format**, ready for R, Python, or a spreadsheet;
+- an optional **merge step** (Step 7): if you ran multiple sessions on the same experiment, you can load a previously exported CleanEX file in the same format and stack it on top of the current one with a single click — the app checks that the column structure matches before combining;
+- exploratory **bar charts (mean ± SE)** for Chl, Flav, Anth, and NBI, with individual data points overlaid and a 300 dpi PNG downloadable immediately;
+- the full interface in **English and Italian**.
+
+## Try It
+
+CleanEX is free, open, and lives entirely in your browser: [link](https://www.mauromaver.eu/CleanEX/CleanEX.html). If you use the Dualex regularly and have ever spent more time wrangling group numbers in a spreadsheet than actually thinking about your data, it will feel familiar.
+
+---
+
+*CleanEX is part of the Clean\* family of browser-based tools for plant phenotyping data. See also [CleanRhizo](https://www.mauromaver.eu/CleanRhizo/CleanRhizo.html) for WinRhizo root morphology data.*
+
+[^1]: Dualex is a product of [Metos](https://metos.global/en/dualex/).

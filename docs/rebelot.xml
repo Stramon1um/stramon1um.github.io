@@ -10,7 +10,88 @@
 <atom:link href="https://www.mauromaver.eu/rebelot.xml" rel="self" type="application/rss+xml"/>
 <description>A jumble of everything and nothing // Complete and utter chaos</description>
 <generator>quarto-1.9.31</generator>
-<lastBuildDate>Mon, 20 Jul 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>CleanEX: A Browser Tool for Dualex Leaf Optical Data</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/rebelot/cleanex_eng/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>The Dualex<sup>1</sup> is a handheld optical sensor that measures chlorophyll (Chl), flavonoids (Flav), anthocyanins (Anth), and the nitrogen balance index (NBI) directly on intact leaves, non-destructively and in a matter of seconds. It is exactly the kind of tool that ends up being used a lot in plant physiology and field phenotyping experiments — quick, portable, and producing a lot of data per session.</p>
+<p>The problem is what happens <em>after</em> the session. The raw <code>.txt</code> export from the Dualex organizes measurements into numbered groups, but offers no direct link between those group numbers and the treatment names you had in mind when you were collecting data. You are left with a file that knows <em>what</em> was measured but not <em>why</em> — and bridging that gap involves several cleaning steps that have to be repeated every single time.</p>
+<p><strong>CleanEX</strong> is the second tool in the Clean* family, built specifically to handle that step.</p>
+</section>
+<section id="the-need-it-covers" class="level2">
+<h2 class="anchored" data-anchor-id="the-need-it-covers">The Need It Covers</h2>
+<p>The Dualex does not export a clean, ready-to-use table. What you get is a <code>.txt</code> file with a non-standard structure: four header metadata lines at the top, a main column header on line five, and data from line six onwards — but interspersed with <code>#Groupe</code> comment blocks that appear between measurement groups and break any straightforward <code>read.csv()</code> call. On top of that, the file contains null bytes that need stripping before it can even be parsed, and the column names are terse and unexpressive (<code>groupe</code>, <code>mesure</code>, <code>jj/mm/aaaa</code>).</p>
+<p>Before any of the four parameters are usable, the file needs: null-byte removal, comment-block filtering, column renaming, and linking to a treatment structure that only exists in your field notebook. None of this is hard, but it adds up — and it has to be repeated from scratch every time, for every session.</p>
+<p>That is exactly the kind of friction worth automating once and reusing forever.</p>
+</section>
+<section id="what-cleanex-does" class="level2">
+<h2 class="anchored" data-anchor-id="what-cleanex-does">What CleanEX Does</h2>
+<p>CleanEX runs entirely in the browser via <strong>WebR</strong> — no installation, no account, no server. Your data is processed locally and never leaves your device 🔒.</p>
+<p>Drop in a raw Dualex <code>.txt</code> file and the app:</p>
+<ul>
+<li>parses the file correctly, stripping null bytes and skipping <code>#Groupe</code> comment blocks automatically;</li>
+<li>renames terse column names to clean English equivalents (<code>groupe → group</code>, <code>mesure → measure</code>, <code>jj/mm/aaaa → date</code>);</li>
+<li>lets you pick which columns to keep with a single click — the obvious candidates (GPS coordinates, <code>qual_sat</code>, <code>etal</code>) are excluded by default, but nothing is hidden;</li>
+<li>displays a group-by-group treatment assignment interface: one text field per group, applied to all measurements within that group, with the group-level <code>measure</code> column preserved as the replicate identifier;</li>
+<li>keeps the individual measure number (<code>measure</code>) intact, so the distinction between biological and technical replicates is maintained in the final file.</li>
+</ul>
+</section>
+<section id="the-outputs" class="level2">
+<h2 class="anchored" data-anchor-id="the-outputs">The Outputs</h2>
+<p>Once the file is clean and treatments are assigned, CleanEX produces:</p>
+<ul>
+<li>a tidy dataset in <strong>wide or long format</strong>, ready for R, Python, or a spreadsheet;</li>
+<li>an optional <strong>merge step</strong> (Step 7): if you ran multiple sessions on the same experiment, you can load a previously exported CleanEX file in the same format and stack it on top of the current one with a single click — the app checks that the column structure matches before combining;</li>
+<li>exploratory <strong>bar charts (mean ± SE)</strong> for Chl, Flav, Anth, and NBI, with individual data points overlaid and a 300 dpi PNG downloadable immediately;</li>
+<li>the full interface in <strong>English and Italian</strong>.</li>
+</ul>
+</section>
+<section id="try-it" class="level2">
+<h2 class="anchored" data-anchor-id="try-it">Try It</h2>
+<p>CleanEX is free, open, and lives entirely in your browser: <a href="https://www.mauromaver.eu/CleanEX/CleanEX.html">link</a>. If you use the Dualex regularly and have ever spent more time wrangling group numbers in a spreadsheet than actually thinking about your data, it will feel familiar.</p>
+<hr>
+<p><em>CleanEX is part of the Clean* family of browser-based tools for plant phenotyping data. See also <a href="https://www.mauromaver.eu/CleanRhizo/CleanRhizo.html">CleanRhizo</a> for WinRhizo root morphology data.</em></p>
+
+
+</section>
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Dualex is a product of <a href="https://metos.global/en/dualex/">Metos</a>.↩︎</p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2026 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{maver2026,
+  author = {Maver, Mauro},
+  title = {CleanEX: {A} {Browser} {Tool} for {Dualex} {Leaf} {Optical}
+    {Data}},
+  date = {2026-08-06},
+  url = {https://www.mauromaver.eu/posts/rebelot/cleanex_eng/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2026" class="csl-entry quarto-appendix-citeas">
+Maver, Mauro. 2026. <span>“CleanEX: A Browser Tool for Dualex Leaf
+Optical Data.”</span> August 6. <a href="https://www.mauromaver.eu/posts/rebelot/cleanex_eng/">https://www.mauromaver.eu/posts/rebelot/cleanex_eng/</a>.
+</div></div></section></div> ]]></description>
+  <category>apps</category>
+  <category>Dualex</category>
+  <category>plant physiology</category>
+  <category>phenotyping</category>
+  <category>EN 🇬🇧</category>
+  <guid>https://www.mauromaver.eu/posts/rebelot/cleanex_eng/</guid>
+  <pubDate>Wed, 05 Aug 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/rebelot/cleanex_eng/image.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>CleanRhizo: Cleaning Root Data Without Leaving Your Browser</title>
   <dc:creator>Mauro Maver</dc:creator>
