@@ -26,8 +26,6 @@ The Dualex[^1] is a handheld optical sensor that measures chlorophyll (Chl), fla
 
 The problem is what happens *after* the session. The raw `.txt` export from the Dualex organizes measurements into numbered groups, but offers no direct link between those group numbers and the treatment names you had in mind when you were collecting data. You are left with a file that knows *what* was measured but not *why* — and bridging that gap involves several cleaning steps that have to be repeated every single time.
 
-**CleanEX** is the second tool in the Clean\* family, built specifically to handle that step.
-
 ## The Need It Covers
 
 The Dualex does not export a clean, ready-to-use table. What you get is a `.txt` file with a non-standard structure: four header metadata lines at the top, a main column header on line five, and data from line six onwards — but interspersed with `#Groupe` comment blocks that appear between measurement groups and break any straightforward `read.csv()` call. On top of that, the file contains null bytes that need stripping before it can even be parsed, and the column names are terse and unexpressive (`groupe`, `mesure`, `jj/mm/aaaa`).

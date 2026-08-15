@@ -26,7 +26,6 @@
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>The Dualex<sup>1</sup> is a handheld optical sensor that measures chlorophyll (Chl), flavonoids (Flav), anthocyanins (Anth), and the nitrogen balance index (NBI) directly on intact leaves, non-destructively and in a matter of seconds. It is exactly the kind of tool that ends up being used a lot in plant physiology and field phenotyping experiments — quick, portable, and producing a lot of data per session.</p>
 <p>The problem is what happens <em>after</em> the session. The raw <code>.txt</code> export from the Dualex organizes measurements into numbered groups, but offers no direct link between those group numbers and the treatment names you had in mind when you were collecting data. You are left with a file that knows <em>what</em> was measured but not <em>why</em> — and bridging that gap involves several cleaning steps that have to be repeated every single time.</p>
-<p><strong>CleanEX</strong> is the second tool in the Clean* family, built specifically to handle that step.</p>
 </section>
 <section id="the-need-it-covers" class="level2">
 <h2 class="anchored" data-anchor-id="the-need-it-covers">The Need It Covers</h2>
