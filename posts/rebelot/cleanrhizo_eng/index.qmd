@@ -2,8 +2,18 @@
 title: "CleanRhizo: Cleaning Root Data Without Leaving Your Browser"
 description: "A free, browser-based tool to clean and explore WinRhizo root morphology data."
 date: 2026-07-21
+citation:
+  type: software
+  title: "CleanRhizo: a browser-based tool for WinRhizo root morphology data cleaning and exploration"
+  version: "1.0"
+  url: https://stramon1um.github.io/CleanRhizo
+  doi: "10.5281/zenodo.21894027"
+  issued: 2026
+  publisher: Zenodo
+  license: MIT
 google-scholar: true
-categories: [apps, root biology, lab research, phenotyping, "EN 🇬🇧"]
+doi: "10.5281/zenodo.21894027"
+categories: [apps, root biology, lab research, phenotyping, WinRhizo, "EN 🇬🇧"]
 image: image.png
 lang: en
 order: 3
@@ -51,3 +61,10 @@ The point of cleaning data is to *use* it, so CleanRhizo produces exactly what I
 CleanRhizo is free, open, and lives entirely in your browser -> [link](https://www.mauromaver.eu/CleanRhizo/CleanRhizo.html). The first load can take a few seconds while the browser sets up the R environment behind the scenes — no need to refresh, just wait it out.
 
 If you work with WinRhizo output and have ever lost twenty minutes to a stray underscore in a sample name, it might save you the trouble.
+
+::: {.callout-note icon=false}
+## 📄 Documentation & Citation
+A formal software note for CleanRhizo is available on Zenodo:  
+**DOI:** [10.5281/zenodo.21894027](https://doi.org/10.5281/zenodo.21894027)  
+If you use CleanRhizo in your work, please cite it using the DOI above.
+:::

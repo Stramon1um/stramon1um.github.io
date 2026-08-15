@@ -59,6 +59,21 @@
 <section id="try-it" class="level2">
 <h2 class="anchored" data-anchor-id="try-it">Try It</h2>
 <p>CleanEX is free, open, and lives entirely in your browser: <a href="https://www.mauromaver.eu/CleanEX/CleanEX.html">link</a>. If you use the Dualex regularly and have ever spent more time wrangling group numbers in a spreadsheet than actually thinking about your data, it will feel familiar.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>📄 Documentation &amp; Citation
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A formal software note for CleanEX is available on Zenodo:<br>
+<strong>DOI:</strong> <a href="https://doi.org/10.5281/zenodo.21894246">10.5281/zenodo.21894246</a><br>
+If you use CleanEX in your work, please cite it using the DOI above.</p>
+</div>
+</div>
 <hr>
 <p><em>CleanEX is part of the Clean* family of browser-based tools for plant phenotyping data. See also <a href="https://www.mauromaver.eu/CleanRhizo/CleanRhizo.html">CleanRhizo</a> for WinRhizo root morphology data.</em></p>
 
@@ -71,22 +86,26 @@
 <ol>
 <li id="fn1"><p>Dualex is a product of <a href="https://metos.global/en/dualex/">Metos</a>.↩︎</p></li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2026 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{maver2026,
+</section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2026 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@software{maver2026,
   author = {Maver, Mauro},
-  title = {CleanEX: {A} {Browser} {Tool} for {Dualex} {Leaf} {Optical}
-    {Data}},
-  date = {2026-08-06},
-  url = {https://www.mauromaver.eu/posts/rebelot/cleanex_eng/},
+  publisher = {Zenodo},
+  title = {CleanEX: A Browser-Based Tool for {Dualex} Leaf Optical Data
+    Cleaning and Exploration},
+  version = {1.0},
+  date = {2026},
+  url = {https://stramon1um.github.io/CleanEX},
+  doi = {10.5281/zenodo.21894246},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2026" class="csl-entry quarto-appendix-citeas">
-Maver, Mauro. 2026. <span>“CleanEX: A Browser Tool for Dualex Leaf
-Optical Data.”</span> August 6. <a href="https://www.mauromaver.eu/posts/rebelot/cleanex_eng/">https://www.mauromaver.eu/posts/rebelot/cleanex_eng/</a>.
+Maver, Mauro. 2026. <em>CleanEX: A Browser-Based Tool for Dualex Leaf
+Optical Data Cleaning and Exploration</em>. V. 1.0. Zenodo, released. <a href="https://doi.org/10.5281/zenodo.21894246">https://doi.org/10.5281/zenodo.21894246</a>.
 </div></div></section></div> ]]></description>
   <category>apps</category>
   <category>Dualex</category>
   <category>plant physiology</category>
   <category>phenotyping</category>
+  <category>Dualex</category>
   <category>EN 🇬🇧</category>
   <guid>https://www.mauromaver.eu/posts/rebelot/cleanex_eng/</guid>
   <pubDate>Wed, 05 Aug 2026 22:00:00 GMT</pubDate>
@@ -139,6 +158,21 @@ Optical Data.”</span> August 6. <a href="https://www.mauromaver.eu/posts/rebel
 <h2 class="anchored" data-anchor-id="try-it">Try It</h2>
 <p>CleanRhizo is free, open, and lives entirely in your browser -&gt; <a href="https://www.mauromaver.eu/CleanRhizo/CleanRhizo.html">link</a>. The first load can take a few seconds while the browser sets up the R environment behind the scenes — no need to refresh, just wait it out.</p>
 <p>If you work with WinRhizo output and have ever lost twenty minutes to a stray underscore in a sample name, it might save you the trouble.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>📄 Documentation &amp; Citation
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A formal software note for CleanRhizo is available on Zenodo:<br>
+<strong>DOI:</strong> <a href="https://doi.org/10.5281/zenodo.21894027">10.5281/zenodo.21894027</a><br>
+If you use CleanRhizo in your work, please cite it using the DOI above.</p>
+</div>
+</div>
 
 
 </section>
@@ -149,22 +183,27 @@ Optical Data.”</span> August 6. <a href="https://www.mauromaver.eu/posts/rebel
 <ol>
 <li id="fn1"><p>WinRHIZO is a root image analysis system developed by <a href="https://regent.qc.ca/assets/winrhizo_about.html">Regent Instruments Inc.</a> (Québec, Canada).↩︎</p></li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2026 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{maver2026,
+</section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2026 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@software{maver2026,
   author = {Maver, Mauro},
-  title = {CleanRhizo: {Cleaning} {Root} {Data} {Without} {Leaving}
-    {Your} {Browser}},
-  date = {2026-07-21},
-  url = {https://www.mauromaver.eu/posts/rebelot/cleanrhizo_eng/},
+  publisher = {Zenodo},
+  title = {CleanRhizo: A Browser-Based Tool for {WinRhizo} Root
+    Morphology Data Cleaning and Exploration},
+  version = {1.0},
+  date = {2026},
+  url = {https://stramon1um.github.io/CleanRhizo},
+  doi = {10.5281/zenodo.21894027},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2026" class="csl-entry quarto-appendix-citeas">
-Maver, Mauro. 2026. <span>“CleanRhizo: Cleaning Root Data Without
-Leaving Your Browser.”</span> July 21. <a href="https://www.mauromaver.eu/posts/rebelot/cleanrhizo_eng/">https://www.mauromaver.eu/posts/rebelot/cleanrhizo_eng/</a>.
+Maver, Mauro. 2026. <em>CleanRhizo: A Browser-Based Tool for WinRhizo
+Root Morphology Data Cleaning and Exploration</em>. V. 1.0. Zenodo,
+released. <a href="https://doi.org/10.5281/zenodo.21894027">https://doi.org/10.5281/zenodo.21894027</a>.
 </div></div></section></div> ]]></description>
   <category>apps</category>
   <category>root biology</category>
   <category>lab research</category>
   <category>phenotyping</category>
+  <category>WinRhizo</category>
   <category>EN 🇬🇧</category>
   <guid>https://www.mauromaver.eu/posts/rebelot/cleanrhizo_eng/</guid>
   <pubDate>Mon, 20 Jul 2026 22:00:00 GMT</pubDate>

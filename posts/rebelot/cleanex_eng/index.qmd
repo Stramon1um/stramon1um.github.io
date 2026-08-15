@@ -2,8 +2,18 @@
 title: "CleanEX: A Browser Tool for Dualex Leaf Optical Data"
 description: "Why I built a free, local, no-install tool to clean and explore Dualex leaf optical data, and what it actually produces."
 date: 2026-08-06
+citation:
+  type: software
+  title: "CleanEX: a browser-based tool for Dualex leaf optical data cleaning and exploration"
+  version: "1.0"
+  url: https://stramon1um.github.io/CleanEX
+  doi: "10.5281/zenodo.21894246"
+  issued: 2026
+  publisher: Zenodo
+  license: MIT
 google-scholar: true
-categories: [apps, Dualex, plant physiology, phenotyping, "EN 🇬🇧"]
+doi: "10.5281/zenodo.21894246"
+categories: [apps, Dualex, plant physiology, phenotyping, Dualex, "EN 🇬🇧"]
 image: image.png
 lang: en
 order: 3
@@ -51,8 +61,16 @@ Once the file is clean and treatments are assigned, CleanEX produces:
 
 CleanEX is free, open, and lives entirely in your browser: [link](https://www.mauromaver.eu/CleanEX/CleanEX.html). If you use the Dualex regularly and have ever spent more time wrangling group numbers in a spreadsheet than actually thinking about your data, it will feel familiar.
 
+::: {.callout-note icon=false}
+## 📄 Documentation & Citation
+A formal software note for CleanEX is available on Zenodo:  
+**DOI:** [10.5281/zenodo.21894246](https://doi.org/10.5281/zenodo.21894246)  
+If you use CleanEX in your work, please cite it using the DOI above.
+:::
+
 ---
 
 *CleanEX is part of the Clean\* family of browser-based tools for plant phenotyping data. See also [CleanRhizo](https://www.mauromaver.eu/CleanRhizo/CleanRhizo.html) for WinRhizo root morphology data.*
 
 [^1]: Dualex is a product of [Metos](https://metos.global/en/dualex/).
+
