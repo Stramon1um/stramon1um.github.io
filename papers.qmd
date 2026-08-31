@@ -7,7 +7,11 @@ page-layout: article
 ::: {.style style="font-size:18px;text-align:justify"}
 ## 2026
 
+- **CleanRhizo: a browser-based tool for WinRhizo root morphology data cleaning and exploration [Computer software]. ** *Maver M*. 2026. Zenodo. [DOI](https://doi.org/10.5281/zenodo.21894027)
+
 -   **Microbial echoes of resistance: PIWI grapevine genotypes shape rhizosphere microbiomes beyond the graft line.** Sangiorgio D, Fattorini R, Nadalini S, Rizzi S, Valentinuzzi F, *Maver M*, Zuluaga MYA, Mimmo T, Borruso L, Bani A, Randall KC, Dumbrell AJ, Signorini M, Astolfi S, Perazzolli M, Giovannini O, Pertot I, Cipriani G, Pii Y & Cesco S. 2026. *Rhizosphere*. [DOI](https://doi.org/10.1016/j.rhisph.2026.101424)
+
+- **CleanEX: a browser-based tool for Dualex leaf optical data cleaning and exploration [Computer software]** *Maver M*. 2026. Zenodo. [DOI](https://doi.org/10.5281/zenodo.21894246)
 
 ## 2025
 

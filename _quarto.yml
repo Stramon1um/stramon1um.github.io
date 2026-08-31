@@ -33,7 +33,7 @@ website:
       # - icon: rss
       #   href: omnia.xml
       # - text: "·"
-      - text: Rebelòt
+      - text: Blog
         href: rebelot.qmd
       - icon: rss
         href: rebelot.xml
