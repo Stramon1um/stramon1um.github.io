@@ -7,6 +7,8 @@ page-layout: article
 ::: {.style style="font-size:18px;text-align:justify"}
 ## 2026
 
+- **CleanSpeX: A Browser Tool for PlantEye Spectral Phenotyping Data [Computer software]. ** *Maver M*. 2026. Zenodo. [DOI](https://doi.org/10.5281/zenodo.23317334)
+
 - **Role of biocompatible metal–organic frameworks as a source of iron for plant growth under iron-deficient conditions.** Allarà C, Ciocca M, *Maver M*, Morales-Camara S, Horcajada P, Picchi DF, van de Meene A, Fournier-Level A, Lugli P, Rojas S, Mimmo T & Petti L. 2026. *Material Advances*. [DOI](https://doi.org/10.1039/d6ma00336b)
 
 

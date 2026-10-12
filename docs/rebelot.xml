@@ -10,7 +10,106 @@
 <atom:link href="https://www.mauromaver.eu/rebelot.xml" rel="self" type="application/rss+xml"/>
 <description>A jumble of everything and nothing // Complete and utter chaos</description>
 <generator>quarto-1.9.31</generator>
-<lastBuildDate>Wed, 05 Aug 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>CleanSpeX: A Browser Tool for PlantEye Spectral Phenotyping Data</title>
+  <dc:creator>Mauro Maver</dc:creator>
+  <link>https://www.mauromaver.eu/posts/rebelot/cleanspex_eng/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>The PlantEye F600<sup>1</sup> is a multispectral 3D scanner that measures plant canopy architecture and leaf optical properties non-destructively, on whole plants, in a matter of seconds. It is exactly the kind of instrument that ends up generating large volumes of data across an experiment — multiple scans per day, dozens of parameters per scan, across a bench of tens or hundreds of plants.</p>
+<p>The problem is what happens <em>after</em> the scans. The raw CSV exported from the PlantEye / HortControl software contains one row per individual scan event, which means that if a plant was scanned three times in a day, it appears three times in the file. Before any real analysis can begin, those repeated scans need to be aggregated to a single daily mean per plant — and then the 63 available parameters need to be filtered to those actually relevant to the experiment, and spatial outliers or malfunctioning pot positions need to be identified and excluded. All of this has to be done consistently, every time, for every dataset.</p>
+<p><strong>CleanSpeX</strong> is my attempt to stop doing it manually.</p>
+</section>
+<section id="the-need-it-covers" class="level2">
+<h2 class="anchored" data-anchor-id="the-need-it-covers">The Need It Covers</h2>
+<p>The PlantEye outputs a lot of information per scan — up to 63 parameters, split between morphological means and percentile distribution values — but it knows nothing about your experimental design. Treatments are assigned in the phenotyping platform, but aggregating scans, selecting parameters, and deciding which pot positions are trustworthy are entirely up to the user.</p>
+<p>The raw file has three structural issues that need resolving before analysis. First, multiple scans per day per plant must be collapsed to a daily mean — the natural unit for downstream analysis. Second, the 63-column parameter space includes percentile distributions (10th, 25th, 50th, 75th, 90th for every trait) that are rarely needed for every analysis and inflate file size considerably. Third, in a bench-based hydroponic or growth-chamber experiment, some pot positions may be malfunctioning, shadowed, or simply unreliable — and identifying them requires spatial context, not just a table of numbers.</p>
+<p>None of these steps is individually complex, but together they add up to a preprocessing pipeline that has to be repeated from scratch for every dataset. That is exactly the kind of task worth automating once and reusing forever.</p>
+</section>
+<section id="what-cleanspex-does" class="level2">
+<h2 class="anchored" data-anchor-id="what-cleanspex-does">What CleanSpeX Does</h2>
+<p>CleanSpeX runs entirely in the browser via <strong>WebR</strong> — no installation, no account, no server. Your data is processed locally and never leaves your device 🔒.</p>
+<p>Drop in a raw PlantEye CSV file and the app:</p>
+<ul>
+<li>aggregates multiple daily scans to a single daily mean per plant automatically;</li>
+<li>lets you select which of the 63 parameters to include — the 21 main morphological parameters are selected by default, with percentile distributions available on demand;</li>
+<li>displays an interactive <strong>SVG bench map</strong> of the experimental layout, where clicking a pot excludes or restores it from analysis — so spatial outliers can be identified and removed without touching the data file;</li>
+<li>plots a <strong>time-series chart</strong> of daily mean ± SE per treatment over the experiment period, with an optional confidence ribbon and adjustable date-range sliders;</li>
+<li>provides a <strong>boxplot panel</strong> for single-day distributions across pot positions per treatment, with optional jitter.</li>
+</ul>
+</section>
+<section id="the-outputs" class="level2">
+<h2 class="anchored" data-anchor-id="the-outputs">The Outputs</h2>
+<p>Once the data is aggregated, filtered, and spatially reviewed, CleanSpeX produces:</p>
+<ul>
+<li>a tidy dataset in <strong>wide or long format</strong>, ready for R, Python, or a spreadsheet;</li>
+<li>a downloadable <strong>cleaned CSV</strong> after the aggregation step, usable independently of the visualisation panels;</li>
+<li>the full interface in <strong>English, Italian, Spanish, and French</strong>.</li>
+</ul>
+</section>
+<section id="try-it" class="level2">
+<h2 class="anchored" data-anchor-id="try-it">Try It</h2>
+<p>CleanSpeX is free, open, and lives entirely in your browser: <a href="https://stramon1um.github.io/CleanSpeX">link</a>. The first load can take a few seconds while the browser sets up the R environment behind the scenes — no need to refresh, just wait it out.</p>
+<p>If you work with PlantEye data and have ever spent more time reshaping a scan export in R than actually looking at your plants, it might save you the trouble.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>📄 Documentation &amp; Citation
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A formal software note for CleanSpeX is available on Zenodo: <strong>DOI:</strong> <a href="https://doi.org/10.5281/zenodo.23317334">10.5281/zenodo.23317334</a> If you use CleanSpeX in your work, please cite it using the DOI above.</p>
+</div>
+</div>
+<hr>
+<p><em>CleanSpeX is part of the Clean* family of browser-based tools for plant phenotyping data. See also <a href="https://www.mauromaver.eu/CleanRhizo/CleanRhizo.html">CleanRhizo</a> for WinRhizo root morphology data and <a href="https://www.mauromaver.eu/CleanEX/CleanEX.html">CleanEX</a> for Dualex leaf optical data.</em></p>
+
+
+</section>
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>PlantEye F600 is a product of <a href="https://phenospex.com/products/plant-phenotyping/planteye-f600-multispectral-3d-scanner-for-plants/">Phenospex</a> (Heerlen, Netherlands).↩︎</p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-copyright"><h2 class="anchored quarto-appendix-heading">Copyright</h2><div class="quarto-appendix-contents"><div>© 2026 Mauro Maver | This work is licensed under CC BY-NC-SA 4.0</div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@software{maver2026,
+  author = {Maver, Mauro},
+  publisher = {Zenodo},
+  title = {CleanSpeX: A Browser-Based Tool for {PlantEye} Spectral
+    Phenotyping Data Cleaning and Exploration},
+  version = {1.0},
+  date = {2026},
+  url = {https://stramon1um.github.io/CleanSpeX},
+  doi = {10.5281/zenodo.23317334},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-maver2026" class="csl-entry quarto-appendix-citeas">
+Maver, Mauro. 2026. <em>CleanSpeX: A Browser-Based Tool for PlantEye
+Spectral Phenotyping Data Cleaning and Exploration</em>. V. 1.0. Zenodo,
+released. <a href="https://doi.org/10.5281/zenodo.23317334">https://doi.org/10.5281/zenodo.23317334</a>.
+</div></div></section></div> ]]></description>
+  <category>apps</category>
+  <category>plant phenotyping</category>
+  <category>spectral imaging</category>
+  <category>PlantEye</category>
+  <category>Phenospex</category>
+  <category>EN 🇬🇧</category>
+  <guid>https://www.mauromaver.eu/posts/rebelot/cleanspex_eng/</guid>
+  <pubDate>Sun, 11 Oct 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://www.mauromaver.eu/posts/rebelot/cleanspex_eng/image.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>CleanEX: A Browser Tool for Dualex Leaf Optical Data</title>
   <dc:creator>Mauro Maver</dc:creator>

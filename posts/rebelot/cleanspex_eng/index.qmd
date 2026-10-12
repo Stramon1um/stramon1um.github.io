@@ -1,0 +1,76 @@
+---
+title: "CleanSpeX: A Browser Tool for PlantEye Spectral Phenotyping Data"
+description: "Why I built a free, local, no-install tool to clean and explore multispectral 3D scanning data from the PlantEye F600, and what it actually produces."
+date: 2026-10-12
+citation:
+  type: software
+  title: "CleanSpeX: a browser-based tool for PlantEye spectral phenotyping data cleaning and exploration"
+  version: "1.0"
+  url: https://stramon1um.github.io/CleanSpeX
+  doi: "10.5281/zenodo.23317334"
+  issued: 2026
+  publisher: Zenodo
+  license: MIT
+google-scholar: true
+doi: "10.5281/zenodo.23317334"
+categories: [apps, plant phenotyping, spectral imaging, PlantEye, Phenospex, "EN 🇬🇧"]
+image: image.png
+lang: en
+order: 3
+css: style_rss.css
+---
+
+## Introduction
+
+The PlantEye F600[^1] is a multispectral 3D scanner that measures plant canopy architecture and leaf optical properties non-destructively, on whole plants, in a matter of seconds. It is exactly the kind of instrument that ends up generating large volumes of data across an experiment — multiple scans per day, dozens of parameters per scan, across a bench of tens or hundreds of plants.
+
+The problem is what happens *after* the scans. The raw CSV exported from the PlantEye / HortControl software contains one row per individual scan event, which means that if a plant was scanned three times in a day, it appears three times in the file. Before any real analysis can begin, those repeated scans need to be aggregated to a single daily mean per plant — and then the 63 available parameters need to be filtered to those actually relevant to the experiment, and spatial outliers or malfunctioning pot positions need to be identified and excluded. All of this has to be done consistently, every time, for every dataset.
+
+**CleanSpeX** is my attempt to stop doing it manually.
+
+[^1]: PlantEye F600 is a product of [Phenospex](https://phenospex.com/products/plant-phenotyping/planteye-f600-multispectral-3d-scanner-for-plants/) (Heerlen, Netherlands).
+
+## The Need It Covers
+
+The PlantEye outputs a lot of information per scan — up to 63 parameters, split between morphological means and percentile distribution values — but it knows nothing about your experimental design. Treatments are assigned in the phenotyping platform, but aggregating scans, selecting parameters, and deciding which pot positions are trustworthy are entirely up to the user.
+
+The raw file has three structural issues that need resolving before analysis. First, multiple scans per day per plant must be collapsed to a daily mean — the natural unit for downstream analysis. Second, the 63-column parameter space includes percentile distributions (10th, 25th, 50th, 75th, 90th for every trait) that are rarely needed for every analysis and inflate file size considerably. Third, in a bench-based hydroponic or growth-chamber experiment, some pot positions may be malfunctioning, shadowed, or simply unreliable — and identifying them requires spatial context, not just a table of numbers.
+
+None of these steps is individually complex, but together they add up to a preprocessing pipeline that has to be repeated from scratch for every dataset. That is exactly the kind of task worth automating once and reusing forever.
+
+## What CleanSpeX Does
+
+CleanSpeX runs entirely in the browser via **WebR** — no installation, no account, no server. Your data is processed locally and never leaves your device 🔒.
+
+Drop in a raw PlantEye CSV file and the app:
+
+- aggregates multiple daily scans to a single daily mean per plant automatically;
+- lets you select which of the 63 parameters to include — the 21 main morphological parameters are selected by default, with percentile distributions available on demand;
+- displays an interactive **SVG bench map** of the experimental layout, where clicking a pot excludes or restores it from analysis — so spatial outliers can be identified and removed without touching the data file;
+- plots a **time-series chart** of daily mean ± SE per treatment over the experiment period, with an optional confidence ribbon and adjustable date-range sliders;
+- provides a **boxplot panel** for single-day distributions across pot positions per treatment, with optional jitter.
+
+## The Outputs
+
+Once the data is aggregated, filtered, and spatially reviewed, CleanSpeX produces:
+
+- a tidy dataset in **wide or long format**, ready for R, Python, or a spreadsheet;
+- a downloadable **cleaned CSV** after the aggregation step, usable independently of the visualisation panels;
+- the full interface in **English, Italian, Spanish, and French**.
+
+## Try It
+
+CleanSpeX is free, open, and lives entirely in your browser: [link](https://stramon1um.github.io/CleanSpeX). The first load can take a few seconds while the browser sets up the R environment behind the scenes — no need to refresh, just wait it out.
+
+If you work with PlantEye data and have ever spent more time reshaping a scan export in R than actually looking at your plants, it might save you the trouble.
+
+::: {.callout-note icon=false}
+## 📄 Documentation & Citation
+A formal software note for CleanSpeX is available on Zenodo:
+**DOI:** [10.5281/zenodo.23317334](https://doi.org/10.5281/zenodo.23317334)
+If you use CleanSpeX in your work, please cite it using the DOI above.
+:::
+
+---
+
+*CleanSpeX is part of the Clean\* family of browser-based tools for plant phenotyping data. See also [CleanRhizo](https://www.mauromaver.eu/CleanRhizo/CleanRhizo.html) for WinRhizo root morphology data and [CleanEX](https://www.mauromaver.eu/CleanEX/CleanEX.html) for Dualex leaf optical data.*
